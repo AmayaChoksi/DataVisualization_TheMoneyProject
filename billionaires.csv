@@ -1,0 +1,2601 @@
+Rank ,Name,Networth,Age,Country,Industry,Latitude,Longitude
+1,Elon Musk ,219,50,United States,Automotive ,38.907192,-77.036873
+2,Jeff Bezos ,171,58,United States,Technology ,38.907192,-77.036873
+3,Bernard Arnault   ,158,73,France,Fashion & Retail ,48.856614,2.352222
+4,Bill Gates ,129,66,United States,Technology ,38.907192,-77.036873
+5,Warren Buffett ,118,91,United States,Finance & Investments ,38.907192,-77.036873
+6,Larry Page ,111,49,United States,Technology ,38.907192,-77.036873
+7,Sergey Brin ,107,48,United States,Technology ,38.907192,-77.036873
+8,Larry Ellison ,106,77,United States,Technology ,38.907192,-77.036873
+9,Steve Ballmer ,91.4,66,United States,Technology ,38.907192,-77.036873
+10,Mukesh Ambani ,90.7,64,India,diversified   ,28.613939,77.209021
+11,Gautam Adani   ,90,59,India,diversified   ,28.613939,77.209021
+12,Michael Bloomberg ,82,80,United States,Media & Entertainment ,38.907192,-77.036873
+13,Carlos Slim Helu   ,81.2,82,Mexico,Telecom ,19.432608,-99.133208
+14,Francoise Bettencourt Meyers   ,74.8,68,France,Fashion & Retail ,48.856614,2.352222
+15,Mark Zuckerberg ,67.3,37,United States,Technology ,38.907192,-77.036873
+16,Jim Walton ,66.2,73,United States,Fashion & Retail ,38.907192,-77.036873
+17,Zhong Shanshan ,65.7,67,China,Food & Beverage ,39.904211,116.407395
+18,Alice Walton ,65.3,72,United States,Fashion & Retail ,38.907192,-77.036873
+19,Rob Walton ,65,77,United States,Fashion & Retail ,38.907192,-77.036873
+19,Changpeng Zhao ,65,44,Canada,Finance & Investments ,38.907192,-77.036873
+21,Charles Koch ,60,86,United States,diversified   ,38.907192,-77.036873
+21,Julia Koch   ,60,59,United States,diversified   ,38.907192,-77.036873
+23,Amancio Ortega ,59.6,86,Spain,Fashion & Retail ,40.416775,-3.70379
+24,Michael Dell ,55.1,57,United States,Technology ,38.907192,-77.036873
+25,Zhang Yiming ,50,38,China,Media & Entertainment ,39.904211,116.407395
+26,David Thomson   ,49.2,64,Canada,Media & Entertainment ,38.907192,-77.036873
+27,Phil Knight   ,47.3,84,United States,Fashion & Retail ,38.907192,-77.036873
+28,Dieter Schwarz ,47.1,82,Germany,Fashion & Retail ,52.520007,13.404954
+29,Robin Zeng ,44.8,53,Hong Kong,Automotive ,22.396428,114.109497
+30,MacKenzie Scott ,43.6,51,United States,Technology ,38.907192,-77.036873
+31,Rodolphe Saadé   ,41.4,52,France,Logistics ,48.856614,2.352222
+32,François Pinault   ,40.4,85,France,Fashion & Retail ,48.856614,2.352222
+33,Klaus-Michael Kuehne ,37.3,84,Germany,Logistics ,52.520007,13.404954
+34,Ma Huateng ,37.2,50,China,Technology ,39.904211,116.407395
+35,Beate Heister & Karl Albrecht Jr.   ,36.8,64,Germany,Fashion & Retail ,52.520007,13.404954
+36,Giovanni Ferrero ,36.2,57,Italy,Food & Beverage ,41.902784,12.496366
+37,Li Ka-shing ,34.8,93,Hong Kong,diversified   ,22.396428,114.109497
+37,Stephen Schwarzman ,34.8,75,United States,Finance & Investments ,38.907192,-77.036873
+39,Lee Shau Kee ,32.6,94,Hong Kong,Real Estate ,22.396428,114.109497
+40,Len Blavatnik ,32.5,64,United States,diversified   ,38.907192,-77.036873
+41,Jacqueline Mars ,31.7,82,United States,Food & Beverage ,38.907192,-77.036873
+41,John Mars ,31.7,86,United States,Food & Beverage ,38.907192,-77.036873
+43,Alain Wertheimer ,31.2,73,France,Fashion & Retail ,48.856614,2.352222
+43,Gerard Wertheimer ,31.2,71,France,Fashion & Retail ,48.856614,2.352222
+45,German Larrea Mota Velasco   ,30.8,68,Mexico,Metals & Mining ,19.432608,-99.133208
+46,Gina Rinehart ,30.2,68,Australia,Metals & Mining ,-35.280937,149.130005
+47,Shiv Nadar ,28.7,76,India,Technology ,28.613939,77.209021
+48,Jim Simons ,28.6,83,United States,Finance & Investments ,38.907192,-77.036873
+49,He Xiangjian ,28.3,79,China,Manufacturing ,39.904211,116.407395
+50,Miriam Adelson ,27.5,76,United States,Gambling & Casinos ,38.907192,-77.036873
+51,Dietrich Mateschitz ,27.4,77,Austria,Food & Beverage ,48.208176,16.373819
+52,Leonardo Del Vecchio   ,27.3,86,Italy,Fashion & Retail ,41.902784,12.496366
+53,Ken Griffin ,27.2,53,United States,Finance & Investments ,38.907192,-77.036873
+54,Tadashi Yanai   ,26.1,73,Japan,Fashion & Retail ,35.709026,139.731992
+55,William Lei Ding ,25.2,50,China,Technology ,39.904211,116.407395
+56,Susanne Klatten ,24.3,59,Germany,Automotive ,52.520007,13.404954
+56,Cyrus Poonawalla ,24.3,80,India,Healthcare ,28.613939,77.209021
+56,Wang Wei ,24.3,51,China,Service ,39.904211,116.407395
+59,Qin Yinglin ,24.1,56,China,Food & Beverage ,39.904211,116.407395
+60,Sam Bankman-Fried ,24,30,United States,Finance & Investments ,38.907192,-77.036873
+61,Takemitsu Takizaki ,23.9,76,Japan,Manufacturing ,35.709026,139.731992
+62,Li Shufu ,23.7,58,China,Automotive ,39.904211,116.407395
+63,Emmanuel Besnier ,23.5,51,France,Food & Beverage ,48.856614,2.352222
+64,R. Budi Hartono ,23.2,81,Indonesia,Finance & Investments ,-6.208763,106.845599
+65,Leonard Lauder ,23.1,89,United States,Fashion & Retail ,38.907192,-77.036873
+66,Guillaume Pousaz ,23,40,Switzerland,Finance & Investments ,46.947974,7.447447
+67,Iris Fontbona   ,22.8,79,Chile,Metals & Mining ,-33.44889,-70.669265
+67,Jack Ma ,22.8,57,China,Technology ,39.904211,116.407395
+69,Michael Hartono ,22.3,82,Indonesia,Manufacturing ,-6.208763,106.845599
+70,Eric Schmidt ,22.1,66,United States,Technology ,38.907192,-77.036873
+71,Ray Dalio ,22,72,United States,Finance & Investments ,38.907192,-77.036873
+71,Daniel Gilbert ,22,60,United States,Finance & Investments ,38.907192,-77.036873
+73,"Thomas Frist, Jr.   ",21.8,83,United States,Healthcare ,38.907192,-77.036873
+74,Masayoshi Son ,21.3,64,Japan,Telecom ,35.709026,139.731992
+75,Abigail Johnson ,21.2,60,United States,Finance & Investments ,38.907192,-77.036873
+76,Rupert Murdoch   ,20.8,91,United States,Media & Entertainment ,38.907192,-77.036873
+77,Stefan Quandt ,20.7,55,Germany,Automotive ,52.520007,13.404954
+78,Jensen Huang ,20.6,59,United States,Technology ,38.907192,-77.036873
+79,Huang Shilin ,20.3,55,China,Automotive ,39.904211,116.407395
+80,Thomas Peterffy ,20.1,77,United States,Finance & Investments ,38.907192,-77.036873
+81,Radhakishan Damani ,20,67,India,Fashion & Retail ,28.613939,77.209021
+82,Pang Kang ,19.6,66,China,Food & Beverage ,39.904211,116.407395
+83,Wang Chuanfu ,19.5,56,China,Automotive ,39.904211,116.407395
+84,Reinhold Wuerth   ,19,86,Germany,Manufacturing ,52.520007,13.404954
+85,"Theo Albrecht, Jr.   ",18.7,71,Germany,Fashion & Retail ,52.520007,13.404954
+85,Yang Huiyan   ,18.7,40,China,Real Estate ,39.904211,116.407395
+87,Vladimir Lisin ,18.4,65,Russia,Metals & Mining ,55.755826,37.6173
+88,Fan Hongwei   ,18.2,55,China,Energy ,39.904211,116.407395
+89,Lakshmi Mittal ,17.9,71,India,Metals & Mining ,28.613939,77.209021
+90,Andrew Forrest ,17.8,60,Australia,Metals & Mining ,-35.280937,149.130005
+91,Jiang Rensheng   ,17.7,68,China,Healthcare ,39.904211,116.407395
+91,Savitri Jindal   ,17.7,72,India,Metals & Mining ,28.613939,77.209021
+91,Wang Wenyin ,17.7,54,China,Metals & Mining ,39.904211,116.407395
+94,Li Xiting ,17.6,71,Singapore,Healthcare ,1.280095,103.850949
+94,Stefan Persson ,17.6,74,Sweden,Fashion & Retail ,59.329323,18.068581
+96,Steve Cohen ,17.4,65,United States,Finance & Investments ,38.907192,-77.036873
+97,Vladimir Potanin ,17.3,61,Russia,Metals & Mining ,55.755826,37.6173
+98,Harold Hamm   ,17.2,76,United States,Energy ,38.907192,-77.036873
+99,Sun Piaoyang ,17.1,63,China,Healthcare ,39.904211,116.407395
+100,Luo Liguo   ,17,66,China,Manufacturing ,39.904211,116.407395
+100,Peter Woo ,17,75,Hong Kong,Real Estate ,22.396428,114.109497
+102,Gianluigi & Rafaela Aponte ,16.8,81,Switzerland,Logistics ,46.947974,7.447447
+103,David Tepper ,16.7,64,United States,Finance & Investments ,38.907192,-77.036873
+104,Renata Kellnerova   ,16.6,54,Czechia,Finance & Investments ,50.075538,14.4378
+104,"John Menard, Jr. ",16.6,82,United States,Fashion & Retail ,38.907192,-77.036873
+106,Kumar Birla ,16.5,54,India,diversified   ,28.613939,77.209021
+106,Carl Icahn ,16.5,86,United States,Finance & Investments ,38.907192,-77.036873
+106,Hank & Doug Meijer ,16.5,64,United States,Fashion & Retail ,38.907192,-77.036873
+106,Lukas Walton ,16.5,35,United States,Fashion & Retail ,38.907192,-77.036873
+110,Laurene Powell Jobs   ,16.4,58,United States,Technology ,38.907192,-77.036873
+111,James Ratcliffe ,16.3,69,United Kingdom,Manufacturing ,51.507351,-0.127758
+112,Donald Bren ,16.2,89,United States,Real Estate ,38.907192,-77.036873
+113,Xu Hang ,16.1,55,Hong Kong,Healthcare ,22.396428,114.109497
+114,Lu Xiangyang ,15.7,59,China,Automotive ,39.904211,116.407395
+115,Dilip Shanghvi ,15.6,66,India,Healthcare ,28.613939,77.209021
+116,Wei Jianjun   ,15.5,58,China,Automotive ,39.904211,116.407395
+117,Jorge Paulo Lemann   ,15.4,82,Brazil,Food & Beverage ,-15.794229,-47.882166
+117,Eyal Ofer ,15.4,71,Israel,diversified   ,32.0853,34.781768
+119,Mike Cannon-Brookes ,15.3,42,Australia,Technology ,-35.280937,149.130005
+119,Wu Yajun ,15.3,58,China,Real Estate ,39.904211,116.407395
+121,Charlene de Carvalho-Heineken   ,15.2,67,Netherlands,Food & Beverage ,52.370216,4.895168
+121,Michael Platt ,15.2,54,United Kingdom,Finance & Investments ,51.507351,-0.127758
+123,Pavel Durov ,15.1,37,Russia,Technology ,55.755826,37.6173
+123,Scott Farquhar ,15.1,42,Australia,Technology ,-35.280937,149.130005
+125,Pallonji Mistry ,15,92,Ireland,Construction & Engineering ,53.349805,-6.26031
+126,Dang Yanbao ,14.8,49,China,Metals & Mining ,39.904211,116.407395
+127,Robert Pera ,14.6,44,United States,Technology ,38.907192,-77.036873
+128,Donald Newhouse ,14.4,92,United States,Media & Entertainment ,38.907192,-77.036873
+129,Uday Kotak ,14.3,63,India,Finance & Investments ,28.613939,77.209021
+130,Aliko Dangote ,14,64,Nigeria,Manufacturing ,9.076479,7.398574
+130,Leonid Mikhelson ,14,66,Russia,Energy ,55.755826,37.6173
+132,Sunil Mittal   ,13.9,64,India,Telecom ,28.613939,77.209021
+133,Robert & Philip Ng ,13.7,64,Singapore,Real Estate ,1.280095,103.850949
+134,Liu Hanyuan ,13.65,58,China,Food & Beverage ,39.904211,116.407395
+135,Joseph Lau ,13.6,70,Hong Kong,Real Estate ,22.396428,114.109497
+135,Anders Holch Povlsen ,13.6,49,Denmark,Fashion & Retail ,55.676097,12.568337
+137,Dhanin Chearavanont ,13.5,82,Thailand,diversified   ,13.756331,100.501765
+138,Gong Hongjia   ,13.2,57,Hong Kong,Finance & Investments ,22.396428,114.109497
+138,Liu Yongxing ,13.2,73,China,Service ,39.904211,116.407395
+138,Alexey Mordashov ,13.2,56,Russia,Metals & Mining ,55.755826,37.6173
+138,Wang Jianlin ,13.2,67,China,Real Estate ,39.904211,116.407395
+142,David Duffield ,12.9,81,United States,Technology ,38.907192,-77.036873
+142,Li Zhenguo   ,12.9,54,China,Manufacturing ,39.904211,116.407395
+144,Harry Triguboff ,12.8,89,Australia,Real Estate ,-35.280937,149.130005
+144,Zhang Zhidong ,12.8,50,China,Technology ,39.904211,116.407395
+146,Chen Bang ,12.7,56,China,Healthcare ,39.904211,116.407395
+146,John Doerr ,12.7,70,United States,Technology ,38.907192,-77.036873
+146,Hinduja brothers ,12.7,64,United Kingdom,diversified   ,51.507351,-0.127758
+149,Kwong Siu-hing ,12.6,92,Hong Kong,Real Estate ,22.396428,114.109497
+150,Pei Zhenhua ,12.5,63,China,Energy ,39.904211,116.407395
+151,Ricardo Salinas Pliego   ,12.4,66,Mexico,Fashion & Retail ,19.432608,-99.133208
+152,Jim Pattison ,12.2,93,Canada,diversified   ,38.907192,-77.036873
+152,Charles Schwab ,12.2,84,United States,Finance & Investments ,38.907192,-77.036873
+154,Goh Cheng Liang ,12.1,94,Singapore,Manufacturing ,1.280095,103.850949
+154,Lin Jianhua   ,12.1,59,China,Manufacturing ,39.904211,116.407395
+156,Charoen Sirivadhanabhakdi ,12,77,Thailand,Food & Beverage ,13.756331,100.501765
+156,Jeff Yass ,12,63,United States,Finance & Investments ,38.907192,-77.036873
+158,John Fredriksen ,11.9,77,Cyprus,Logistics ,35.185566,33.382276
+158,Andreas Struengmann   ,11.9,72,Germany,Healthcare ,52.520007,13.404954
+158,Thomas Struengmann   ,11.9,72,Germany,Healthcare ,52.520007,13.404954
+161,Mikhail Fridman ,11.8,57,Russia,Energy ,55.755826,37.6173
+161,Sarath Ratanavadi ,11.8,56,Thailand,Energy ,13.756331,100.501765
+163,Robert Kuok ,11.7,98,Malaysia,diversified   ,3.139003,101.686855
+163,Lei Jun ,11.7,52,China,Technology ,39.904211,116.407395
+163,Zhang Congyuan ,11.7,74,Taiwan,Fashion & Retail ,25.032969,121.565418
+166,Lui Che Woo ,11.6,93,Hong Kong,Gambling & Casinos ,22.396428,114.109497
+167,Brian Chesky ,11.5,40,United States,Technology ,38.907192,-77.036873
+167,Israel Englander ,11.5,73,United States,Finance & Investments ,38.907192,-77.036873
+167,Dustin Moskovitz ,11.5,37,United States,Technology ,38.907192,-77.036873
+167,Alisher Usmanov ,11.5,68,Russia,Metals & Mining ,55.755826,37.6173
+171,Jay Chaudhry ,11.4,62,United States,Technology ,38.907192,-77.036873
+171,Anthony Pratt ,11.4,61,Australia,Manufacturing ,-35.280937,149.130005
+173,Colin Zheng Huang ,11.3,42,China,Technology ,39.904211,116.407395
+173,Jin Baofang ,11.3,69,China,Energy ,39.904211,116.407395
+173,Pierre Omidyar ,11.3,54,United States,Technology ,38.907192,-77.036873
+173,Gennady Timchenko ,11.3,69,Russia,Energy ,55.755826,37.6173
+177,Carl Cook ,11.1,59,United States,Healthcare ,38.907192,-77.036873
+177,Andrey Melnichenko ,11.1,50,Russia,Metals & Mining ,55.755826,37.6173
+179,Xing Wang ,11,43,China,Technology ,39.904211,116.407395
+180,Philip Anschutz ,10.9,82,United States,Finance & Investments ,38.907192,-77.036873
+180,David Cheriton ,10.9,71,Canada,Technology ,38.907192,-77.036873
+180,Alexander Otto ,10.9,54,Germany,Real Estate ,52.520007,13.404954
+183,Diane Hendricks ,10.7,75,United States,Construction & Engineering ,38.907192,-77.036873
+183,Stanley Kroenke ,10.7,74,United States,Sports ,38.907192,-77.036873
+185,Jerry Jones ,10.6,79,United States,Sports ,38.907192,-77.036873
+185,Quek Leng Chan ,10.6,80,Malaysia,diversified   ,3.139003,101.686855
+185,Eduardo Saverin ,10.6,40,Brazil,Technology ,-15.794229,-47.882166
+188,Vagit Alekperov ,10.5,71,Russia,Energy ,55.755826,37.6173
+188,Richard Liu ,10.5,48,China,Technology ,39.904211,116.407395
+188,Idan Ofer ,10.5,66,Israel,diversified   ,32.0853,34.781768
+191,Melker Schorling   ,10.4,74,Sweden,Finance & Investments ,59.329323,18.068581
+192,"Chase Coleman, III. ",10.3,46,United States,Finance & Investments ,38.907192,-77.036873
+192,Shuirong Li ,10.3,65,China,Manufacturing ,39.904211,116.407395
+192,Stefano Pessina ,10.3,80,Monaco,Fashion & Retail ,43.737411,7.420816
+192,Mikhail Prokhorov ,10.3,56,Russia,Finance & Investments ,55.755826,37.6173
+192,Marcel Herrmann Telles ,10.3,72,Brazil,Food & Beverage ,-15.794229,-47.882166
+197,Leon Black ,10,70,United States,Finance & Investments ,38.907192,-77.036873
+197,Joe Gebbia ,10,40,United States,Technology ,38.907192,-77.036873
+197,David Geffen ,10,79,United States,Media & Entertainment ,38.907192,-77.036873
+197,Yu Renrong ,10,56,China,Manufacturing ,39.904211,116.407395
+201,Andrew Beal ,9.9,69,United States,Finance & Investments ,38.907192,-77.036873
+201,George Kaiser ,9.9,79,United States,Energy ,38.907192,-77.036873
+201,Qi Shi   ,9.9,52,China,Technology ,39.904211,116.407395
+201,Luis Carlos Sarmiento ,9.9,89,Colombia,Finance & Investments ,4.710989,-74.072092
+201,Andreas von Bechtolsheim   ,9.9,66,Germany,Technology ,52.520007,13.404954
+206,Jan Koum ,9.8,46,United States,Technology ,38.907192,-77.036873
+206,Jorge Moll Filho   ,9.8,77,Brazil,Healthcare ,-15.794229,-47.882166
+206,Azim Premji ,9.8,76,India,Technology ,28.613939,77.209021
+206,Finn Rausing ,9.8,67,Sweden,Food & Beverage ,59.329323,18.068581
+206,Jorn Rausing ,9.8,62,Sweden,Food & Beverage ,59.329323,18.068581
+206,Kirsten Rausing ,9.8,69,Sweden,Food & Beverage ,59.329323,18.068581
+206,Wang Laisheng ,9.8,57,China,Technology ,39.904211,116.407395
+213,Tom & Judy Love ,9.7,64,United States,Fashion & Retail ,38.907192,-77.036873
+214,John Collison ,9.5,31,Ireland,Technology ,53.349805,-6.26031
+214,Patrick Collison ,9.5,33,Ireland,Technology ,53.349805,-6.26031
+214,Gordon Moore ,9.5,93,United States,Technology ,38.907192,-77.036873
+214,Wang Laichun ,9.5,54,China,Technology ,39.904211,116.407395
+218,Graeme Hart ,9.4,66,New Zealand,Finance & Investments ,-41.28646,174.776236
+218,Zheng Shuliang   ,9.4,76,China,Metals & Mining ,39.904211,116.407395
+220,Cao Renxian ,9.3,53,China,Energy ,39.904211,116.407395
+221,Nathan Blecharczyk ,9.2,38,United States,Technology ,38.907192,-77.036873
+221,James Dyson ,9.2,74,United Kingdom,Manufacturing ,51.507351,-0.127758
+223,Ivan Glasenberg ,9.1,65,Switzerland,Metals & Mining ,46.947974,7.447447
+223,Kim Beom-su ,9.1,56,South Korea,Technology ,37.566535,126.977969
+223,Jay Y. Lee ,9.1,53,South Korea,diversified   ,37.566535,126.977969
+223,Liu Yonghao   ,9.1,70,China,Service ,39.904211,116.407395
+227,Ann Walton Kroenke ,9,73,United States,Fashion & Retail ,38.907192,-77.036873
+227,Li Ping ,9,54,Hong Kong,Automotive ,22.396428,114.109497
+227,Eric Wittouck ,9,75,Belgium,Finance & Investments ,50.85034,4.35171
+230,Ian & Richard Livingstone ,8.9,64,United Kingdom,Real Estate ,51.507351,-0.127758
+230,Friedhelm Loh ,8.9,75,Germany,Manufacturing ,52.520007,13.404954
+230,Xavier Niel ,8.9,54,France,Telecom ,48.856614,2.352222
+230,Michael Otto ,8.9,78,Germany,Fashion & Retail ,52.520007,13.404954
+230,Johann Rupert   ,8.9,71,South Africa,Fashion & Retail ,-25.747868,28.229271
+235,Hui Ka Yan ,8.8,63,China,Real Estate ,39.904211,116.407395
+235,Pauline MacMillan Keinath ,8.8,88,United States,Food & Beverage ,38.907192,-77.036873
+235,"Herbert Kohler, Jr.   ",8.8,83,United States,Manufacturing ,38.907192,-77.036873
+235,Li Ge ,8.8,55,United States,Healthcare ,38.907192,-77.036873
+235,Kushal Pal Singh ,8.8,90,India,Real Estate ,28.613939,77.209021
+235,Zong Qinghou ,8.8,76,China,Food & Beverage ,39.904211,116.407395
+241,Cai Kui ,8.7,59,China,Real Estate ,39.904211,116.407395
+241,Charles Ergen ,8.7,69,United States,Media & Entertainment ,38.907192,-77.036873
+241,Gao Jifan   ,8.7,57,China,Energy ,39.904211,116.407395
+241,Bernard Marcus ,8.7,92,United States,Fashion & Retail ,38.907192,-77.036873
+241,Nicky Oppenheimer   ,8.7,76,South Africa,Metals & Mining ,-25.747868,28.229271
+246,Bajaj brothers ,8.6,64,India,diversified   ,28.613939,77.209021
+246,"Ernest Garcia, II. ",8.6,64,United States,Automotive ,38.907192,-77.036873
+246,Paul Xiaoming Lee   ,8.6,64,United States,Manufacturing ,38.907192,-77.036873
+246,George Soros ,8.6,91,United States,Finance & Investments ,38.907192,-77.036873
+246,Wang Liping   ,8.6,56,China,Manufacturing ,39.904211,116.407395
+251,Ernesto Bertarelli ,8.5,56,Switzerland,Healthcare ,46.947974,7.447447
+251,Tamara Gustavson ,8.5,60,United States,Service ,38.907192,-77.036873
+251,Carlos Alberto Sicupira   ,8.5,74,Brazil,Food & Beverage ,-15.794229,-47.882166
+254,Laurent Dassault ,8.4,68,France,diversified   ,48.856614,2.352222
+254,Thierry Dassault ,8.4,65,France,diversified   ,48.856614,2.352222
+254,Marie-Hélène Habert-Dassault ,8.4,57,France,diversified   ,48.856614,2.352222
+254,Liu Jincheng   ,8.4,57,China,Technology ,39.904211,116.407395
+254,Ma Jianrong   ,8.4,58,China,Fashion & Retail ,39.904211,116.407395
+254,Steven Rales ,8.4,71,United States,Manufacturing ,38.907192,-77.036873
+254,Joseph Tsai ,8.4,58,Canada,Technology ,38.907192,-77.036873
+254,Francine von Finck   ,8.4,64,Germany,Finance & Investments ,52.520007,13.404954
+254,Anthony von Mandl ,8.4,72,Canada,Food & Beverage ,38.907192,-77.036873
+263,Carl Bennet ,8.3,70,Sweden,Finance & Investments ,59.329323,18.068581
+263,Robert Kraft ,8.3,80,United States,Sports ,38.907192,-77.036873
+263,Chairul Tanjung ,8.3,59,Indonesia,diversified   ,-6.208763,106.845599
+263,Manuel Villar ,8.3,72,Philippines,Real Estate ,14.599512,120.98422
+267,Jean-Michel Besnier ,8.2,54,France,Food & Beverage ,48.856614,2.352222
+267,Marie Besnier Beauvalot ,8.2,41,France,Food & Beverage ,48.856614,2.352222
+267,Gustaf Douglas ,8.2,84,Sweden,diversified   ,59.329323,18.068581
+267,Kjeld Kirk Kristiansen ,8.2,74,Denmark,Manufacturing ,55.676097,12.568337
+267,Sofie Kirk Kristiansen ,8.2,46,Denmark,Manufacturing ,55.676097,12.568337
+267,Thomas Kirk Kristiansen ,8.2,43,Denmark,Manufacturing ,55.676097,12.568337
+267,Stephen Ross ,8.2,81,United States,Real Estate ,38.907192,-77.036873
+267,Agnete Kirk Thinggaard ,8.2,38,Denmark,Manufacturing ,55.676097,12.568337
+275,Marc Benioff ,8.1,57,United States,Technology ,38.907192,-77.036873
+275,Dmitri Bukhman ,8.1,36,Israel,Media & Entertainment ,32.0853,34.781768
+275,Igor Bukhman ,8.1,40,Israel,Media & Entertainment ,32.0853,34.781768
+275,Francis Choi ,8.1,74,Hong Kong,Real Estate ,22.396428,114.109497
+275,Murali Divi   ,8.1,71,India,Healthcare ,28.613939,77.209021
+275,Nancy Walton Laurie ,8.1,70,United States,Fashion & Retail ,38.907192,-77.036873
+275,Georg Schaeffler ,8.1,57,Germany,Automotive ,52.520007,13.404954
+275,Yao Liangsong ,8.1,57,China,Manufacturing ,39.904211,116.407395
+275,Zhong Huijuan ,8.1,61,China,Healthcare ,39.904211,116.407395
+284,Stewart & Lynda Resnick ,8,64,United States,Food & Beverage ,38.907192,-77.036873
+284,George Roberts ,8,78,United States,Finance & Investments ,38.907192,-77.036873
+284,Michael Rubin ,8,49,United States,Fashion & Retail ,38.907192,-77.036873
+284,Patrick Ryan ,8,84,United States,Finance & Investments ,38.907192,-77.036873
+288,Christopher Hohn ,7.9,55,United Kingdom,Finance & Investments ,51.507351,-0.127758
+288,Marijke Mars ,7.9,57,United States,Food & Beverage ,38.907192,-77.036873
+288,Pamela Mars ,7.9,61,United States,Food & Beverage ,38.907192,-77.036873
+288,Valerie Mars ,7.9,63,United States,Food & Beverage ,38.907192,-77.036873
+288,Victoria Mars ,7.9,65,United States,Food & Beverage ,38.907192,-77.036873
+288,Hasso Plattner   ,7.9,78,Germany,Technology ,52.520007,13.404954
+288,Georg Stumpf ,7.9,49,Austria,diversified   ,48.208176,16.373819
+288,Christy Walton ,7.9,73,United States,Fashion & Retail ,38.907192,-77.036873
+296,Giorgio Armani ,7.8,87,Italy,Fashion & Retail ,41.902784,12.496366
+296,Gopikishan Damani ,7.8,64,India,Fashion & Retail ,28.613939,77.209021
+296,Ding Shizhong   ,7.8,51,China,Fashion & Retail ,39.904211,116.407395
+296,Jim Kennedy ,7.8,74,United States,Media & Entertainment ,38.907192,-77.036873
+296,German Khan ,7.8,60,Russia,Energy ,55.755826,37.6173
+296,Liang Wengen ,7.8,65,China,Manufacturing ,39.904211,116.407395
+296,Blair Parry-Okeden ,7.8,71,United States,Media & Entertainment ,38.907192,-77.036873
+296,Tsai Eng-meng ,7.8,65,Taiwan,Food & Beverage ,25.032969,121.565418
+304,Bajaj siblings ,7.7,64,India,Automotive ,28.613939,77.209021
+304,Ashwin Dani   ,7.7,79,India,Manufacturing ,28.613939,77.209021
+304,Ding Shijia ,7.7,58,China,Fashion & Retail ,39.904211,116.407395
+304,Karel Komarek ,7.7,53,Czechia,Gambling & Casinos ,50.075538,14.4378
+304,Henry Kravis ,7.7,78,United States,Finance & Investments ,38.907192,-77.036873
+304,Frederik Paulsen ,7.7,71,Sweden,Healthcare ,59.329323,18.068581
+304,Safra siblings ,7.7,64,Brazil,Finance & Investments ,-15.794229,-47.882166
+304,Nassef Sawiris ,7.7,61,Egypt,Construction & Engineering ,30.04442,31.235712
+304,Xu Shihui ,7.7,64,China,Food & Beverage ,39.904211,116.407395
+313,Rahel Blocher ,7.6,46,Switzerland,Manufacturing ,46.947974,7.447447
+313,Shahid Khan ,7.6,71,United States,Automotive ,38.907192,-77.036873
+313,Magdalena Martullo-Blocher ,7.6,53,Switzerland,Manufacturing ,46.947974,7.447447
+316,Vincent Bolloré   ,7.5,70,France,Finance & Investments ,48.856614,2.352222
+316,Jeffery Hildebrand ,7.5,63,United States,Energy ,38.907192,-77.036873
+316,Michael Kim ,7.5,58,United States,Finance & Investments ,38.907192,-77.036873
+316,Richard Kinder ,7.5,77,United States,Energy ,38.907192,-77.036873
+316,David Shaw ,7.5,71,United States,Finance & Investments ,38.907192,-77.036873
+321,John Malone ,7.4,81,United States,Media & Entertainment ,38.907192,-77.036873
+321,Vicky Safra ,7.4,69,Greece,Finance & Investments ,37.983917,23.72936
+321,Tim Sweeney ,7.4,51,United States,Media & Entertainment ,38.907192,-77.036873
+324,Mike Adenuga ,7.3,68,Nigeria,diversified   ,9.076479,7.398574
+324,David Green   ,7.3,80,United States,Fashion & Retail ,38.907192,-77.036873
+324,"Paul Tudor Jones, II. ",7.3,67,United States,Finance & Investments ,38.907192,-77.036873
+324,Yuri Milner ,7.3,60,Israel,Finance & Investments ,32.0853,34.781768
+324,Henry Samueli ,7.3,67,United States,Technology ,38.907192,-77.036873
+324,Patrick Soon-Shiong ,7.3,69,United States,Healthcare ,38.907192,-77.036873
+330,Antonia Ax:son Johnson   ,7.2,78,Sweden,diversified   ,59.329323,18.068581
+330,Michael Kadoorie ,7.2,80,Hong Kong,Energy ,22.396428,114.109497
+330,Lin Shu-hong ,7.2,93,Taiwan,Manufacturing ,25.032969,121.565418
+330,Niels Peter Louis-Hansen ,7.2,74,Denmark,Healthcare ,55.676097,12.568337
+330,Reinhold Schmieding ,7.2,67,United States,Healthcare ,38.907192,-77.036873
+330,Wee Cho Yaw ,7.2,93,Singapore,Finance & Investments ,1.280095,103.850949
+336,Silvio Berlusconi   ,7.1,85,Italy,diversified   ,41.902784,12.496366
+336,Arthur Blank ,7.1,79,United States,Sports ,38.907192,-77.036873
+336,Qian Dongqi   ,7.1,64,China,Manufacturing ,39.904211,116.407395
+336,J. Christopher Reyes ,7.1,68,United States,Food & Beverage ,38.907192,-77.036873
+336,Jude Reyes ,7.1,66,United States,Food & Beverage ,38.907192,-77.036873
+336,Nik Storonsky ,7.1,37,United Kingdom,Finance & Investments ,51.507351,-0.127758
+336,Zhou Qunfei   ,7.1,52,Hong Kong,Technology ,22.396428,114.109497
+343,Deng Weiming   ,7,53,China,Manufacturing ,39.904211,116.407395
+343,Judy Faulkner ,7,78,United States,Technology ,38.907192,-77.036873
+343,Robin Li ,7,53,China,Technology ,39.904211,116.407395
+343,Carrie Perrodo   ,7,71,France,Energy ,48.856614,2.352222
+343,David Reuben ,7,83,United Kingdom,Real Estate ,51.507351,-0.127758
+343,Simon Reuben ,7,80,United Kingdom,diversified   ,51.507351,-0.127758
+343,Seo Jung-jin ,7,64,South Korea,Healthcare ,37.566535,126.977969
+350,Roman Abramovich ,6.9,55,Russia,diversified   ,55.755826,37.6173
+350,Micky Arison ,6.9,72,United States,Service ,38.907192,-77.036873
+350,Edythe Broad   ,6.9,86,United States,diversified   ,38.907192,-77.036873
+350,Terry Gou ,6.9,71,Taiwan,Technology ,25.032969,121.565418
+350,Jiang Bin ,6.9,55,China,Technology ,39.904211,116.407395
+350,Vinod Khosla ,6.9,67,United States,Technology ,38.907192,-77.036873
+350,Ralph Lauren ,6.9,82,United States,Fashion & Retail ,38.907192,-77.036873
+350,Douglas Leone ,6.9,64,United States,Finance & Investments ,38.907192,-77.036873
+350,Lucia Maggi   ,6.9,89,Brazil,diversified   ,-15.794229,-47.882166
+350,Horst Julius Pudwill ,6.9,77,Germany,Manufacturing ,52.520007,13.404954
+350,Abdulsamad Rabiu ,6.9,61,Nigeria,diversified   ,9.076479,7.398574
+350,Harry Stine ,6.9,80,United States,Food & Beverage ,38.907192,-77.036873
+350,Dennis Washington ,6.9,87,United States,Logistics ,38.907192,-77.036873
+363,Hasmukh Chudgar   ,6.8,88,India,Healthcare ,28.613939,77.209021
+363,Stanley Druckenmiller ,6.8,68,United States,Finance & Investments ,38.907192,-77.036873
+363,Jonathan Gray ,6.8,52,United States,Finance & Investments ,38.907192,-77.036873
+363,Kwon Hyuk-bin ,6.8,48,South Korea,Technology ,37.566535,126.977969
+363,Frank Lowy ,6.8,91,Australia,Real Estate ,-35.280937,149.130005
+363,Ronda Stryker ,6.8,67,United States,Healthcare ,38.907192,-77.036873
+369,Alejandro Bailleres Gual & siblings ,6.7,61,Mexico,diversified   ,19.432608,-99.133208
+369,Benu Gopal Bangur ,6.7,90,India,Manufacturing ,28.613939,77.209021
+369,James Goodnight ,6.7,79,United States,Technology ,38.907192,-77.036873
+369,Alain Merieux   ,6.7,84,France,Healthcare ,48.856614,2.352222
+369,Enrique Razon Jr. ,6.7,62,Philippines,Logistics ,14.599512,120.98422
+369,Robert F. Smith ,6.7,59,United States,Finance & Investments ,38.907192,-77.036873
+375,Brian Armstrong ,6.6,39,United States,Finance & Investments ,38.907192,-77.036873
+375,Dannine Avara ,6.6,58,United States,Energy ,38.907192,-77.036873
+375,Patrick Drahi ,6.6,58,France,Telecom ,48.856614,2.352222
+375,Scott Duncan ,6.6,39,United States,Energy ,38.907192,-77.036873
+375,Milane Frantz ,6.6,52,United States,Energy ,38.907192,-77.036873
+375,Andreas Halvorsen ,6.6,60,Norway,Finance & Investments ,59.913869,10.752245
+375,Law Kar Po ,6.6,73,Hong Kong,Real Estate ,22.396428,114.109497
+375,Nicolas Puech ,6.6,79,France,Fashion & Retail ,48.856614,2.352222
+375,Viktor Rashnikov ,6.6,73,Russia,Manufacturing ,55.755826,37.6173
+375,Dmitry Rybolovlev ,6.6,55,Russia,Manufacturing ,55.755826,37.6173
+375,Randa Duncan Williams ,6.6,60,United States,Energy ,38.907192,-77.036873
+386,Chen Jianhua ,6.5,51,China,Manufacturing ,39.904211,116.407395
+386,John Grayken ,6.5,65,Ireland,Finance & Investments ,53.349805,-6.26031
+386,Ray Lee Hunt ,6.5,78,United States,Energy ,38.907192,-77.036873
+386,Philippe Laffont ,6.5,54,United States,Finance & Investments ,38.907192,-77.036873
+386,"Henry Nicholas, III. ",6.5,62,United States,Technology ,38.907192,-77.036873
+386,Axel Oberwelland & siblings ,6.5,55,Germany,Food & Beverage ,52.520007,13.404954
+386,Cliff Obrecht ,6.5,36,Australia,Technology ,-35.280937,149.130005
+386,John Overdeck ,6.5,52,United States,Finance & Investments ,38.907192,-77.036873
+386,Melanie Perkins ,6.5,34,Australia,Technology ,-35.280937,149.130005
+386,Ruan Hongliang   ,6.5,61,China,Manufacturing ,39.904211,116.407395
+386,David Siegel ,6.5,60,United States,Finance & Investments ,38.907192,-77.036873
+386,David Velez ,6.5,40,Colombia,Finance & Investments ,4.710989,-74.072092
+398,Juergen Blickle ,6.4,75,Germany,Manufacturing ,52.520007,13.404954
+398,Cheng Xue ,6.4,52,China,Food & Beverage ,39.904211,116.407395
+398,Jack Dangermond ,6.4,76,United States,Technology ,38.907192,-77.036873
+398,Jiang Weiping   ,6.4,67,China,Manufacturing ,39.904211,116.407395
+398,Takahisa Takahara ,6.4,60,Japan,Fashion & Retail ,35.709026,139.731992
+403,Orlando Bravo ,6.3,51,United States,Finance & Investments ,38.907192,-77.036873
+403,Hong Ra-hee ,6.3,76,South Korea,Technology ,37.566535,126.977969
+403,"Edward Johnson, IV. ",6.3,57,United States,Finance & Investments ,38.907192,-77.036873
+403,Li Xiaohua   ,6.3,60,China,Manufacturing ,39.904211,116.407395
+403,Sri Prakash Lohia ,6.3,69,Indonesia,Manufacturing ,-6.208763,106.845599
+403,Miao Hangen ,6.3,57,China,diversified   ,39.904211,116.407395
+403,Bobby Murphy ,6.3,33,United States,Technology ,38.907192,-77.036873
+403,Wu Jianshu ,6.3,58,Hong Kong,Automotive ,22.396428,114.109497
+411,Maria Asuncion Aramburuzabala   ,6.2,58,Mexico,Food & Beverage ,19.432608,-99.133208
+411,Melinda French Gates ,6.2,57,United States,Technology ,38.907192,-77.036873
+411,Bruce Kovner ,6.2,77,United States,Finance & Investments ,38.907192,-77.036873
+411,Pham Nhat Vuong ,6.2,53,Vietnam,diversified   ,21.027764,105.83416
+411,Michal Solowow ,6.2,59,Poland,Finance & Investments ,52.229676,21.012229
+411,Leonard Stern ,6.2,84,United States,Real Estate ,38.907192,-77.036873
+411,Stef Wertheimer   ,6.2,95,Israel,Manufacturing ,32.0853,34.781768
+418,Rocco Commisso ,6.1,72,United States,Telecom ,38.907192,-77.036873
+418,Jack Dorsey ,6.1,45,United States,Technology ,38.907192,-77.036873
+418,Lin Li ,6.1,58,China,Finance & Investments ,39.904211,116.407395
+418,George Lucas ,6.1,77,United States,Media & Entertainment ,38.907192,-77.036873
+418,Evan Spiegel ,6.1,31,United States,Technology ,38.907192,-77.036873
+418,Zhao Yan ,6.1,55,China,diversified   ,39.904211,116.407395
+424,Tom Gores ,6,57,United States,Finance & Investments ,38.907192,-77.036873
+424,Leo Koguan ,6,67,United States,Technology ,38.907192,-77.036873
+424,Alexei Kuzmichev ,6,59,Russia,Energy ,55.755826,37.6173
+424,Fredrik Lundberg ,6,70,Sweden,Real Estate ,59.329323,18.068581
+424,John Morris ,6,74,United States,Fashion & Retail ,38.907192,-77.036873
+424,Ivar Tollefsen ,6,60,Norway,Real Estate ,59.913869,10.752245
+424,"John, Alan & Bruce Wilson ",6,64,Australia,Fashion & Retail ,-35.280937,149.130005
+431,Stephen Bisciotti ,5.9,61,United States,Sports ,38.907192,-77.036873
+431,Mahendra Choksi   ,5.9,80,India,Manufacturing ,28.613939,77.209021
+431,Jian Jun ,5.9,58,China,Healthcare ,39.904211,116.407395
+431,Barry Lam ,5.9,72,Taiwan,Technology ,25.032969,121.565418
+431,Michael Moritz ,5.9,67,United States,Technology ,38.907192,-77.036873
+431,Teh Hong Piow ,5.9,92,Malaysia,Finance & Investments ,3.139003,101.686855
+431,Gary Wang ,5.9,28,United States,Finance & Investments ,38.907192,-77.036873
+438,Andre Esteves ,5.8,53,Brazil,Finance & Investments ,-15.794229,-47.882166
+438,Joshua Harris ,5.8,57,United States,Finance & Investments ,38.907192,-77.036873
+438,Rakesh Jhunjhunwala ,5.8,61,India,Finance & Investments ,28.613939,77.209021
+438,Ken Langone ,5.8,86,United States,Finance & Investments ,38.907192,-77.036873
+438,Ludwig Merckle ,5.8,57,Germany,Finance & Investments ,52.520007,13.404954
+438,Sandra Ortega Mera ,5.8,53,Spain,Fashion & Retail ,40.416775,-3.70379
+438,Terrence Pegula ,5.8,71,United States,Energy ,38.907192,-77.036873
+438,Karen Pritzker ,5.8,64,United States,Finance & Investments ,38.907192,-77.036873
+438,Mitchell Rales ,5.8,65,United States,Manufacturing ,38.907192,-77.036873
+438,Wolfgang Reimann ,5.8,69,Germany,Fashion & Retail ,52.520007,13.404954
+438,Matthias Reimann-Andersen ,5.8,57,Germany,Fashion & Retail ,52.520007,13.404954
+438,Stefan Reimann-Andersen ,5.8,58,Germany,Fashion & Retail ,52.520007,13.404954
+438,Renate Reimann-Haas ,5.8,70,Germany,Fashion & Retail ,52.520007,13.404954
+438,Ruan Liping ,5.8,58,Hong Kong,Manufacturing ,22.396428,114.109497
+438,Ruan Xueping ,5.8,50,Hong Kong,Manufacturing ,22.396428,114.109497
+438,Charles Simonyi ,5.8,73,United States,Technology ,38.907192,-77.036873
+438,John A. Sobrato   ,5.8,82,United States,Real Estate ,38.907192,-77.036873
+438,David Steward ,5.8,70,United States,Technology ,38.907192,-77.036873
+438,Radovan Vitek ,5.8,50,Czechia,Real Estate ,50.075538,14.4378
+438,Les Wexner   ,5.8,84,United States,Fashion & Retail ,38.907192,-77.036873
+438,Aloys Wobben ,5.8,70,Germany,Energy ,52.520007,13.404954
+438,Sam Zell ,5.8,80,United States,Real Estate ,38.907192,-77.036873
+460,Anthony Bamford   ,5.7,76,United Kingdom,Construction & Engineering ,51.507351,-0.127758
+460,Rainer Blickle ,5.7,74,Germany,Manufacturing ,52.520007,13.404954
+460,Clive Calder ,5.7,75,United Kingdom,Media & Entertainment ,51.507351,-0.127758
+460,Frits Goldschmeding ,5.7,88,Netherlands,Service ,52.370216,4.895168
+460,Ananda Krishnan ,5.7,84,Malaysia,Telecom ,3.139003,101.686855
+460,Joe Mansueto ,5.7,65,United States,Finance & Investments ,38.907192,-77.036873
+460,Odd Reitan   ,5.7,70,Norway,Fashion & Retail ,59.913869,10.752245
+460,Antony Ressler ,5.7,60,United States,Finance & Investments ,38.907192,-77.036873
+460,Tang Xiao'ou ,5.7,54,Hong Kong,Technology ,22.396428,114.109497
+460,Tse Ping ,5.7,70,China,Healthcare ,39.904211,116.407395
+460,Ken Xie ,5.7,59,United States,Technology ,38.907192,-77.036873
+471,Tilman Fertitta ,5.6,64,United States,Food & Beverage ,38.907192,-77.036873
+471,Prajogo Pangestu ,5.6,77,Indonesia,diversified   ,-6.208763,106.845599
+471,"Edward Roski, Jr. ",5.6,83,United States,Real Estate ,38.907192,-77.036873
+471,Teddy Sagi ,5.6,50,Israel,Gambling & Casinos ,32.0853,34.781768
+471,Thomas Straumann ,5.6,58,Switzerland,Healthcare ,46.947974,7.447447
+471,David Sun ,5.6,70,United States,Technology ,38.907192,-77.036873
+471,John Tu ,5.6,80,United States,Technology ,38.907192,-77.036873
+471,Erich Wesjohann   ,5.6,76,Germany,Food & Beverage ,52.520007,13.404954
+471,Xu Jinfu ,5.6,58,China,Manufacturing ,39.904211,116.407395
+480,Alexander Abramov ,5.5,63,Russia,Metals & Mining ,55.755826,37.6173
+480,Neil Bluhm ,5.5,84,United States,Real Estate ,38.907192,-77.036873
+480,Don Hankey ,5.5,78,United States,Finance & Investments ,38.907192,-77.036873
+480,Kwee brothers ,5.5,64,Singapore,Real Estate ,1.280095,103.850949
+480,Jane Lauder ,5.5,49,United States,Fashion & Retail ,38.907192,-77.036873
+480,Gwendolyn Sontheim Meyer ,5.5,60,United States,Food & Beverage ,38.907192,-77.036873
+480,John Reece ,5.5,65,United Kingdom,Manufacturing ,51.507351,-0.127758
+480,Eric Smidt ,5.5,62,United States,Fashion & Retail ,38.907192,-77.036873
+480,Viktor Vekselberg ,5.5,64,Russia,Energy ,55.755826,37.6173
+480,Ronald Wanek ,5.5,80,United States,Manufacturing ,38.907192,-77.036873
+490,Rene Benko ,5.4,45,Austria,Real Estate ,48.208176,16.373819
+490,John Brown ,5.4,87,United States,Healthcare ,38.907192,-77.036873
+490,Chen Zhiping ,5.4,46,China,Manufacturing ,39.904211,116.407395
+490,Andrew Currie ,5.4,66,United Kingdom,Manufacturing ,51.507351,-0.127758
+490,Jim Davis   ,5.4,78,United States,Manufacturing ,38.907192,-77.036873
+490,Charles Dolan   ,5.4,95,United States,Media & Entertainment ,38.907192,-77.036873
+490,Tom Golisano ,5.4,80,United States,Service ,38.907192,-77.036873
+490,Hui Wing Mau ,5.4,71,Hong Kong,Real Estate ,22.396428,114.109497
+490,Daniel Kretinsky ,5.4,46,Czechia,Energy ,50.075538,14.4378
+490,Massimiliana Landini Aleotti   ,5.4,79,Italy,Healthcare ,41.902784,12.496366
+490,Joe Lewis ,5.4,85,United Kingdom,Finance & Investments ,51.507351,-0.127758
+490,Li Chunan ,5.4,53,China,Manufacturing ,39.904211,116.407395
+490,Lin Muqin   ,5.4,58,China,Food & Beverage ,39.904211,116.407395
+490,Shigenobu Nagamori ,5.4,77,Japan,Manufacturing ,35.709026,139.731992
+490,Kjell Inge Rokke ,5.4,63,Norway,Logistics ,59.913869,10.752245
+490,Wang Wenjing ,5.4,57,China,Technology ,39.904211,116.407395
+490,Chris Xu ,5.4,38,China,Fashion & Retail ,39.904211,116.407395
+490,Samuel Yin ,5.4,71,Taiwan,diversified   ,25.032969,121.565418
+490,M.A. Yusuff Ali ,5.4,66,India,Fashion & Retail ,28.613939,77.209021
+509,Denise Coates ,5.3,54,United Kingdom,Gambling & Casinos ,51.507351,-0.127758
+509,Ken Fisher ,5.3,71,United States,Finance & Investments ,38.907192,-77.036873
+509,Peter Grogg ,5.3,80,Switzerland,Healthcare ,46.947974,7.447447
+509,Dietmar Hopp   ,5.3,81,Germany,Technology ,52.520007,13.404954
+509,Sumet Jiaravanon ,5.3,87,Thailand,diversified   ,13.756331,100.501765
+509,Nathan Kirsh ,5.3,90,Eswatini (Swaziland),Fashion & Retail ,-26.305448,31.136672
+509,Forrest Li ,5.3,44,Singapore,Media & Entertainment ,1.280095,103.850949
+509,Rudolf Maag ,5.3,76,Switzerland,Healthcare ,46.947974,7.447447
+509,Gary Rollins ,5.3,77,United States,Service ,38.907192,-77.036873
+509,Ugur Sahin ,5.3,56,Germany,Healthcare ,52.520007,13.404954
+509,Mark Scheinberg ,5.3,48,Canada,Gambling & Casinos ,38.907192,-77.036873
+509,Shen Guojun ,5.3,59,China,Fashion & Retail ,39.904211,116.407395
+509,Chip Wilson ,5.3,65,Canada,Fashion & Retail ,38.907192,-77.036873
+509,Zhang Yong ,5.3,51,Singapore,Food & Beverage ,1.280095,103.850949
+523,James Chambers ,5.2,64,United States,Media & Entertainment ,38.907192,-77.036873
+523,Chen Fashu ,5.2,61,China,Finance & Investments ,39.904211,116.407395
+523,Jaran Chiaravanont ,5.2,92,Thailand,diversified   ,13.756331,100.501765
+523,Ravi Jaipuria ,5.2,67,India,Food & Beverage ,28.613939,77.209021
+523,Koon Poh Keong ,5.2,60,Malaysia,Manufacturing ,3.139003,101.686855
+523,Li Liangbin ,5.2,54,China,Manufacturing ,39.904211,116.407395
+523,Liang Feng ,5.2,53,China,Manufacturing ,39.904211,116.407395
+523,Wolfgang Marguerre   ,5.2,80,Germany,Healthcare ,52.520007,13.404954
+523,Katharine Rayner ,5.2,77,United States,Media & Entertainment ,38.907192,-77.036873
+523,Carlos Rodriguez-Pastor ,5.2,62,Peru,Finance & Investments ,-12.046374,-77.042793
+523,Margaretta Taylor ,5.2,79,United States,Media & Entertainment ,38.907192,-77.036873
+523,You Xiaoping ,5.2,64,China,Manufacturing ,39.904211,116.407395
+523,Eric Yuan   ,5.2,52,United States,Technology ,38.907192,-77.036873
+536,Robert Bass ,5.1,74,United States,Energy ,38.907192,-77.036873
+536,Alexandre Behring ,5.1,55,Brazil,Finance & Investments ,-15.794229,-47.882166
+536,Chan Laiwa   ,5.1,81,China,Real Estate ,39.904211,116.407395
+536,Jeff Greene ,5.1,67,United States,Real Estate ,38.907192,-77.036873
+536,Montri Jiaravanont ,5.1,91,Thailand,diversified   ,13.756331,100.501765
+536,Charles B. Johnson ,5.1,89,United States,Finance & Investments ,38.907192,-77.036873
+536,Elizabeth Johnson ,5.1,58,United States,Finance & Investments ,38.907192,-77.036873
+536,Lin Bin ,5.1,54,United States,Technology ,38.907192,-77.036873
+536,Hiroshi Mikitani ,5.1,57,Japan,Fashion & Retail ,35.709026,139.731992
+536,Isaac Perlmutter ,5.1,79,United States,Media & Entertainment ,38.907192,-77.036873
+536,Michael Pieper ,5.1,76,Switzerland,Manufacturing ,46.947974,7.447447
+536,Issad Rebrab   ,5.1,78,Algeria,Food & Beverage ,36.753769,3.058756
+536,Tsai Hong-tu ,5.1,69,Taiwan,Finance & Investments ,25.032969,121.565418
+536,Richard Tsai ,5.1,64,Taiwan,Finance & Investments ,25.032969,121.565418
+536,Wang Junshi   ,5.1,73,China,Manufacturing ,39.904211,116.407395
+536,Wang Yanqing   ,5.1,55,China,Manufacturing ,39.904211,116.407395
+552,Shari Arison ,5,64,Israel,Service ,32.0853,34.781768
+552,Alain Bouchard ,5,73,Canada,Fashion & Retail ,38.907192,-77.036873
+552,"Austen Cargill, II. ",5,71,United States,Food & Beverage ,38.907192,-77.036873
+552,"James Cargill, II. ",5,72,United States,Food & Beverage ,38.907192,-77.036873
+552,Ben Chestnut ,5,47,United States,Technology ,38.907192,-77.036873
+552,Wei Fang ,5,48,China,Manufacturing ,39.904211,116.407395
+552,Leonid Fedun ,5,66,Russia,Energy ,55.755826,37.6173
+552,Johann Graf ,5,75,Austria,Gambling & Casinos ,48.208176,16.373819
+552,Huang Chulong ,5,63,Canada,Real Estate ,38.907192,-77.036873
+552,Huang Yi ,5,60,Hong Kong,Automotive ,22.396428,114.109497
+552,Vladimir Kim ,5,61,Kazakhstan,Metals & Mining ,51.160523,71.470356
+552,Dan Kurzius ,5,50,United States,Technology ,38.907192,-77.036873
+552,Ronald Lauder ,5,78,United States,Fashion & Retail ,38.907192,-77.036873
+552,Marianne Liebmann ,5,68,United States,Food & Beverage ,38.907192,-77.036873
+552,Tobi Lutke ,5,41,Canada,Technology ,38.907192,-77.036873
+552,Thomas Pritzker ,5,71,United States,Finance & Investments ,38.907192,-77.036873
+552,Scott Shleifer ,5,44,United States,Finance & Investments ,38.907192,-77.036873
+552,Autry Stephens ,5,83,United States,Energy ,38.907192,-77.036873
+552,Peter Thiel ,5,54,United States,Finance & Investments ,38.907192,-77.036873
+552,Tsai Cheng-ta ,5,72,Taiwan,Finance & Investments ,25.032969,121.565418
+552,Maximilian Viessmann ,5,64,Germany,Manufacturing ,52.520007,13.404954
+552,Hansjoerg Wyss ,5,87,Switzerland,Healthcare ,46.947974,7.447447
+552,Xiao Yongming   ,5,57,China,diversified   ,39.904211,116.407395
+552,Zhang Tao ,5,49,China,Fashion & Retail ,39.904211,116.407395
+552,Daniel Ziff ,5,50,United States,Finance & Investments ,38.907192,-77.036873
+552,Dirk Ziff ,5,58,United States,Finance & Investments ,38.907192,-77.036873
+552,Robert Ziff ,5,55,United States,Finance & Investments ,38.907192,-77.036873
+579,Kapil & Rahul Bhatia ,4.9,64,India,Service ,28.613939,77.209021
+579,Mat Ishbia ,4.9,42,United States,Finance & Investments ,38.907192,-77.036873
+579,"Robert Rich, Jr. ",4.9,81,United States,Food & Beverage ,38.907192,-77.036873
+579,Thomas Schmidheiny ,4.9,76,Switzerland,Construction & Engineering ,46.947974,7.447447
+579,Alexandra Schoerghuber   ,4.9,63,Germany,Real Estate ,52.520007,13.404954
+579,Erik Selin ,4.9,54,Sweden,Real Estate ,59.329323,18.068581
+579,Daniel Tsai ,4.9,65,Taiwan,Finance & Investments ,25.032969,121.565418
+586,Dona Bertarelli ,4.8,54,Switzerland,Healthcare ,46.947974,7.447447
+586,Andrei Guriev   ,4.8,62,Russia,Manufacturing ,55.755826,37.6173
+586,Luciano Hang ,4.8,59,Brazil,Fashion & Retail ,-15.794229,-47.882166
+586,Hu Baifan ,4.8,59,China,Healthcare ,39.904211,116.407395
+586,Bidzina Ivanishvili ,4.8,66,Georgia,Finance & Investments ,41.715138,44.827096
+586,Yeow Chor & Yeow Seng Lee ,4.8,64,Malaysia,Food & Beverage ,3.139003,101.686855
+586,Leng Youbin ,4.8,53,China,Food & Beverage ,39.904211,116.407395
+586,Theo Mueller ,4.8,82,Germany,Food & Beverage ,52.520007,13.404954
+586,"Julian Robertson, Jr. ",4.8,89,United States,Finance & Investments ,38.907192,-77.036873
+586,Marc Rowan ,4.8,59,United States,Finance & Investments ,38.907192,-77.036873
+586,Emanuele (Lino) Saputo   ,4.8,85,Canada,Food & Beverage ,38.907192,-77.036873
+586,Jeff Skoll ,4.8,57,United States,Technology ,38.907192,-77.036873
+586,Frank Wang ,4.8,41,China,Technology ,39.904211,116.407395
+586,Wang Junlin ,4.8,59,China,Food & Beverage ,39.904211,116.407395
+586,Yang Shaopeng ,4.8,64,China,Logistics ,39.904211,116.407395
+601,Maria Fernanda Amorim   ,4.7,87,Portugal,diversified   ,38.722252,-9.139337
+601,Leonid Boguslavsky ,4.7,70,Russia,Finance & Investments ,55.755826,37.6173
+601,Richard Branson ,4.7,71,United Kingdom,diversified   ,51.507351,-0.127758
+601,Robert Brockman ,4.7,80,United States,Technology ,38.907192,-77.036873
+601,Pierre Chen ,4.7,65,Taiwan,Technology ,25.032969,121.565418
+601,Chu Mang Yee   ,4.7,62,China,Real Estate ,39.904211,116.407395
+601,Scott Cook ,4.7,69,United States,Technology ,38.907192,-77.036873
+601,Mark Cuban ,4.7,63,United States,Media & Entertainment ,38.907192,-77.036873
+601,Guenther Fielmann   ,4.7,82,Germany,Healthcare ,52.520007,13.404954
+601,Martin Haefner ,4.7,68,Switzerland,Technology ,46.947974,7.447447
+601,Johnelle Hunt ,4.7,90,United States,Logistics ,38.907192,-77.036873
+601,"Andre Koo, Sr. ",4.7,54,Taiwan,Finance & Investments ,25.032969,121.565418
+601,Lai Meisong ,4.7,51,China,Logistics ,39.904211,116.407395
+601,Richard Li ,4.7,55,Hong Kong,Telecom ,22.396428,114.109497
+601,Mangal Prabhat Lodha ,4.7,66,India,Real Estate ,28.613939,77.209021
+601,Igor Olenicoff ,4.7,79,United States,Real Estate ,38.907192,-77.036873
+601,Mark Shoen ,4.7,71,United States,Automotive ,38.907192,-77.036873
+601,Andrei Skoch   ,4.7,56,Russia,Metals & Mining ,55.755826,37.6173
+601,Fred Smith ,4.7,77,United States,Logistics ,38.907192,-77.036873
+601,Murat Ulker ,4.7,63,Turkey,Food & Beverage ,,
+601,Yu Yong ,4.7,61,China,Finance & Investments ,39.904211,116.407395
+622,Stéphane Bancel ,4.6,49,France,Healthcare ,48.856614,2.352222
+622,Bubba Cathy ,4.6,67,United States,Food & Beverage ,38.907192,-77.036873
+622,Dan Cathy ,4.6,69,United States,Food & Beverage ,38.907192,-77.036873
+622,Trudy Cathy White ,4.6,66,United States,Food & Beverage ,38.907192,-77.036873
+622,Jason Chang ,4.6,77,Singapore,Technology ,1.280095,103.850949
+622,Dagmar Dolby   ,4.6,80,United States,Technology ,38.907192,-77.036873
+622,Bruce Flatt ,4.6,56,Canada,Finance & Investments ,38.907192,-77.036873
+622,Masatoshi Ito ,4.6,97,Japan,Fashion & Retail ,35.709026,139.731992
+622,Viatcheslav Kantor ,4.6,68,Russia,Manufacturing ,55.755826,37.6173
+622,Min Kao   ,4.6,73,United States,Technology ,38.907192,-77.036873
+622,Lin Xiucheng   ,4.6,66,China,Technology ,39.904211,116.407395
+622,Sami Mnaymneh ,4.6,60,United States,Finance & Investments ,38.907192,-77.036873
+622,Tony Tamer ,4.6,64,United States,Finance & Investments ,38.907192,-77.036873
+622,Richard White ,4.6,67,Australia,Technology ,-35.280937,149.130005
+622,Baoguo Zhu   ,4.6,59,China,Healthcare ,39.904211,116.407395
+637,Michael Ashley ,4.5,57,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+637,Ron Baron ,4.5,78,United States,Finance & Investments ,38.907192,-77.036873
+637,Bert Beveridge ,4.5,60,United States,Food & Beverage ,38.907192,-77.036873
+637,Todd Boehly ,4.5,48,United States,Finance & Investments ,38.907192,-77.036873
+637,David Bonderman ,4.5,79,United States,Finance & Investments ,38.907192,-77.036873
+637,Guo Guangchang ,4.5,55,China,diversified   ,39.904211,116.407395
+637,Daryl Katz ,4.5,60,Canada,diversified   ,38.907192,-77.036873
+637,Ted Lerner   ,4.5,96,United States,Real Estate ,38.907192,-77.036873
+637,Falguni Nayar ,4.5,59,India,Fashion & Retail ,28.613939,77.209021
+637,Trevor Rees-Jones ,4.5,70,United States,Energy ,38.907192,-77.036873
+637,J. Joe Ricketts   ,4.5,80,United States,Finance & Investments ,38.907192,-77.036873
+637,Robert Rowling ,4.5,68,United States,Service ,38.907192,-77.036873
+637,Mark Stevens ,4.5,62,United States,Finance & Investments ,38.907192,-77.036873
+637,Gustav Magnar Witzoe ,4.5,28,Norway,Food & Beverage ,59.913869,10.752245
+637,Xie Liangzhi   ,4.5,56,China,Healthcare ,39.904211,116.407395
+637,Yeung Kin-man ,4.5,58,Hong Kong,Manufacturing ,22.396428,114.109497
+637,Zhang Hejun ,4.5,64,China,Manufacturing ,39.904211,116.407395
+654,Andrej Babis ,4.4,67,Czechia,Food & Beverage ,50.075538,14.4378
+654,Giuseppe De'Longhi   ,4.4,82,Italy,Fashion & Retail ,41.902784,12.496366
+654,Barry Diller ,4.4,80,United States,Media & Entertainment ,38.907192,-77.036873
+654,Christian Haub ,4.4,57,Germany,Fashion & Retail ,52.520007,13.404954
+654,Huang Li ,4.4,58,China,Technology ,39.904211,116.407395
+654,Marian Ilitch ,4.4,89,United States,Food & Beverage ,38.907192,-77.036873
+654,Suleiman Kerimov   ,4.4,56,Russia,Finance & Investments ,55.755826,37.6173
+654,Edwin Leong ,4.4,70,Hong Kong,Real Estate ,22.396428,114.109497
+654,Lu Yiwen ,4.4,35,China,Fashion & Retail ,39.904211,116.407395
+654,N.R. Narayana Murthy ,4.4,75,India,Technology ,28.613939,77.209021
+654,Yang Jianliang   ,4.4,52,China,Manufacturing ,39.904211,116.407395
+665,Pyotr Aven ,4.3,67,Russia,Finance & Investments ,55.755826,37.6173
+665,Joesley Batista ,4.3,50,Brazil,Food & Beverage ,-15.794229,-47.882166
+665,Wesley Batista ,4.3,49,Brazil,Food & Beverage ,-15.794229,-47.882166
+665,Margot Birmingham Perot ,4.3,88,United States,Technology ,38.907192,-77.036873
+665,Rick Caruso ,4.3,63,United States,Real Estate ,38.907192,-77.036873
+665,Jim Davis ,4.3,62,United States,Service ,38.907192,-77.036873
+665,Walter P.J. Droege ,4.3,69,Germany,Finance & Investments ,52.520007,13.404954
+665,Dan Friedkin ,4.3,57,United States,Automotive ,38.907192,-77.036873
+665,Gao Dekang   ,4.3,70,China,Fashion & Retail ,39.904211,116.407395
+665,Antti Herlin ,4.3,65,Finland,Manufacturing ,60.173324,24.941025
+665,W. Herbert Hunt ,4.3,93,United States,Energy ,38.907192,-77.036873
+665,Jason Jiang ,4.3,49,China,Media & Entertainment ,39.904211,116.407395
+665,"Rupert Johnson, Jr. ",4.3,81,United States,Finance & Investments ,38.907192,-77.036873
+665,Vikram Lal   ,4.3,80,India,Automotive ,28.613939,77.209021
+665,Lam Wai-ying ,4.3,64,Hong Kong,Manufacturing ,22.396428,114.109497
+665,Chris Larsen ,4.3,61,United States,Finance & Investments ,38.907192,-77.036873
+665,Richard Schulze ,4.3,81,United States,Fashion & Retail ,38.907192,-77.036873
+665,Paul Singer ,4.3,77,United States,Finance & Investments ,38.907192,-77.036873
+665,Barry Sternlicht ,4.3,61,United States,Finance & Investments ,38.907192,-77.036873
+665,Su Hua ,4.3,40,China,Media & Entertainment ,39.904211,116.407395
+665,Mark Walter ,4.3,61,United States,Finance & Investments ,38.907192,-77.036873
+665,Ty Warner ,4.3,77,United States,Real Estate ,38.907192,-77.036873
+687,Rinat Akhmetov ,4.2,55,Ukraine,Metals & Mining ,50.4501,30.5234
+687,Martin & Olivier Bouygues ,4.2,64,France,Construction & Engineering ,48.856614,2.352222
+687,Bernard Broermann ,4.2,78,Germany,Healthcare ,52.520007,13.404954
+687,Mong-Koo Chung ,4.2,84,South Korea,Automotive ,37.566535,126.977969
+687,Daniel D'Aniello ,4.2,75,United States,Finance & Investments ,38.907192,-77.036873
+687,Traudl Engelhorn   ,4.2,95,Germany,Healthcare ,52.520007,13.404954
+687,Piero Ferrari ,4.2,76,Italy,Automotive ,41.902784,12.496366
+687,Carlo Fidani ,4.2,67,Canada,Real Estate ,38.907192,-77.036873
+687,Yakir Gabay ,4.2,55,Cyprus,Real Estate ,35.185566,33.382276
+687,Jaime Gilinski Bacal ,4.2,64,Colombia,Finance & Investments ,4.710989,-74.072092
+687,Bertil Hult ,4.2,81,Sweden,Service ,59.329323,18.068581
+687,Martha Ingram   ,4.2,86,United States,Media & Entertainment ,38.907192,-77.036873
+687,Lee Yin Yee ,4.2,70,China,Manufacturing ,39.904211,116.407395
+687,Daniel Loeb ,4.2,60,United States,Finance & Investments ,38.907192,-77.036873
+687,Janice McNair ,4.2,85,United States,Sports ,38.907192,-77.036873
+687,Ajay Piramal ,4.2,66,India,Healthcare ,28.613939,77.209021
+687,Lynsi Snyder ,4.2,39,United States,Food & Beverage ,38.907192,-77.036873
+687,Peter Spuhler ,4.2,62,Switzerland,Manufacturing ,46.947974,7.447447
+687,Kerry Stokes ,4.2,81,Australia,diversified   ,-35.280937,149.130005
+687,Jon Stryker ,4.2,63,United States,Healthcare ,38.907192,-77.036873
+687,Vincent Viola ,4.2,66,United States,Finance & Investments ,38.907192,-77.036873
+687,Romesh T. Wadhwani ,4.2,74,United States,Technology ,38.907192,-77.036873
+709,Juan Domingo Beckmann Legorreta   ,4.1,54,Mexico,Food & Beverage ,19.432608,-99.133208
+709,Rafael Del Pino ,4.1,63,Spain,Construction & Engineering ,40.416775,-3.70379
+709,Sergey Dmitriev ,4.1,56,Russia,Technology ,55.755826,37.6173
+709,Senapathy Gopalakrishnan ,4.1,67,India,Technology ,28.613939,77.209021
+709,James Irving ,4.1,94,Canada,diversified   ,38.907192,-77.036873
+709,Lee Boo-jin ,4.1,51,South Korea,Service ,37.566535,126.977969
+709,Samuel Tak Lee ,4.1,82,Hong Kong,Real Estate ,22.396428,114.109497
+709,Thai Lee ,4.1,63,United States,Technology ,38.907192,-77.036873
+709,Eric Lefkofsky ,4.1,52,United States,Technology ,38.907192,-77.036873
+709,Weiguo Li ,4.1,57,China,Manufacturing ,39.904211,116.407395
+709,Ermirio Pereira de Moraes   ,4.1,89,Brazil,diversified   ,-15.794229,-47.882166
+709,Maria Helena Moraes Scripilliti   ,4.1,91,Brazil,diversified   ,-15.794229,-47.882166
+709,Augusto & Giorgio Perfetti ,4.1,64,Italy,Food & Beverage ,41.902784,12.496366
+709,Thomas Secunda ,4.1,67,United States,Media & Entertainment ,38.907192,-77.036873
+709,Shaul Shani ,4.1,67,Israel,Telecom ,32.0853,34.781768
+709,E. Joe Shoen ,4.1,72,United States,Automotive ,38.907192,-77.036873
+709,Steven Udvar-Hazy ,4.1,76,United States,Service ,38.907192,-77.036873
+709,Russ Weiner ,4.1,51,United States,Food & Beverage ,38.907192,-77.036873
+709,Guanjiang Wu   ,4.1,53,China,Healthcare ,39.904211,116.407395
+728,Anil Agarwal   ,4,68,India,Metals & Mining ,28.613939,77.209021
+728,Somphote Ahunai ,4,54,Thailand,Energy ,13.756331,100.501765
+728,Patrizio Bertelli ,4,76,Italy,Fashion & Retail ,41.902784,12.496366
+728,Rakesh Gangwal ,4,68,United States,Service ,38.907192,-77.036873
+728,Paul Gauselmann   ,4,87,Germany,Gambling & Casinos ,52.520007,13.404954
+728,Hao Hong ,4,66,United States,Healthcare ,38.907192,-77.036873
+728,He Xiaopeng ,4,44,China,Automotive ,39.904211,116.407395
+728,Michael Herz ,4,78,Germany,Fashion & Retail ,52.520007,13.404954
+728,Wolfgang Herz ,4,71,Germany,Fashion & Retail ,52.520007,13.404954
+728,Arthur Irving ,4,92,Canada,Energy ,38.907192,-77.036873
+728,Victor Jacobsson ,4,40,Sweden,Finance & Investments ,59.329323,18.068581
+728,Marc Ladreit de Lacharriere ,4,81,France,Finance & Investments ,48.856614,2.352222
+728,Patrick Lee ,4,80,Hong Kong,Manufacturing ,22.396428,114.109497
+728,Max Lytvyn ,4,42,Canada,Technology ,38.907192,-77.036873
+728,Gilles Martin ,4,58,France,Healthcare ,48.856614,2.352222
+728,Ramzi Musallam ,4,53,United States,Finance & Investments ,38.907192,-77.036873
+728,Georg Nemetschek   ,4,88,Germany,Technology ,52.520007,13.404954
+728,Akio Nitori ,4,78,Japan,Fashion & Retail ,35.709026,139.731992
+728,Daniel Och ,4,61,United States,Finance & Investments ,38.907192,-77.036873
+728,Pankaj Patel ,4,69,India,Healthcare ,28.613939,77.209021
+728,John Paulson ,4,66,United States,Finance & Investments ,38.907192,-77.036873
+728,Miuccia Prada ,4,72,Italy,Fashion & Retail ,41.902784,12.496366
+728,Jean (Gigi) Pritzker ,4,59,United States,Service ,38.907192,-77.036873
+728,Juan Roig ,4,72,Spain,Fashion & Retail ,40.416775,-3.70379
+728,David Rubenstein ,4,72,United States,Finance & Investments ,38.907192,-77.036873
+728,Howard Schultz ,4,68,United States,Food & Beverage ,38.907192,-77.036873
+728,Alex Shevchenko ,4,42,Canada,Technology ,38.907192,-77.036873
+728,Dan Snyder ,4,57,United States,Sports ,38.907192,-77.036873
+728,Jerzy Starak ,4,74,Poland,Healthcare ,52.229676,21.012229
+728,Udo & Harald Tschira ,4,64,Germany,Technology ,52.520007,13.404954
+728,Kelcy Warren ,4,66,United States,Energy ,38.907192,-77.036873
+728,Herbert Wertheim ,4,82,United States,Finance & Investments ,38.907192,-77.036873
+728,Cameron Winklevoss ,4,40,United States,Finance & Investments ,38.907192,-77.036873
+728,Tyler Winklevoss ,4,40,United States,Finance & Investments ,38.907192,-77.036873
+728,Denise York   ,4,71,United States,Sports ,38.907192,-77.036873
+728,Zhao Lixin ,4,56,China,Technology ,39.904211,116.407395
+764,Hubert Burda ,3.9,82,Germany,Media & Entertainment ,52.520007,13.404954
+764,Francesco Gaetano Caltagirone ,3.9,79,Italy,Construction & Engineering ,41.902784,12.496366
+764,Marcos Galperin ,3.9,64,Argentina,Technology ,-34.603683,-58.381557
+764,Li Xiang ,3.9,40,China,Automotive ,39.904211,116.407395
+764,"Stephen Mandel, Jr. ",3.9,66,United States,Finance & Investments ,38.907192,-77.036873
+764,Gabe Newell ,3.9,59,United States,Gambling & Casinos ,38.907192,-77.036873
+764,Maja Oeri ,3.9,67,Switzerland,Healthcare ,46.947974,7.447447
+764,Paolo & Gianfelice Mario Rocca ,3.9,64,Italy,Metals & Mining ,41.902784,12.496366
+764,Neil Shen ,3.9,54,China,Finance & Investments ,39.904211,116.407395
+764,Helmut Sohmen ,3.9,82,Austria,Logistics ,48.208176,16.373819
+764,Donald Sterling ,3.9,87,United States,Real Estate ,38.907192,-77.036873
+764,Don Vultaggio   ,3.9,70,United States,Food & Beverage ,38.907192,-77.036873
+764,Yiling Wu ,3.9,72,China,Healthcare ,39.904211,116.407395
+764,Gongshan Zhu ,3.9,64,China,Manufacturing ,39.904211,116.407395
+778,Gayle Benson ,3.8,75,United States,Sports ,38.907192,-77.036873
+778,"William Conway, Jr. ",3.8,72,United States,Finance & Investments ,38.907192,-77.036873
+778,Gurbachan Singh Dhingra ,3.8,71,India,Manufacturing ,28.613939,77.209021
+778,Kuldip Singh Dhingra ,3.8,74,India,Manufacturing ,28.613939,77.209021
+778,Luca Garavoglia ,3.8,53,Italy,Food & Beverage ,41.902784,12.496366
+778,Vinod & Anil Rai Gupta ,3.8,64,India,Manufacturing ,28.613939,77.209021
+778,Jimmy Haslam ,3.8,68,United States,Fashion & Retail ,38.907192,-77.036873
+778,Susan Carol Holland ,3.8,65,Italy,Manufacturing ,41.902784,12.496366
+778,Timur Kulibaev ,3.8,55,Kazakhstan,Finance & Investments ,51.160523,71.470356
+778,Dinara Kulibaeva ,3.8,54,Kazakhstan,Finance & Investments ,51.160523,71.470356
+778,Michel Leclercq   ,3.8,82,France,Fashion & Retail ,48.856614,2.352222
+778,Pablo Legorreta ,3.8,58,United States,Finance & Investments ,38.907192,-77.036873
+778,Margarita Louis-Dreyfus   ,3.8,59,Switzerland,Food & Beverage ,46.947974,7.447447
+778,Michael Milken ,3.8,75,United States,Finance & Investments ,38.907192,-77.036873
+778,Denis O'Brien ,3.8,63,Ireland,Telecom ,53.349805,-6.26031
+778,Katharina Otto-Bernstein ,3.8,58,Germany,Real Estate ,52.520007,13.404954
+778,James Packer ,3.8,54,Australia,Gambling & Casinos ,-35.280937,149.130005
+778,Sergio Stevanato   ,3.8,79,Italy,Healthcare ,41.902784,12.496366
+778,Leena Tewari ,3.8,64,India,Healthcare ,28.613939,77.209021
+778,Yitzhak Tshuva ,3.8,73,Israel,Real Estate ,32.0853,34.781768
+778,Paul-Heinz Wesjohann   ,3.8,78,Germany,Food & Beverage ,52.520007,13.404954
+778,Zeng Fangqin ,3.8,56,China,Technology ,39.904211,116.407395
+778,Zhou Bajin ,3.8,86,China,Manufacturing ,39.904211,116.407395
+801,William Berkley ,3.7,75,United States,Finance & Investments ,38.907192,-77.036873
+801,John Catsimatidis ,3.7,73,United States,Energy ,38.907192,-77.036873
+801,Che Jianxing ,3.7,55,China,Fashion & Retail ,39.904211,116.407395
+801,Gustavo Denegri ,3.7,85,Italy,Healthcare ,41.902784,12.496366
+801,Charles Edelstenne ,3.7,84,France,Manufacturing ,48.856614,2.352222
+801,Reed Hastings ,3.7,61,United States,Media & Entertainment ,38.907192,-77.036873
+801,"Amos Hostetter, Jr. ",3.7,85,United States,Media & Entertainment ,38.907192,-77.036873
+801,Brad Jacobs ,3.7,65,United States,Logistics ,38.907192,-77.036873
+801,Friedrich Knapp ,3.7,70,Germany,Fashion & Retail ,52.520007,13.404954
+801,William Lauder ,3.7,61,United States,Fashion & Retail ,38.907192,-77.036873
+801,Richard LeFrak   ,3.7,76,United States,Real Estate ,38.907192,-77.036873
+801,Li Guoqiang ,3.7,58,China,Automotive ,39.904211,116.407395
+801,Low Tuck Kwong ,3.7,73,Indonesia,Energy ,-6.208763,106.845599
+801,Akira Mori   ,3.7,85,Japan,Real Estate ,35.709026,139.731992
+801,Anthony Pritzker ,3.7,61,United States,Service ,38.907192,-77.036873
+801,Ira Rennert ,3.7,87,United States,Finance & Investments ,38.907192,-77.036873
+801,"Bernard Saul, II. ",3.7,89,United States,Finance & Investments ,38.907192,-77.036873
+801,Shi Yonghong   ,3.7,53,China,Food & Beverage ,39.904211,116.407395
+801,Song Chi-hyung ,3.7,43,South Korea,Finance & Investments ,37.566535,126.977969
+801,Steven Spielberg ,3.7,75,United States,Media & Entertainment ,38.907192,-77.036873
+801,Wong Luen Hei ,3.7,60,China,Manufacturing ,39.904211,116.407395
+822,Danielle Bellon   ,3.6,82,France,Service ,48.856614,2.352222
+822,Byju Raveendran and Divya Gokulnath ,3.6,40,India,Technology ,28.613939,77.209021
+822,Cho Tak Wong ,3.6,75,Hong Kong,Manufacturing ,22.396428,114.109497
+822,Charles Cohen ,3.6,70,United States,Real Estate ,38.907192,-77.036873
+822,Kenneth Dart ,3.6,66,Belize,Finance & Investments ,38.907192,-77.036873
+822,Martin Ebner ,3.6,76,Switzerland,Finance & Investments ,46.947974,7.447447
+822,David Filo ,3.6,55,United States,Technology ,38.907192,-77.036873
+822,Miguel Fluxa Rossello ,3.6,83,Spain,Service ,40.416775,-3.70379
+822,John Henry ,3.6,72,United States,Sports ,38.907192,-77.036873
+822,Hu Kaijun ,3.6,60,China,Healthcare ,39.904211,116.407395
+822,Peter Kellogg ,3.6,79,United States,Finance & Investments ,38.907192,-77.036873
+822,James Leprino ,3.6,84,United States,Food & Beverage ,38.907192,-77.036873
+822,Iskander Makhmudov ,3.6,58,Russia,Metals & Mining ,55.755826,37.6173
+822,Daniel Mate ,3.6,58,Spain,Metals & Mining ,40.416775,-3.70379
+822,Aristotelis Mistakidis ,3.6,60,Greece,Metals & Mining ,37.983917,23.72936
+822,Arturo Moreno ,3.6,75,United States,Sports ,38.907192,-77.036873
+822,Nan Cunhui ,3.6,58,China,Manufacturing ,39.904211,116.407395
+822,Julio Ponce Lerou ,3.6,76,Chile,Metals & Mining ,-33.44889,-70.669265
+822,J.B. Pritzker ,3.6,57,United States,Finance & Investments ,38.907192,-77.036873
+822,Chandru Raheja ,3.6,81,India,Real Estate ,28.613939,77.209021
+822,Rodger Riney   ,3.6,76,United States,Finance & Investments ,38.907192,-77.036873
+822,Shi Yuzhu ,3.6,59,China,diversified   ,39.904211,116.407395
+822,Zuowen Song ,3.6,75,China,diversified   ,39.904211,116.407395
+822,Jerry Speyer ,3.6,81,United States,Real Estate ,38.907192,-77.036873
+822,Julia Thiele-Schuerhoff ,3.6,50,Germany,Manufacturing ,52.520007,13.404954
+822,Tung Chee Chen ,3.6,79,Hong Kong,Logistics ,22.396428,114.109497
+822,Roger Wang ,3.6,73,United States,Fashion & Retail ,38.907192,-77.036873
+822,Wu Shaoxun ,3.6,66,China,Food & Beverage ,39.904211,116.407395
+822,Wenzhong Zhang ,3.6,60,China,Fashion & Retail ,39.904211,116.407395
+851,Chen Kaixuan ,3.5,63,China,Manufacturing ,39.904211,116.407395
+851,Beatriz Davila de Santo Domingo ,3.5,83,Colombia,Food & Beverage ,4.710989,-74.072092
+851,Antonio Del Valle Ruiz   ,3.5,83,Mexico,Manufacturing ,19.432608,-99.133208
+851,Carl Douglas ,3.5,60,Sweden,diversified   ,59.329323,18.068581
+851,Eric Douglas ,3.5,53,Sweden,diversified   ,59.329323,18.068581
+851,Jiangtao Du   ,3.5,52,China,Manufacturing ,39.904211,116.407395
+851,Juan Carlos Escotet ,3.5,62,Venezuela,Finance & Investments ,10.480594,-66.903606
+851,Fiona Geminder ,3.5,57,Australia,Manufacturing ,-35.280937,149.130005
+851,Yuhua Gu   ,3.5,72,China,Manufacturing ,39.904211,116.407395
+851,James Irsay ,3.5,62,United States,Sports ,38.907192,-77.036873
+851,Kuok Khoon Hong ,3.5,72,Singapore,Manufacturing ,1.280095,103.850949
+851,Aerin Lauder ,3.5,51,United States,Fashion & Retail ,38.907192,-77.036873
+851,Lee Seo-hyun ,3.5,48,South Korea,diversified   ,37.566535,126.977969
+851,Li Yongxin   ,3.5,46,China,Service ,39.904211,116.407395
+851,Jeffrey Lurie ,3.5,70,United States,Sports ,38.907192,-77.036873
+851,Mary Alice Dorrance Malone ,3.5,72,United States,Food & Beverage ,38.907192,-77.036873
+851,Ronald McAulay ,3.5,86,Hong Kong,Energy ,22.396428,114.109497
+851,Apoorva Mehta ,3.5,35,Canada,Technology ,38.907192,-77.036873
+851,Arnon Milchan ,3.5,77,Israel,Media & Entertainment ,32.0853,34.781768
+851,Masahiro Noda ,3.5,83,Japan,Technology ,35.709026,139.731992
+851,Maren Otto ,3.5,64,Germany,diversified   ,52.520007,13.404954
+851,Renzo Rosso   ,3.5,66,Italy,Fashion & Retail ,41.902784,12.496366
+851,Lynn Schusterman ,3.5,83,United States,Energy ,38.907192,-77.036873
+851,Gil Shwed ,3.5,53,Israel,Technology ,32.0853,34.781768
+851,Thomas Siebel ,3.5,69,United States,Technology ,38.907192,-77.036873
+851,Herb Simon ,3.5,87,United States,Real Estate ,38.907192,-77.036873
+851,Friede Springer ,3.5,79,Germany,Media & Entertainment ,52.520007,13.404954
+851,Wang Zhenhua ,3.5,60,China,Real Estate ,39.904211,116.407395
+851,Hans Peter Wild ,3.5,80,Switzerland,Food & Beverage ,46.947974,7.447447
+851,"William Wrigley, Jr. ",3.5,58,United States,Food & Beverage ,38.907192,-77.036873
+851,Xia Zuoquan ,3.5,60,China,Automotive ,39.904211,116.407395
+851,Xue Hua ,3.5,52,China,Manufacturing ,39.904211,116.407395
+883,Mohed Altrad ,3.4,74,France,Construction & Engineering ,48.856614,2.352222
+883,Sid Bass ,3.4,79,United States,Energy ,38.907192,-77.036873
+883,Nick Caporella ,3.4,86,United States,Food & Beverage ,38.907192,-77.036873
+883,Cheng Yixiao ,3.4,38,China,Media & Entertainment ,39.904211,116.407395
+883,Wesley Edens ,3.4,60,United States,Finance & Investments ,38.907192,-77.036873
+883,Behdad Eghbali ,3.4,45,United States,Finance & Investments ,38.907192,-77.036873
+883,Archie Aldis Emmerson   ,3.4,92,United States,Manufacturing ,38.907192,-77.036873
+883,Jose E. Feliciano ,3.4,48,United States,Finance & Investments ,38.907192,-77.036873
+883,Fu Liquan   ,3.4,54,China,Technology ,39.904211,116.407395
+883,David Gottesman ,3.4,95,United States,Finance & Investments ,38.907192,-77.036873
+883,Laurence Graff   ,3.4,83,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+883,Jeff T. Green ,3.4,45,United States,Media & Entertainment ,38.907192,-77.036873
+883,Jim Kavanaugh ,3.4,59,United States,Technology ,38.907192,-77.036873
+883,Steven Klinsky ,3.4,65,United States,Finance & Investments ,38.907192,-77.036873
+883,John Middleton ,3.4,67,United States,Food & Beverage ,38.907192,-77.036873
+883,Jerry Ng ,3.4,56,Indonesia,Finance & Investments ,-6.208763,106.845599
+883,Tengyun Nie   ,3.4,46,China,Service ,39.904211,116.407395
+883,Nandan Nilekani ,3.4,66,India,Technology ,28.613939,77.209021
+883,Bob Parsons ,3.4,71,United States,Technology ,38.907192,-77.036873
+883,Prasert Prasarttong-Osoth ,3.4,89,Thailand,Healthcare ,13.756331,100.501765
+883,Qiu Guanghe   ,3.4,70,China,Fashion & Retail ,39.904211,116.407395
+883,Richard Sands ,3.4,71,United States,Food & Beverage ,38.907192,-77.036873
+883,Robert Sands ,3.4,63,United States,Food & Beverage ,38.907192,-77.036873
+883,T. Denny Sanford ,3.4,86,United States,Finance & Investments ,38.907192,-77.036873
+883,Naguib Sawiris ,3.4,67,Egypt,Telecom ,30.04442,31.235712
+883,Pavel Tykac ,3.4,57,Czechia,Metals & Mining ,50.075538,14.4378
+883,Todd Wanek ,3.4,58,United States,Manufacturing ,38.907192,-77.036873
+883,Meg Whitman ,3.4,65,United States,Technology ,38.907192,-77.036873
+883,Michael Xie ,3.4,53,United States,Technology ,38.907192,-77.036873
+883,Chenghai Ye   ,3.4,78,Hong Kong,Healthcare ,22.396428,114.109497
+913,An Kang ,3.3,73,China,Healthcare ,39.904211,116.407395
+913,John Arnold ,3.3,48,United States,Finance & Investments ,38.907192,-77.036873
+913,Arun Bharat Ram ,3.3,81,India,Manufacturing ,28.613939,77.209021
+913,Tomasz Biernacki ,3.3,49,Poland,Fashion & Retail ,52.229676,21.012229
+913,Travis Boersma ,3.3,51,United States,Food & Beverage ,38.907192,-77.036873
+913,Chan Tan Ching-fen ,3.3,64,Hong Kong,Real Estate ,22.396428,114.109497
+913,Dongsheng Chen ,3.3,64,China,Finance & Investments ,39.904211,116.407395
+913,Jean Coutu   ,3.3,94,Canada,Fashion & Retail ,38.907192,-77.036873
+913,Ralph Dommermuth ,3.3,58,Germany,Technology ,52.520007,13.404954
+913,Walter Faria ,3.3,67,Brazil,Food & Beverage ,-15.794229,-47.882166
+913,Bob Gaglardi ,3.3,81,Canada,Real Estate ,38.907192,-77.036873
+913,John Gandel ,3.3,87,Australia,Real Estate ,-35.280937,149.130005
+913,Xuande Hua   ,3.3,78,China,Healthcare ,39.904211,116.407395
+913,Micky Jagtiani ,3.3,70,India,Fashion & Retail ,28.613939,77.209021
+913,H. Fisk Johnson ,3.3,63,United States,Manufacturing ,38.907192,-77.036873
+913,S. Curtis Johnson ,3.3,66,United States,Manufacturing ,38.907192,-77.036873
+913,Helen Johnson-Leipold ,3.3,65,United States,Manufacturing ,38.907192,-77.036873
+913,Miguel Krigsner ,3.3,72,Brazil,Fashion & Retail ,-15.794229,-47.882166
+913,Li Jianquan   ,3.3,65,Hong Kong,Healthcare ,22.396428,114.109497
+913,Lin Ming-hsiung ,3.3,72,Taiwan,Fashion & Retail ,25.032969,121.565418
+913,Winifred J. Marquart ,3.3,62,United States,Manufacturing ,38.907192,-77.036873
+913,Kiran Mazumdar-Shaw ,3.3,69,India,Healthcare ,28.613939,77.209021
+913,Patrice Motsepe ,3.3,60,South Africa,Metals & Mining ,-25.747868,28.229271
+913,Alfred Oetker ,3.3,55,Germany,Fashion & Retail ,52.520007,13.404954
+913,Carl Ferdinand Oetker ,3.3,49,Germany,Fashion & Retail ,52.520007,13.404954
+913,Julia Oetker ,3.3,43,Germany,Fashion & Retail ,52.520007,13.404954
+913,Or Wai Sheun ,3.3,70,Hong Kong,Real Estate ,22.396428,114.109497
+913,Jay Paul ,3.3,74,United States,Real Estate ,38.907192,-77.036873
+913,Horst Paulmann   ,3.3,87,Chile,Fashion & Retail ,-33.44889,-70.669265
+913,Theodore Rachmat ,3.3,78,Indonesia,diversified   ,-6.208763,106.845599
+913,John Sall ,3.3,74,United States,Technology ,38.907192,-77.036873
+913,Stefan von Holtzbrinck ,3.3,58,Germany,Media & Entertainment ,52.520007,13.404954
+913,Nusli Wadia ,3.3,78,India,Food & Beverage ,28.613939,77.209021
+913,Steve Wynn ,3.3,80,United States,Gambling & Casinos ,38.907192,-77.036873
+913,Yang Weidong   ,3.3,53,China,Manufacturing ,39.904211,116.407395
+913,Barry Zekelman ,3.3,55,Canada,Manufacturing ,38.907192,-77.036873
+913,Zhang Shilong   ,3.3,56,China,Technology ,39.904211,116.407395
+913,Zhong Ruonong   ,3.3,59,China,Manufacturing ,39.904211,116.407395
+951,Cameron Adams ,3.2,42,Australia,Technology ,-35.280937,149.130005
+951,Dongchen Cai ,3.2,69,China,Healthcare ,39.904211,116.407395
+951,Vanich Chaiyawan ,3.2,90,Thailand,Finance & Investments ,13.756331,100.501765
+951,Andrew & Peggy Cherng ,3.2,64,United States,Food & Beverage ,38.907192,-77.036873
+951,James Clark ,3.2,78,United States,Technology ,38.907192,-77.036873
+951,Jack Cowin ,3.2,79,Australia,Food & Beverage ,-35.280937,149.130005
+951,Giuseppe Crippa   ,3.2,86,Italy,Manufacturing ,41.902784,12.496366
+951,Sergei Galitsky ,3.2,54,Russia,Fashion & Retail ,55.755826,37.6173
+951,"Ernest Garcia, III ",3.2,39,United States,Automotive ,38.907192,-77.036873
+951,Peter Gilgan ,3.2,71,Canada,Construction & Engineering ,38.907192,-77.036873
+951,Joseph Grendys ,3.2,60,United States,Food & Beverage ,38.907192,-77.036873
+951,Thomas Hagen ,3.2,86,United States,Finance & Investments ,38.907192,-77.036873
+951,"Robert Hale, Jr. ",3.2,55,United States,Telecom ,38.907192,-77.036873
+951,Michael Hintze ,3.2,68,Australia,Finance & Investments ,-35.280937,149.130005
+951,Pansy Ho ,3.2,59,Hong Kong,Gambling & Casinos ,22.396428,114.109497
+951,Alan Howard ,3.2,58,United Kingdom,Finance & Investments ,51.507351,-0.127758
+951,Kei Hoi Pang ,3.2,56,China,Real Estate ,39.904211,116.407395
+951,Rudy Ma ,3.2,81,Taiwan,Finance & Investments ,25.032969,121.565418
+951,Najib Mikati ,3.2,66,Lebanon,Telecom ,33.888629,35.495479
+951,Taha Mikati ,3.2,77,Lebanon,Telecom ,33.888629,35.495479
+951,Gail Miller ,3.2,78,United States,Automotive ,38.907192,-77.036873
+951,Vikas Oberoi ,3.2,51,India,Real Estate ,28.613939,77.209021
+951,"H. Ross Perot, Jr. ",3.2,63,United States,Real Estate ,38.907192,-77.036873
+951,Candido Pinheiro Koren de Lima ,3.2,75,Brazil,Healthcare ,-15.794229,-47.882166
+951,Matthew Prince ,3.2,47,United States,Technology ,38.907192,-77.036873
+951,Penny Pritzker ,3.2,62,United States,Finance & Investments ,38.907192,-77.036873
+951,Yasumitsu Shigeta ,3.2,57,Japan,Telecom ,35.709026,139.731992
+951,Sebastian Siemiatkowski ,3.2,40,Sweden,Finance & Investments ,59.329323,18.068581
+951,Barry Silbert ,3.2,45,United States,Finance & Investments ,38.907192,-77.036873
+951,Daniel Sundheim ,3.2,45,United States,Finance & Investments ,38.907192,-77.036873
+951,Rita Tong Liu ,3.2,73,Hong Kong,Real Estate ,22.396428,114.109497
+951,Tran Dinh Long ,3.2,61,Vietnam,Manufacturing ,21.027764,105.83416
+951,Zhang Daocai ,3.2,72,China,diversified   ,39.904211,116.407395
+984,John Caudwell ,3.1,69,United Kingdom,Telecom ,51.507351,-0.127758
+984,Philippe Foriel-Destezet ,3.1,86,France,Service ,48.856614,2.352222
+984,Walter Frey ,3.1,78,Switzerland,Automotive ,46.947974,7.447447
+984,Alessandra Garavoglia ,3.1,62,Italy,Food & Beverage ,41.902784,12.496366
+984,Peter Gassner ,3.1,57,United States,Technology ,38.907192,-77.036873
+984,Mitchell Goldhar ,3.1,60,Canada,Real Estate ,38.907192,-77.036873
+984,Otto Happel ,3.1,74,Germany,Construction & Engineering ,52.520007,13.404954
+984,Peter Hargreaves ,3.1,75,United Kingdom,Finance & Investments ,51.507351,-0.127758
+984,Bom Kim ,3.1,43,United States,Technology ,38.907192,-77.036873
+984,Gaiteng Li ,3.1,49,China,Manufacturing ,39.904211,116.407395
+984,Liufa Li   ,3.1,64,China,diversified   ,39.904211,116.407395
+984,Lu Weiding ,3.1,51,China,diversified   ,39.904211,116.407395
+984,Harsh Mariwala ,3.1,70,India,Food & Beverage ,28.613939,77.209021
+984,Samir Mehta ,3.1,58,India,Healthcare ,28.613939,77.209021
+984,Sudhir Mehta ,3.1,67,India,Healthcare ,28.613939,77.209021
+984,Pawan Munjal   ,3.1,68,India,Automotive ,28.613939,77.209021
+984,Nguyen Thi Phuong Thao ,3.1,51,Vietnam,diversified   ,21.027764,105.83416
+984,Madhukar Parekh ,3.1,75,India,Manufacturing ,28.613939,77.209021
+984,Sergei Popov ,3.1,50,Russia,Finance & Investments ,55.755826,37.6173
+984,Haim Saban ,3.1,77,United States,Media & Entertainment ,38.907192,-77.036873
+984,Karthik Sarma ,3.1,47,India,Finance & Investments ,28.613939,77.209021
+984,Klaus-Peter Schulenberg ,3.1,70,Germany,Service ,52.520007,13.404954
+984,Pat Stryker ,3.1,65,United States,Healthcare ,38.907192,-77.036873
+984,Jeff Sutton ,3.1,62,United States,Real Estate ,38.907192,-77.036873
+984,Jon Yarbrough ,3.1,64,United States,Gambling & Casinos ,38.907192,-77.036873
+984,Gang Ye ,3.1,41,Singapore,Media & Entertainment ,1.280095,103.850949
+984,Yi Zheng ,3.1,51,China,Technology ,39.904211,116.407395
+984,Zhang Fan ,3.1,56,China,Technology ,39.904211,116.407395
+1012,William Ackman ,3,55,United States,Finance & Investments ,38.907192,-77.036873
+1012,Markus Blocher ,3,51,Switzerland,Manufacturing ,46.947974,7.447447
+1012,Neal Blue   ,3,87,United States,Manufacturing ,38.907192,-77.036873
+1012,Eva Maria Bucher-Haefner ,3,65,Switzerland,Technology ,46.947974,7.447447
+1012,Chang Kuo-Hua ,3,67,Taiwan,Logistics ,25.032969,121.565418
+1012,Todd Christopher ,3,59,United States,Fashion & Retail ,38.907192,-77.036873
+1012,Euisun Chung ,3,51,South Korea,Logistics ,37.566535,126.977969
+1012,Bernard Ecclestone   ,3,91,United Kingdom,Sports ,51.507351,-0.127758
+1012,Michael Federmann   ,3,78,Israel,Technology ,32.0853,34.781768
+1012,Gudrun Heine ,3,67,Germany,Healthcare ,52.520007,13.404954
+1012,Heidi Horten ,3,81,Austria,Fashion & Retail ,48.208176,16.373819
+1012,Dawen Huang ,3,61,Hong Kong,Manufacturing ,22.396428,114.109497
+1012,Sheldon Lavin ,3,89,United States,Food & Beverage ,38.907192,-77.036873
+1012,Li Min ,3,56,China,Technology ,39.904211,116.407395
+1012,Liang Yunchao ,3,53,China,Food & Beverage ,39.904211,116.407395
+1012,Joseph Liemandt ,3,53,United States,Technology ,38.907192,-77.036873
+1012,Strive Masiyiwa ,3,61,Zimbabwe,Telecom ,-17.825166,31.03351
+1012,Masahiro Miki ,3,66,Japan,Fashion & Retail ,35.709026,139.731992
+1012,Pan Laican ,3,64,China,Food & Beverage ,39.904211,116.407395
+1012,Karsanbhai Patel ,3,78,India,diversified   ,28.613939,77.209021
+1012,Arvind Poddar ,3,64,India,Automotive ,28.613939,77.209021
+1012,Remo Ruffini ,3,60,Italy,Fashion & Retail ,41.902784,12.496366
+1012,Eddy Kusnadi Sariaatmadja ,3,68,Indonesia,Media & Entertainment ,-6.208763,106.845599
+1012,Sybill Storz ,3,84,Germany,Healthcare ,52.520007,13.404954
+1012,Lawrence Stroll ,3,62,Canada,Fashion & Retail ,38.907192,-77.036873
+1012,Wijono & Hermanto Tanoko ,3,64,Indonesia,Manufacturing ,-6.208763,106.845599
+1012,Michael Tojner ,3,56,Austria,Manufacturing ,48.208176,16.373819
+1012,Donald Trump ,3,75,United States,Real Estate ,38.907192,-77.036873
+1012,Tsai Ming-kai ,3,71,Taiwan,Technology ,25.032969,121.565418
+1012,John Tyson ,3,68,United States,Food & Beverage ,38.907192,-77.036873
+1012,Rufino Vigil Gonzalez ,3,73,Mexico,Metals & Mining ,19.432608,-99.133208
+1012,Ning Wang   ,3,35,China,Media & Entertainment ,39.904211,116.407395
+1012,Wang Yusuo   ,3,58,China,Energy ,39.904211,116.407395
+1012,Zhigang Wu   ,3,87,China,Food & Beverage ,39.904211,116.407395
+1012,Xie Juhua   ,3,71,China,Healthcare ,39.904211,116.407395
+1012,Oren Zeev ,3,57,Israel,Finance & Investments ,32.0853,34.781768
+1012,Charles Zegar ,3,74,United States,Media & Entertainment ,38.907192,-77.036873
+1012,Zhang Lei ,3,49,China,Finance & Investments ,39.904211,116.407395
+1012,Zhang Xin & Pan Shiyi ,3,56,China,Real Estate ,39.904211,116.407395
+1012,Zhu Yan   ,3,64,China,Real Estate ,39.904211,116.407395
+1012,Mortimer Zuckerman ,3,84,United States,Real Estate ,38.907192,-77.036873
+1053,Juan Abello ,2.9,80,Spain,Finance & Investments ,40.416775,-3.70379
+1053,John Armitage ,2.9,62,Ireland,Finance & Investments ,53.349805,-6.26031
+1053,Bang Si-hyuk ,2.9,49,South Korea,Media & Entertainment ,37.566535,126.977969
+1053,Miriam Baumann-Blocher ,2.9,47,Switzerland,Manufacturing ,46.947974,7.447447
+1053,Riley Bechtel   ,2.9,70,United States,Construction & Engineering ,38.907192,-77.036873
+1053,Wilhelm Beier   ,2.9,65,Germany,Healthcare ,52.520007,13.404954
+1053,Nicolas Berggruen ,2.9,60,United States,Real Estate ,38.907192,-77.036873
+1053,Bui Thanh Nhon ,2.9,64,Vietnam,Real Estate ,21.027764,105.83416
+1053,Cao Longxiang   ,2.9,64,China,Healthcare ,39.904211,116.407395
+1053,Deng Wen ,2.9,54,China,Food & Beverage ,39.904211,116.407395
+1053,Daniel Dines ,2.9,50,Romania,Technology ,44.426767,26.102538
+1053,Joseph Edelman ,2.9,66,United States,Finance & Investments ,38.907192,-77.036873
+1053,N. Murray Edwards ,2.9,62,Canada,Energy ,38.907192,-77.036873
+1053,Jane Goldman ,2.9,66,United States,Real Estate ,38.907192,-77.036873
+1053,Guo Zhenyu   ,2.9,58,Canada,Fashion & Retail ,38.907192,-77.036873
+1053,Stewart Horejsi   ,2.9,84,United States,Finance & Investments ,38.907192,-77.036873
+1053,Zhenda Huang   ,2.9,74,China,Construction & Engineering ,39.904211,116.407395
+1053,"Jeremy Jacobs, Sr.   ",2.9,82,United States,Service ,38.907192,-77.036873
+1053,Hamilton James ,2.9,70,United States,Finance & Investments ,38.907192,-77.036873
+1053,Valentin Kipyatkov ,2.9,45,Russia,Technology ,55.755826,37.6173
+1053,Li Zhongchu ,2.9,58,China,Technology ,39.904211,116.407395
+1053,Martin Lorentzon ,2.9,53,Sweden,Technology ,59.329323,18.068581
+1053,"Drayton McLane, Jr. ",2.9,85,United States,Fashion & Retail ,38.907192,-77.036873
+1053,Benjamin Otto ,2.9,64,Germany,Fashion & Retail ,52.520007,13.404954
+1053,Roger Penske ,2.9,85,United States,Automotive ,38.907192,-77.036873
+1053,Olivier Pomel ,2.9,45,France,Technology ,48.856614,2.352222
+1053,Jean Salata ,2.9,56,Chile,Finance & Investments ,-33.44889,-70.669265
+1053,Arnout Schuijff ,2.9,54,Netherlands,Technology ,52.370216,4.895168
+1053,Shen Hua   ,2.9,59,United States,Technology ,38.907192,-77.036873
+1053,Martua Sitorus ,2.9,62,Indonesia,Manufacturing ,-6.208763,106.845599
+1053,Zygmunt Solorz-Zak ,2.9,65,Poland,Media & Entertainment ,52.229676,21.012229
+1053,Warren Stephens ,2.9,65,United States,Finance & Investments ,38.907192,-77.036873
+1053,Tang Jinkui   ,2.9,66,China,Manufacturing ,39.904211,116.407395
+1053,Alan Trefler ,2.9,66,United States,Technology ,38.907192,-77.036873
+1053,Masateru Uno   ,2.9,75,Japan,Fashion & Retail ,35.709026,139.731992
+1053,Frank VanderSloot ,2.9,73,United States,Fashion & Retail ,38.907192,-77.036873
+1053,Guangming Wu ,2.9,60,China,Healthcare ,39.904211,116.407395
+1053,Kai Wu ,2.9,54,China,Energy ,39.904211,116.407395
+1053,Ye Fan   ,2.9,51,China,Automotive ,39.904211,116.407395
+1053,Yoo Jung-hyun ,2.9,52,South Korea,Media & Entertainment ,37.566535,126.977969
+1053,Fenggang Zhao ,2.9,56,China,Energy ,39.904211,116.407395
+1053,Zheng Xiaodong ,2.9,58,China,Manufacturing ,39.904211,116.407395
+1053,Zhou Jianping ,2.9,61,China,Fashion & Retail ,39.904211,116.407395
+1096,Jose Joao Abdalla Filho ,2.8,76,Brazil,Finance & Investments ,-15.794229,-47.882166
+1096,Brian Acton ,2.8,50,United States,Technology ,38.907192,-77.036873
+1096,Bill Alfond ,2.8,73,United States,Fashion & Retail ,38.907192,-77.036873
+1096,Susan Alfond ,2.8,76,United States,Fashion & Retail ,38.907192,-77.036873
+1096,Ted Alfond ,2.8,77,United States,Fashion & Retail ,38.907192,-77.036873
+1096,Felix Baker ,2.8,53,United States,Finance & Investments ,38.907192,-77.036873
+1096,Julian Baker ,2.8,55,United States,Finance & Investments ,38.907192,-77.036873
+1096,Karen Virginia Beckmann Legoretta ,2.8,52,Mexico,Food & Beverage ,19.432608,-99.133208
+1096,Maurizio Billi ,2.8,64,Brazil,Healthcare ,-15.794229,-47.882166
+1096,Otto Philipp Braun ,2.8,44,Germany,Healthcare ,52.520007,13.404954
+1096,Garrett Camp ,2.8,43,Canada,Technology ,38.907192,-77.036873
+1096,Cao Ji ,2.8,70,China,Manufacturing ,39.904211,116.407395
+1096,Hua Chen ,2.8,56,China,Real Estate ,39.904211,116.407395
+1096,John Paul DeJoria ,2.8,77,United States,Fashion & Retail ,38.907192,-77.036873
+1096,Beda Diethelm ,2.8,81,Switzerland,Healthcare ,46.947974,7.447447
+1096,K. Dinesh ,2.8,67,India,Technology ,28.613939,77.209021
+1096,Dong Fan ,2.8,52,China,Healthcare ,39.904211,116.407395
+1096,Bennett Dorrance ,2.8,76,United States,Food & Beverage ,38.907192,-77.036873
+1096,Marcel Erni ,2.8,57,Switzerland,Finance & Investments ,46.947974,7.447447
+1096,Abhay Firodia ,2.8,77,India,Automotive ,28.613939,77.209021
+1096,Alfred Gantner ,2.8,54,Switzerland,Finance & Investments ,46.947974,7.447447
+1096,Allan Goldman ,2.8,79,United States,Real Estate ,38.907192,-77.036873
+1096,Amy Goldman Fowler ,2.8,67,United States,Real Estate ,38.907192,-77.036873
+1096,J. Tomilson Hill ,2.8,73,United States,Finance & Investments ,38.907192,-77.036873
+1096,Hong Jie ,2.8,54,China,Manufacturing ,39.904211,116.407395
+1096,James Jannard ,2.8,72,United States,Fashion & Retail ,38.907192,-77.036873
+1096,Travis Kalanick ,2.8,45,United States,Technology ,38.907192,-77.036873
+1096,Diane Kemper ,2.8,76,United States,Real Estate ,38.907192,-77.036873
+1096,George Kurtz ,2.8,51,United States,Technology ,38.907192,-77.036873
+1096,Kwek Leng Beng ,2.8,81,Singapore,diversified   ,1.280095,103.850949
+1096,Geoffrey Kwok ,2.8,36,Hong Kong,Real Estate ,22.396428,114.109497
+1096,Lai Jianping ,2.8,64,China,Food & Beverage ,39.904211,116.407395
+1096,Maritsa Lazari   ,2.8,77,United Kingdom,Real Estate ,51.507351,-0.127758
+1096,Alexis Lê-Quôc ,2.8,47,United States,Technology ,38.907192,-77.036873
+1096,Angela Leong ,2.8,61,Hong Kong,Real Estate ,22.396428,114.109497
+1096,Lin Chen-hai ,2.8,75,Taiwan,Real Estate ,25.032969,121.565418
+1096,Sergio Mantegazza ,2.8,94,Switzerland,Service ,46.947974,7.447447
+1096,Hans Melchers ,2.8,83,Netherlands,Finance & Investments ,52.370216,4.895168
+1096,Tom Morris ,2.8,67,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+1096,Eugene Murtagh ,2.8,79,Ireland,Manufacturing ,53.349805,-6.26031
+1096,Philip Niarchos ,2.8,68,Greece,diversified   ,37.983917,23.72936
+1096,Pan Dong ,2.8,57,Canada,Fashion & Retail ,38.907192,-77.036873
+1096,Sean Parker ,2.8,42,United States,Technology ,38.907192,-77.036873
+1096,Richard Peery ,2.8,83,United States,Real Estate ,38.907192,-77.036873
+1096,Gregorio Perez Companc   ,2.8,86,Argentina,Energy ,-34.603683,-58.381557
+1096,Sebastian Piñera   ,2.8,72,Chile,Finance & Investments ,-33.44889,-70.669265
+1096,Nicholas Pritzker ,2.8,78,United States,Finance & Investments ,38.907192,-77.036873
+1096,Jeff Rothschild ,2.8,67,United States,Technology ,38.907192,-77.036873
+1096,Steven Sarowitz ,2.8,56,United States,Technology ,38.907192,-77.036873
+1096,Isabella Seràgnoli ,2.8,76,Italy,Manufacturing ,41.902784,12.496366
+1096,Stephen Smith ,2.8,70,Canada,Finance & Investments ,38.907192,-77.036873
+1096,William Stone ,2.8,66,United States,Technology ,38.907192,-77.036873
+1096,Sun Hongbin ,2.8,59,United States,Real Estate ,38.907192,-77.036873
+1096,Sun Shoukuan ,2.8,72,China,Manufacturing ,39.904211,116.407395
+1096,"Henry Sy, Jr. ",2.8,69,Philippines,diversified   ,14.599512,120.98422
+1096,Andrew Tan ,2.8,70,Philippines,diversified   ,14.599512,120.98422
+1096,Kenneth Tuchman ,2.8,62,United States,Service ,38.907192,-77.036873
+1096,Tung Chee Hwa ,2.8,84,Hong Kong,Logistics ,22.396428,114.109497
+1096,Bulat Utemuratov ,2.8,64,Kazakhstan,Metals & Mining ,51.160523,71.470356
+1096,Anna Katharina Viessmann ,2.8,64,Germany,Manufacturing ,52.520007,13.404954
+1096,Xicheng Wang   ,2.8,73,China,Manufacturing ,39.904211,116.407395
+1096,Urs Wietlisbach ,2.8,60,Switzerland,Finance & Investments ,46.947974,7.447447
+1096,Wong Man Li ,2.8,57,Hong Kong,Manufacturing ,22.396428,114.109497
+1096,Xie Weitong ,2.8,65,Taiwan,Metals & Mining ,25.032969,121.565418
+1096,Xu Chuanhua   ,2.8,87,China,Manufacturing ,39.904211,116.407395
+1096,Ye Xiaoping ,2.8,59,China,Healthcare ,39.904211,116.407395
+1096,Weiguo Zhao ,2.8,55,China,Technology ,39.904211,116.407395
+1163,Ben Ashkenazy ,2.7,52,United States,Real Estate ,38.907192,-77.036873
+1163,Bill Austin ,2.7,80,United States,Manufacturing ,38.907192,-77.036873
+1163,Pavel Baudis ,2.7,61,Czechia,Technology ,50.075538,14.4378
+1163,Yvonne Bauer ,2.7,45,Germany,Media & Entertainment ,52.520007,13.404954
+1163,Giuliana Benetton ,2.7,84,Italy,Fashion & Retail ,41.902784,12.496366
+1163,Luciano Benetton ,2.7,86,Italy,Fashion & Retail ,41.902784,12.496366
+1163,Aneel Bhusri ,2.7,56,United States,Technology ,38.907192,-77.036873
+1163,George Bishop ,2.7,84,United States,Energy ,38.907192,-77.036873
+1163,Vivek Chand Burman ,2.7,84,India,Food & Beverage ,28.613939,77.209021
+1163,Morris Chang ,2.7,90,Taiwan,Technology ,25.032969,121.565418
+1163,Jinxia Chen ,2.7,54,China,Finance & Investments ,39.904211,116.407395
+1163,Cho Jung-ho ,2.7,63,South Korea,Finance & Investments ,37.566535,126.977969
+1163,Jack Cockwell ,2.7,81,Canada,Finance & Investments ,38.907192,-77.036873
+1163,"Edward DeBartolo, Jr. ",2.7,75,United States,Real Estate ,38.907192,-77.036873
+1163,Abilio dos Santos Diniz ,2.7,85,Brazil,Fashion & Retail ,-15.794229,-47.882166
+1163,"John Dorrance, III. ",2.7,78,Ireland,Food & Beverage ,53.349805,-6.26031
+1163,Hailiang Feng ,2.7,61,China,Metals & Mining ,39.904211,116.407395
+1163,Xingjiang Gao ,2.7,58,China,Manufacturing ,39.904211,116.407395
+1163,Carlos Hank Rhon ,2.7,74,Mexico,diversified   ,19.432608,-99.133208
+1163,Vivek Jain ,2.7,66,India,Manufacturing ,28.613939,77.209021
+1163,Brad Kelley ,2.7,65,United States,Real Estate ,38.907192,-77.036873
+1163,Alicia Koplowitz ,2.7,68,Spain,Finance & Investments ,40.416775,-3.70379
+1163,Li Li ,2.7,56,China,Healthcare ,39.904211,116.407395
+1163,C. Dean Metropoulos ,2.7,75,United States,Food & Beverage ,38.907192,-77.036873
+1163,Dan Olsson ,2.7,75,Sweden,diversified   ,59.329323,18.068581
+1163,Tor Peterson ,2.7,57,United States,Metals & Mining ,38.907192,-77.036873
+1163,John Pritzker ,2.7,68,United States,Finance & Investments ,38.907192,-77.036873
+1163,Hussain Sajwani ,2.7,69,United Arab Emirates,Real Estate ,24.299174,54.697277
+1163,Tseng Cheng ,2.7,60,Taiwan,Manufacturing ,25.032969,121.565418
+1163,Jerry Yang ,2.7,53,United States,Technology ,38.907192,-77.036873
+1163,Takao Yasuda ,2.7,72,Japan,Fashion & Retail ,35.709026,139.731992
+1163,Yu Qibing   ,2.7,56,China,Manufacturing ,39.904211,116.407395
+1163,Zhang Xuezheng ,2.7,46,China,Technology ,39.904211,116.407395
+1196,Abdulla bin Ahmad Al Ghurair   ,2.6,64,United Arab Emirates,diversified   ,24.299174,54.697277
+1196,Isak Andic   ,2.6,68,Spain,Fashion & Retail ,40.416775,-3.70379
+1196,Harindarpal Banga ,2.6,71,India,Finance & Investments ,28.613939,77.209021
+1196,Anne Beaufour ,2.6,58,France,Healthcare ,48.856614,2.352222
+1196,Henri Beaufour ,2.6,56,France,Healthcare ,48.856614,2.352222
+1196,Sanjeev Bikhchandani ,2.6,58,India,Technology ,28.613939,77.209021
+1196,Norman Braman ,2.6,89,United States,Automotive ,38.907192,-77.036873
+1196,J. Hyatt Brown ,2.6,84,United States,Finance & Investments ,38.907192,-77.036873
+1196,Chen Lip Keong ,2.6,74,Malaysia,Gambling & Casinos ,3.139003,101.686855
+1196,Jim Coulter ,2.6,62,United States,Finance & Investments ,38.907192,-77.036873
+1196,Federico De Nora ,2.6,54,Italy,Manufacturing ,41.902784,12.496366
+1196,Dong Wei ,2.6,51,China,Healthcare ,39.904211,116.407395
+1196,Sandeep Engineer ,2.6,60,India,Manufacturing ,28.613939,77.209021
+1196,Alceu Elias Feldmann ,2.6,72,Brazil,Energy ,-15.794229,-47.882166
+1196,"Frank Fertitta, III. ",2.6,60,United States,Sports ,38.907192,-77.036873
+1196,Lorenzo Fertitta ,2.6,53,United States,Sports ,38.907192,-77.036873
+1196,Doris Fisher ,2.6,90,United States,Fashion & Retail ,38.907192,-77.036873
+1196,Alec Gores ,2.6,69,United States,Finance & Investments ,38.907192,-77.036873
+1196,Rajinder Gupta ,2.6,63,India,Manufacturing ,28.613939,77.209021
+1196,Igor Kesaev ,2.6,55,Russia,Fashion & Retail ,55.755826,37.6173
+1196,Raj Kumar & Kishin RK ,2.6,67,Singapore,Real Estate ,1.280095,103.850949
+1196,Li Hongxin   ,2.6,69,China,Manufacturing ,39.904211,116.407395
+1196,Liu Fangyi ,2.6,52,China,Healthcare ,39.904211,116.407395
+1196,Lu Zhongfang ,2.6,79,China,Automotive ,39.904211,116.407395
+1196,Nirmal Minda ,2.6,64,India,Automotive ,28.613939,77.209021
+1196,Farhad Moshiri ,2.6,66,United Kingdom,diversified   ,51.507351,-0.127758
+1196,Hans Georg Naeder ,2.6,60,Germany,Manufacturing ,52.520007,13.404954
+1196,Eren Ozmen ,2.6,63,United States,Manufacturing ,38.907192,-77.036873
+1196,Ronald Perelman ,2.6,79,United States,Finance & Investments ,38.907192,-77.036873
+1196,Ravi Pillai ,2.6,68,India,Construction & Engineering ,28.613939,77.209021
+1196,Daniel Pritzker ,2.6,62,United States,Finance & Investments ,38.907192,-77.036873
+1196,Matthias Reinhart ,2.6,62,Switzerland,Finance & Investments ,46.947974,7.447447
+1196,Alejandro Santo Domingo ,2.6,45,United States,Food & Beverage ,38.907192,-77.036873
+1196,Vivek Chaand Sehgal ,2.6,65,Australia,Automotive ,-35.280937,149.130005
+1196,Kavitark Ram Shriram ,2.6,65,United States,Technology ,38.907192,-77.036873
+1196,Hans Sy ,2.6,66,Philippines,diversified   ,14.599512,120.98422
+1196,Herbert Sy ,2.6,65,Philippines,diversified   ,14.599512,120.98422
+1196,Tahir   ,2.6,70,Indonesia,diversified   ,-6.208763,106.845599
+1196,Wang Linpeng ,2.6,53,China,Construction & Engineering ,39.904211,116.407395
+1196,David Wertheim ,2.6,64,Israel,Food & Beverage ,32.0853,34.781768
+1196,Oprah Winfrey ,2.6,68,United States,Media & Entertainment ,38.907192,-77.036873
+1196,Xingming Zhu ,2.6,55,China,Manufacturing ,39.904211,116.407395
+1238,Abdulla Al Futtaim   ,2.5,64,United Arab Emirates,Automotive ,24.299174,54.697277
+1238,Suhail Bahwan ,2.5,83,Oman,diversified   ,23.58589,58.405923
+1238,Ulrike Baro ,2.5,64,Germany,Healthcare ,52.520007,13.404954
+1238,David Baszucki ,2.5,59,United States,Media & Entertainment ,38.907192,-77.036873
+1238,Thor Bjorgolfsson ,2.5,55,Iceland,diversified   ,64.126521,-21.817439
+1238,Charles Bronfman ,2.5,90,Canada,Food & Beverage ,38.907192,-77.036873
+1238,Chen Qiongxiang ,2.5,64,China,Energy ,39.904211,116.407395
+1238,Chen Tei-fu ,2.5,73,Taiwan,Fashion & Retail ,25.032969,121.565418
+1238,Chuchat Petaumpai & Daonapa Petampai ,2.5,69,Thailand,Finance & Investments ,13.756331,100.501765
+1238,Leon G. Cooperman ,2.5,78,United States,Finance & Investments ,38.907192,-77.036873
+1238,Smita Crishna-Godrej ,2.5,71,India,diversified   ,28.613939,77.209021
+1238,Jacques D'Amours ,2.5,65,Canada,Fashion & Retail ,38.907192,-77.036873
+1238,Maria Del Pino ,2.5,66,Spain,Construction & Engineering ,40.416775,-3.70379
+1238,Yoichi & Keiko Erikawa ,2.5,64,Japan,Media & Entertainment ,35.709026,139.731992
+1238,Gerald Ford ,2.5,77,United States,Finance & Investments ,38.907192,-77.036873
+1238,Adi Godrej ,2.5,80,India,diversified   ,28.613939,77.209021
+1238,Jamshyd Godrej ,2.5,73,India,diversified   ,28.613939,77.209021
+1238,Nadir Godrej ,2.5,71,India,diversified   ,28.613939,77.209021
+1238,Sanjiv Goenka ,2.5,61,India,diversified   ,28.613939,77.209021
+1238,Stein Erik Hagen ,2.5,65,Norway,Fashion & Retail ,59.913869,10.752245
+1238,Donald Horton   ,2.5,72,United States,Real Estate ,38.907192,-77.036873
+1238,Hu Yangzhong ,2.5,57,China,Technology ,39.904211,116.407395
+1238,Baba Kalyani ,2.5,73,India,Construction & Engineering ,28.613939,77.209021
+1238,Stephen Lansdown ,2.5,69,Guernsey,Finance & Investments ,49.455443,-2.536871
+1238,Mark Leonard   ,2.5,65,Canada,Technology ,38.907192,-77.036873
+1238,William Li ,2.5,47,China,Automotive ,39.904211,116.407395
+1238,K.C. Liu ,2.5,68,Taiwan,Technology ,25.032969,121.565418
+1238,Liu Xiaodong ,2.5,54,China,Manufacturing ,39.904211,116.407395
+1238,Aloke Lohia ,2.5,63,India,Manufacturing ,28.613939,77.209021
+1238,Mohamed Mansour ,2.5,74,Egypt,diversified   ,30.04442,31.235712
+1238,Kishore Mariwala ,2.5,87,India,Food & Beverage ,28.613939,77.209021
+1238,Jed McCaleb ,2.5,47,United States,Finance & Investments ,38.907192,-77.036873
+1238,Enhua Mi ,2.5,64,China,Fashion & Retail ,39.904211,116.407395
+1238,Willy Michel ,2.5,75,Switzerland,Healthcare ,46.947974,7.447447
+1238,Lachhman Das Mittal ,2.5,91,India,Automotive ,28.613939,77.209021
+1238,Ravi Modi ,2.5,45,India,Fashion & Retail ,28.613939,77.209021
+1238,Charles Munger ,2.5,98,United States,Finance & Investments ,38.907192,-77.036873
+1238,Rishad Naoroji ,2.5,70,India,diversified   ,28.613939,77.209021
+1238,Yongpei Ni   ,2.5,70,China,Food & Beverage ,39.904211,116.407395
+1238,Fatih Ozmen ,2.5,64,United States,Manufacturing ,38.907192,-77.036873
+1238,Qiu Minxiu ,2.5,76,China,Technology ,39.904211,116.407395
+1238,Stewart Rahr ,2.5,76,United States,Healthcare ,38.907192,-77.036873
+1238,Prathap Reddy ,2.5,90,India,Healthcare ,28.613939,77.209021
+1238,Chad Richison ,2.5,51,United States,Technology ,38.907192,-77.036873
+1238,Karin Sartorius-Herbst ,2.5,64,Germany,Healthcare ,52.520007,13.404954
+1238,Christiane Schoeller ,2.5,64,Germany,Media & Entertainment ,52.520007,13.404954
+1238,Suh Kyung-bae ,2.5,59,South Korea,Fashion & Retail ,37.566535,126.977969
+1238,Glen Taylor ,2.5,80,United States,Service ,38.907192,-77.036873
+1238,Nadia Thiele ,2.5,46,Germany,Finance & Investments ,52.520007,13.404954
+1238,Wang Minwen ,2.5,58,China,Technology ,39.904211,116.407395
+1238,Huijiao Yu ,2.5,56,China,Logistics ,39.904211,116.407395
+1238,Zhang Ning   ,2.5,48,Canada,Manufacturing ,38.907192,-77.036873
+1238,Zhao Tao ,2.5,56,Singapore,Healthcare ,1.280095,103.850949
+1238,Hongyi Zhou ,2.5,51,China,Technology ,39.904211,116.407395
+1292,Rajendra Agarwal ,2.4,63,India,Healthcare ,28.613939,77.209021
+1292,George Argyros   ,2.4,85,United States,Real Estate ,38.907192,-77.036873
+1292,Edward Bass ,2.4,76,United States,Energy ,38.907192,-77.036873
+1292,Banwari Lal Bawri ,2.4,69,India,Healthcare ,28.613939,77.209021
+1292,Girdhari Lal Bawri ,2.4,74,India,Healthcare ,28.613939,77.209021
+1292,Chao Teng-hsiung ,2.4,77,Taiwan,Real Estate ,25.032969,121.565418
+1292,Zhisong Chen ,2.4,56,China,Technology ,39.904211,116.407395
+1292,Chey Tae-won ,2.4,61,South Korea,Telecom ,37.566535,126.977969
+1292,Choo Chong Ngen ,2.4,68,Singapore,Real Estate ,1.280095,103.850949
+1292,John Coates ,2.4,52,United Kingdom,Gambling & Casinos ,51.507351,-0.127758
+1292,Alexandra Daitch ,2.4,59,United States,Food & Beverage ,38.907192,-77.036873
+1292,Chetan Dube ,2.4,56,United States,Technology ,38.907192,-77.036873
+1292,Daniel Ek ,2.4,39,Sweden,Technology ,59.329323,18.068581
+1292,John Fisher ,2.4,60,United States,Fashion & Retail ,38.907192,-77.036873
+1292,Bernard Fraisse   ,2.4,65,France,Healthcare ,48.856614,2.352222
+1292,William Franke ,2.4,84,United States,diversified   ,38.907192,-77.036873
+1292,Caroline Hagen Kjos ,2.4,38,Norway,diversified   ,59.913869,10.752245
+1292,Lam Kong ,2.4,57,China,Healthcare ,39.904211,116.407395
+1292,Hans Langer ,2.4,70,Germany,Manufacturing ,52.520007,13.404954
+1292,Joe Lau ,2.4,32,United States,Technology ,38.907192,-77.036873
+1292,Kevin David Lehmann ,2.4,19,Germany,Fashion & Retail ,52.520007,13.404954
+1292,Liang Qin   ,2.4,50,China,Technology ,39.904211,116.407395
+1292,Peter Lim ,2.4,68,Singapore,Finance & Investments ,1.280095,103.850949
+1292,Sarah MacMillan ,2.4,68,United States,Food & Beverage ,38.907192,-77.036873
+1292,Kalanithi Maran ,2.4,56,India,Media & Entertainment ,28.613939,77.209021
+1292,Lirio Parisotto ,2.4,68,Brazil,Finance & Investments ,-15.794229,-47.882166
+1292,Rajan Raheja   ,2.4,67,India,diversified   ,28.613939,77.209021
+1292,Alberto Roemmers ,2.4,95,Argentina,Healthcare ,-34.603683,-58.381557
+1292,Rodney Sacks ,2.4,72,United States,Food & Beverage ,38.907192,-77.036873
+1292,Ferit Faik Sahenk ,2.4,58,Turkey,diversified   ,,
+1292,Hilton Schlosberg ,2.4,69,United Kingdom,Food & Beverage ,51.507351,-0.127758
+1292,Alberto Siccardi   ,2.4,77,Switzerland,Healthcare ,46.947974,7.447447
+1292,Salil Singhal ,2.4,74,India,Manufacturing ,28.613939,77.209021
+1292,Lucy Stitzer ,2.4,62,United States,Food & Beverage ,38.907192,-77.036873
+1292,Otto Toto Sugiri ,2.4,68,Indonesia,Technology ,-6.208763,106.845599
+1292,Harley Sy ,2.4,62,Philippines,diversified   ,14.599512,120.98422
+1292,Teresita Sy-Coson ,2.4,71,Philippines,diversified   ,14.599512,120.98422
+1292,Katsumi Tada ,2.4,76,Japan,Real Estate ,35.709026,139.731992
+1292,Tang Yiu ,2.4,88,Hong Kong,Fashion & Retail ,22.396428,114.109497
+1292,Jeff Tangney ,2.4,49,United States,Healthcare ,38.907192,-77.036873
+1292,Lottie Tham   ,2.4,72,Sweden,Fashion & Retail ,59.329323,18.068581
+1292,T.Y. Tsai ,2.4,69,Taiwan,Finance & Investments ,25.032969,121.565418
+1292,Timur Turlov ,2.4,34,Russia,Finance & Investments ,55.755826,37.6173
+1292,Hamdi Ulukaya ,2.4,49,Turkey,Food & Beverage ,,
+1292,Peter Unger ,2.4,77,Germany,Automotive ,52.520007,13.404954
+1292,Nikil Viswanathan ,2.4,34,United States,Technology ,38.907192,-77.036873
+1292,Anthony Wood ,2.4,56,United States,Technology ,38.907192,-77.036873
+1292,Zhang Hongwei ,2.4,67,China,diversified   ,39.904211,116.407395
+1292,Zhang Li ,2.4,69,China,Real Estate ,39.904211,116.407395
+1341,Houshan Bai ,2.3,58,China,Energy ,39.904211,116.407395
+1341,Alex Beard ,2.3,54,United Kingdom,Metals & Mining ,51.507351,-0.127758
+1341,Koos Bekker ,2.3,69,South Africa,Media & Entertainment ,-25.747868,28.229271
+1341,William Boyd   ,2.3,90,United States,Gambling & Casinos ,38.907192,-77.036873
+1341,Timothy Boyle ,2.3,72,United States,Fashion & Retail ,38.907192,-77.036873
+1341,Anand Burman ,2.3,69,India,Food & Beverage ,28.613939,77.209021
+1341,Richard Chandler ,2.3,63,New Zealand,Finance & Investments ,-41.28646,174.776236
+1341,R.G. Chandramogan ,2.3,73,India,Food & Beverage ,28.613939,77.209021
+1341,Cho Young-sik ,2.3,60,South Korea,Healthcare ,37.566535,126.977969
+1341,Chu Lam Yiu ,2.3,52,Hong Kong,Manufacturing ,22.396428,114.109497
+1341,Kommer Damen ,2.3,78,Netherlands,Manufacturing ,52.370216,4.895168
+1341,Henry Davis ,2.3,71,United States,Food & Beverage ,38.907192,-77.036873
+1341,Ray Davis ,2.3,80,United States,Energy ,38.907192,-77.036873
+1341,Stephen Feinberg ,2.3,62,United States,Finance & Investments ,38.907192,-77.036873
+1341,Kenneth Feld   ,2.3,73,United States,Media & Entertainment ,38.907192,-77.036873
+1341,Alexander Frolov ,2.3,57,Russia,Metals & Mining ,55.755826,37.6173
+1341,Mario Germano Giuliani ,2.3,50,Switzerland,Healthcare ,46.947974,7.447447
+1341,Serge Godin ,2.3,72,Canada,Technology ,38.907192,-77.036873
+1341,Noam Gottesman ,2.3,60,United States,Finance & Investments ,38.907192,-77.036873
+1341,Philip & Cristina Green ,2.3,70,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+1341,Yusuf Hamied ,2.3,85,India,Healthcare ,28.613939,77.209021
+1341,Bill Haslam ,2.3,63,United States,Fashion & Retail ,38.907192,-77.036873
+1341,Hans-Werner Hector ,2.3,82,Germany,Technology ,52.520007,13.404954
+1341,Ho Hung Anh ,2.3,51,Vietnam,Finance & Investments ,21.027764,105.83416
+1341,Douglas Hsu ,2.3,79,Taiwan,diversified   ,25.032969,121.565418
+1341,Erman Ilicak ,2.3,54,Turkey,Construction & Engineering ,,
+1341,Zhaobai Jiang ,2.3,58,China,Real Estate ,39.904211,116.407395
+1341,Osman Kibar ,2.3,51,United States,Healthcare ,38.907192,-77.036873
+1341,Adam Kwok ,2.3,39,Hong Kong,Real Estate ,22.396428,114.109497
+1341,Frank Laukien ,2.3,62,United States,Manufacturing ,38.907192,-77.036873
+1341,Louis Le Duff ,2.3,75,France,Food & Beverage ,48.856614,2.352222
+1341,Solomon Lew ,2.3,77,Australia,Fashion & Retail ,-35.280937,149.130005
+1341,Liang Rubo ,2.3,39,China,Technology ,39.904211,116.407395
+1341,Liang Zhaoxian ,2.3,57,China,Manufacturing ,39.904211,116.407395
+1341,Prayudh Mahagitsiri ,2.3,76,Thailand,Food & Beverage ,13.756331,100.501765
+1341,Clayton Mathile ,2.3,81,United States,Food & Beverage ,38.907192,-77.036873
+1341,Erwin Franz Mueller ,2.3,89,Germany,Fashion & Retail ,52.520007,13.404954
+1341,David Murdock ,2.3,98,United States,Food & Beverage ,38.907192,-77.036873
+1341,Rubens Ometto Silveira Mello ,2.3,72,Brazil,Energy ,-15.794229,-47.882166
+1341,Erik Paulsson   ,2.3,80,Sweden,Real Estate ,59.329323,18.068581
+1341,Heloise Pratt ,2.3,59,Australia,Manufacturing ,-35.280937,149.130005
+1341,Qiu Jianping   ,2.3,60,China,Manufacturing ,39.904211,116.407395
+1341,Dirk Rossmann   ,2.3,75,Germany,Fashion & Retail ,52.520007,13.404954
+1341,Karin Schick ,2.3,64,Germany,Technology ,52.520007,13.404954
+1341,Stephan Schmidheiny ,2.3,74,Switzerland,Finance & Investments ,46.947974,7.447447
+1341,Wenrong Shen ,2.3,76,China,Metals & Mining ,39.904211,116.407395
+1341,Guangxin Sun ,2.3,59,China,diversified   ,39.904211,116.407395
+1341,Mengquan Sun   ,2.3,72,China,Food & Beverage ,39.904211,116.407395
+1341,Thomas Tull ,2.3,51,United States,Media & Entertainment ,38.907192,-77.036873
+1341,Ted Turner ,2.3,83,United States,Media & Entertainment ,38.907192,-77.036873
+1341,David Walentas ,2.3,83,United States,Real Estate ,38.907192,-77.036873
+1341,Yingming Wu ,2.3,55,China,Energy ,39.904211,116.407395
+1341,Yingzhuo Xu ,2.3,54,China,Food & Beverage ,39.904211,116.407395
+1341,Christoph Zeller ,2.3,64,Liechtenstein,Healthcare ,47.14103,9.520928
+1341,Zhang Wanzhen ,2.3,72,China,Manufacturing ,39.904211,116.407395
+1341,Xiaojuan Zhang ,2.3,52,China,Logistics ,39.904211,116.407395
+1397,Michael Ashcroft ,2.2,76,United Kingdom,Finance & Investments ,51.507351,-0.127758
+1397,Alex Atallah ,2.2,30,United States,Technology ,38.907192,-77.036873
+1397,Brett Blundy ,2.2,62,Australia,Fashion & Retail ,-35.280937,149.130005
+1397,Chris Britt ,2.2,49,United States,Finance & Investments ,38.907192,-77.036873
+1397,Cen Junda ,2.2,57,China,Healthcare ,39.904211,116.407395
+1397,Yadu Hari Dalmia   ,2.2,74,India,Manufacturing ,28.613939,77.209021
+1397,Zhenggang Dou ,2.2,68,China,diversified   ,39.904211,116.407395
+1397,Weimin Du ,2.2,58,China,Healthcare ,39.904211,116.407395
+1397,Devin Finzer ,2.2,31,United States,Technology ,38.907192,-77.036873
+1397,Robert Friedland ,2.2,71,United States,Metals & Mining ,38.907192,-77.036873
+1397,Phillip Frost ,2.2,85,United States,Healthcare ,38.907192,-77.036873
+1397,Jeffrey Gundlach ,2.2,63,United States,Finance & Investments ,38.907192,-77.036873
+1397,John Hancock ,2.2,46,Australia,Metals & Mining ,-35.280937,149.130005
+1397,Georg Haub ,2.2,60,Germany,Fashion & Retail ,52.520007,13.404954
+1397,Hortensia Herrero ,2.2,71,Spain,Fashion & Retail ,40.416775,-3.70379
+1397,"B. Wayne Hughes, Jr. ",2.2,61,United States,Real Estate ,38.907192,-77.036873
+1397,Bruce Karsh ,2.2,66,United States,Finance & Investments ,38.907192,-77.036873
+1397,Shlomo Kramer ,2.2,56,Israel,Technology ,32.0853,34.781768
+1397,Jonathan Kwok ,2.2,30,Hong Kong,Real Estate ,22.396428,114.109497
+1397,Christian Latouche ,2.2,81,France,Finance & Investments ,48.856614,2.352222
+1397,Martin Lau ,2.2,49,Hong Kong,Technology ,22.396428,114.109497
+1397,Li Wa ,2.2,56,Hong Kong,Real Estate ,22.396428,114.109497
+1397,Liang Xinjun ,2.2,54,China,diversified   ,39.904211,116.407395
+1397,Lin Chang Su-O ,2.2,81,Taiwan,Real Estate ,25.032969,121.565418
+1397,Lin Fanlian ,2.2,60,China,Energy ,39.904211,116.407395
+1397,Lin Lairong   ,2.2,53,China,Metals & Mining ,39.904211,116.407395
+1397,Daniel Lubetzky ,2.2,53,United States,Food & Beverage ,38.907192,-77.036873
+1397,Howard Marks ,2.2,75,United States,Finance & Investments ,38.907192,-77.036873
+1397,Craig McCaw ,2.2,72,United States,Telecom ,38.907192,-77.036873
+1397,Vincent McMahon ,2.2,76,United States,Sports ,38.907192,-77.036873
+1397,Mu Rongjun ,2.2,42,China,Technology ,39.904211,116.407395
+1397,Jonathan Nelson ,2.2,65,United States,Finance & Investments ,38.907192,-77.036873
+1397,Bianca Rinehart ,2.2,45,Australia,Metals & Mining ,-35.280937,149.130005
+1397,Ginia Rinehart ,2.2,35,Australia,Metals & Mining ,-35.280937,149.130005
+1397,Filiz Sahenk ,2.2,55,Turkey,diversified   ,,
+1397,S.D. Shibulal ,2.2,67,India,Technology ,28.613939,77.209021
+1397,Alexander Svetakov ,2.2,54,Russia,Finance & Investments ,55.755826,37.6173
+1397,Jeffrey Talpins ,2.2,47,United States,Finance & Investments ,38.907192,-77.036873
+1397,Ming Tian ,2.2,68,China,Technology ,39.904211,116.407395
+1397,Arvind Tiku ,2.2,52,India,Energy ,28.613939,77.209021
+1397,Torsten Toeller ,2.2,55,Germany,Fashion & Retail ,52.520007,13.404954
+1397,Riaz Valani ,2.2,45,United States,Finance & Investments ,38.907192,-77.036873
+1397,Pieter van der Does ,2.2,52,Netherlands,Technology ,52.370216,4.895168
+1397,Lang Walker ,2.2,76,Australia,Real Estate ,-35.280937,149.130005
+1397,Hope Welker ,2.2,36,Australia,Metals & Mining ,-35.280937,149.130005
+1397,Xie Bingkun   ,2.2,55,China,Fashion & Retail ,39.904211,116.407395
+1397,William Young ,2.2,81,United States,Manufacturing ,38.907192,-77.036873
+1397,Zhou Jian ,2.2,45,China,Energy ,39.904211,116.407395
+1445,Bill and Jean Adderley   ,2.1,64,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+1445,Mohamed Al Fayed ,2.1,93,Egypt,Fashion & Retail ,30.04442,31.235712
+1445,Faisal Bin Qassim Al Thani ,2.1,74,Qatar,diversified   ,25.285447,51.53104
+1445,Masaaki Arai ,2.1,56,Japan,Real Estate ,35.709026,139.731992
+1445,Tatyana Bakalchuk ,2.1,46,Russia,Fashion & Retail ,55.755826,37.6173
+1445,Lee Bass ,2.1,65,United States,Energy ,38.907192,-77.036873
+1445,Alberto Bombassei ,2.1,81,Italy,Automotive ,41.902784,12.496366
+1445,Jim Breyer ,2.1,60,United States,Technology ,38.907192,-77.036873
+1445,Ron Burkle ,2.1,69,United States,Finance & Investments ,38.907192,-77.036873
+1445,Chen Huwen ,2.1,51,China,Manufacturing ,39.904211,116.407395
+1445,Chen Huxiong ,2.1,51,China,Manufacturing ,39.904211,116.407395
+1445,Chen Xuehua ,2.1,61,China,Metals & Mining ,39.904211,116.407395
+1445,Bruce Cheng ,2.1,86,Taiwan,Technology ,25.032969,121.565418
+1445,Ryan Cohen ,2.1,36,Canada,Finance & Investments ,38.907192,-77.036873
+1445,Dermot Desmond ,2.1,71,Ireland,Finance & Investments ,53.349805,-6.26031
+1445,Fred Ehrsam ,2.1,33,United States,Finance & Investments ,38.907192,-77.036873
+1445,John Elkann ,2.1,46,Italy,Finance & Investments ,41.902784,12.496366
+1445,Bob Ell ,2.1,77,Australia,Real Estate ,-35.280937,149.130005
+1445,Fang Xiaoliang   ,2.1,63,China,Healthcare ,39.904211,116.407395
+1445,Lindsay Fox ,2.1,84,Australia,Logistics ,-35.280937,149.130005
+1445,Gary Friedman ,2.1,64,United States,Fashion & Retail ,38.907192,-77.036873
+1445,Gordon Getty ,2.1,88,United States,Energy ,38.907192,-77.036873
+1445,Dennis Gillings ,2.1,77,United Kingdom,Healthcare ,51.507351,-0.127758
+1445,Harsh Goenka ,2.1,64,India,diversified   ,28.613939,77.209021
+1445,David Hains ,2.1,91,Australia,Finance & Investments ,-35.280937,149.130005
+1445,Bahaa Hariri ,2.1,55,Lebanon,Real Estate ,33.888629,35.495479
+1445,Shmuel Harlap ,2.1,77,Israel,Automotive ,32.0853,34.781768
+1445,Gerry Harvey ,2.1,82,Australia,Fashion & Retail ,-35.280937,149.130005
+1445,Reid Hoffman ,2.1,54,United States,Technology ,38.907192,-77.036873
+1445,Hou Juncheng ,2.1,57,China,Healthcare ,39.904211,116.407395
+1445,Thomas James ,2.1,79,United States,Finance & Investments ,38.907192,-77.036873
+1445,Eiichi Kuriwada ,2.1,75,Japan,Logistics ,35.709026,139.731992
+1445,Kwek Leng Kee ,2.1,67,Singapore,diversified   ,1.280095,103.850949
+1445,Lai Shixian ,2.1,47,China,Fashion & Retail ,39.904211,116.407395
+1445,Lau Cho Kun ,2.1,86,Malaysia,diversified   ,3.139003,101.686855
+1445,Lee Hae-jin ,2.1,54,South Korea,Technology ,37.566535,126.977969
+1445,Harald Link ,2.1,67,Thailand,diversified   ,13.756331,100.501765
+1445,Liu Xiucai   ,2.1,65,United States,Manufacturing ,38.907192,-77.036873
+1445,Yangyong Luo   ,2.1,46,China,Metals & Mining ,39.904211,116.407395
+1445,Igor Makarov ,2.1,60,Russia,Energy ,55.755826,37.6173
+1445,Alexander Mamut ,2.1,62,Russia,Finance & Investments ,55.755826,37.6173
+1445,David Mindus ,2.1,50,Sweden,Real Estate ,59.329323,18.068581
+1445,Yuji Otsuka ,2.1,68,Japan,Technology ,35.709026,139.731992
+1445,Clive Palmer ,2.1,68,Australia,Metals & Mining ,-35.280937,149.130005
+1445,Ajay Parekh ,2.1,64,India,Manufacturing ,28.613939,77.209021
+1445,Narendrakumar Parekh ,2.1,83,India,Manufacturing ,28.613939,77.209021
+1445,Xiangdong Qi ,2.1,51,China,Technology ,39.904211,116.407395
+1445,Jianhua Ren ,2.1,65,China,Manufacturing ,39.904211,116.407395
+1445,Alice Schwartz ,2.1,95,United States,Healthcare ,38.907192,-77.036873
+1445,Peter Sondakh ,2.1,72,Indonesia,Finance & Investments ,-6.208763,106.845599
+1445,Song Fei ,2.1,55,China,Manufacturing ,39.904211,116.407395
+1445,Timothy Springer ,2.1,74,United States,Healthcare ,38.907192,-77.036873
+1445,Suyu Su   ,2.1,73,China,Real Estate ,39.904211,116.407395
+1445,Elizabeth Sy ,2.1,69,Philippines,diversified   ,14.599512,120.98422
+1445,Sukanto Tanoto ,2.1,72,Indonesia,diversified   ,-6.208763,106.845599
+1445,Jayshree Ullal ,2.1,61,United States,Technology ,38.907192,-77.036873
+1445,Sunny Varkey ,2.1,64,India,Service ,28.613939,77.209021
+1445,Jitendra Virwani ,2.1,56,India,Real Estate ,28.613939,77.209021
+1445,Wang Ren-sheng ,2.1,90,Taiwan,Fashion & Retail ,25.032969,121.565418
+1445,Wang Wenmo ,2.1,65,China,Fashion & Retail ,39.904211,116.407395
+1445,Thomas Wu ,2.1,72,Taiwan,Finance & Investments ,25.032969,121.565418
+1445,Wu Ying ,2.1,57,China,Manufacturing ,39.904211,116.407395
+1445,Amy Wyss ,2.1,51,United States,Healthcare ,38.907192,-77.036873
+1445,Xiang Guangming   ,2.1,58,China,Manufacturing ,39.904211,116.407395
+1445,Xu Shugen ,2.1,56,China,Manufacturing ,39.904211,116.407395
+1445,Steven Meng Yang   ,2.1,39,China,Technology ,39.904211,116.407395
+1445,Clayton Zekelman ,2.1,53,Canada,Manufacturing ,38.907192,-77.036873
+1445,Hongfei Zhao ,2.1,47,China,Technology ,39.904211,116.407395
+1513,S. Daniel Abraham ,2,97,United States,Food & Beverage ,38.907192,-77.036873
+1513,Aziz Akhannouch   ,2,61,Morocco,diversified   ,33.97159,-6.849813
+1513,Andrey Andreev ,2,48,United Kingdom,Technology ,51.507351,-0.127758
+1513,Ramon Ang ,2,68,Philippines,Food & Beverage ,14.599512,120.98422
+1513,Guilherme Benchimol ,2,45,Brazil,Finance & Investments ,-15.794229,-47.882166
+1513,Julio Bozano ,2,86,Brazil,Finance & Investments ,-15.794229,-47.882166
+1513,Ryan Breslow ,2,27,United States,Technology ,38.907192,-77.036873
+1513,Cao Jianwei ,2,43,China,Manufacturing ,39.904211,116.407395
+1513,Herb Chambers ,2,80,United States,Automotive ,38.907192,-77.036873
+1513,Daniel Chiu ,2,61,Hong Kong,Energy ,22.396428,114.109497
+1513,Tim Cook ,2,61,United States,Technology ,38.907192,-77.036873
+1513,Brunello Cucinelli   ,2,68,Italy,Fashion & Retail ,41.902784,12.496366
+1513,Georgi Domuschiev ,2,49,Bulgaria,diversified   ,42.697708,23.321868
+1513,Kiril Domuschiev ,2,52,Bulgaria,diversified   ,42.697708,23.321868
+1513,Glenn Dubin ,2,64,United States,Finance & Investments ,38.907192,-77.036873
+1513,James Duff ,2,61,United States,diversified   ,38.907192,-77.036873
+1513,Thomas Duff ,2,65,United States,diversified   ,38.907192,-77.036873
+1513,Robert Duggan ,2,77,United States,Healthcare ,38.907192,-77.036873
+1513,Maria Franca Fissolo ,2,87,Italy,Food & Beverage ,41.902784,12.496366
+1513,Fu Mingkang   ,2,59,China,Manufacturing ,39.904211,116.407395
+1513,Jay Hennick ,2,65,Canada,Finance & Investments ,38.907192,-77.036873
+1513,Orion Hindawi ,2,42,United States,Technology ,38.907192,-77.036873
+1513,Ji Qi ,2,55,China,Real Estate ,39.904211,116.407395
+1513,Kim Chang-soo ,2,61,South Korea,Fashion & Retail ,37.566535,126.977969
+1513,Vyacheslav Kim ,2,52,Kazakhstan,Finance & Investments ,51.160523,71.470356
+1513,Kuan Kam Hon   ,2,74,Malaysia,Manufacturing ,3.139003,101.686855
+1513,Egor Kulkov ,2,50,Russia,Healthcare ,55.755826,37.6173
+1513,Josh Kushner ,2,36,United States,Finance & Investments ,38.907192,-77.036873
+1513,Henry Laufer ,2,76,United States,Finance & Investments ,38.907192,-77.036873
+1513,Thomas Lee ,2,78,United States,Finance & Investments ,38.907192,-77.036873
+1513,Michael Lee-Chin ,2,71,Canada,Finance & Investments ,38.907192,-77.036873
+1513,Li Xuhui ,2,53,China,Food & Beverage ,39.904211,116.407395
+1513,Lim Kok Thay ,2,70,Malaysia,Gambling & Casinos ,3.139003,101.686855
+1513,Joao Roberto Marinho ,2,68,Brazil,Media & Entertainment ,-15.794229,-47.882166
+1513,Jose Roberto Marinho ,2,66,Brazil,Media & Entertainment ,-15.794229,-47.882166
+1513,Roberto Irineu Marinho ,2,74,Brazil,Media & Entertainment ,-15.794229,-47.882166
+1513,Jim McKelvey ,2,56,United States,Technology ,38.907192,-77.036873
+1513,Robert Miller ,2,88,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+1513,David Nahmad ,2,74,Monaco,Fashion & Retail ,43.737411,7.420816
+1513,Florentino Perez ,2,75,Spain,Construction & Engineering ,40.416775,-3.70379
+1513,Jennifer Pritzker ,2,71,United States,Finance & Investments ,38.907192,-77.036873
+1513,Linda Pritzker ,2,68,United States,Service ,38.907192,-77.036873
+1513,P.V. Ramprasad Reddy ,2,64,India,Healthcare ,28.613939,77.209021
+1513,"Joe Rogers, Jr. ",2,75,United States,Food & Beverage ,38.907192,-77.036873
+1513,Ruan Shuilong   ,2,86,China,Manufacturing ,39.904211,116.407395
+1513,Phil Ruffin ,2,87,United States,diversified   ,38.907192,-77.036873
+1513,Vinod Saraf ,2,69,India,Manufacturing ,28.613939,77.209021
+1513,Maria-Elisabeth Schaeffler-Thumann ,2,80,Germany,Automotive ,52.520007,13.404954
+1513,Genhuo Shao ,2,56,China,Food & Beverage ,39.904211,116.407395
+1513,Shen Xiqiang   ,2,74,China,Energy ,39.904211,116.407395
+1513,Shi Wen-long ,2,94,Taiwan,Manufacturing ,25.032969,121.565418
+1513,Thaksin Shinawatra ,2,72,Thailand,Finance & Investments ,13.756331,100.501765
+1513,Alexander Skorobogatko ,2,54,Russia,Logistics ,55.755826,37.6173
+1513,Sylvia Stroeher ,2,66,Germany,Fashion & Retail ,52.520007,13.404954
+1513,Wichai Thongtang ,2,75,Thailand,Finance & Investments ,13.756331,100.501765
+1513,Todd Wagner ,2,61,United States,Media & Entertainment ,38.907192,-77.036873
+1513,Wang Jianguo ,2,62,China,Fashion & Retail ,39.904211,116.407395
+1513,Shuifu Wang ,2,67,China,Manufacturing ,39.904211,116.407395
+1513,Wenbiao Wang ,2,65,China,Manufacturing ,39.904211,116.407395
+1513,Kanye West ,2,44,United States,Fashion & Retail ,38.907192,-77.036873
+1513,Evan Williams ,2,50,United States,Technology ,38.907192,-77.036873
+1513,Zhongyi Wu ,2,48,China,Technology ,39.904211,116.407395
+1513,Zhihan Xu ,2,49,China,Technology ,39.904211,116.407395
+1513,Yan Zhi ,2,49,China,Real Estate ,39.904211,116.407395
+1513,Michael Ying ,2,72,Hong Kong,Fashion & Retail ,22.396428,114.109497
+1513,Yuan Liping ,2,51,Canada,Healthcare ,38.907192,-77.036873
+1579,Anu Aga ,1.9,79,India,Construction & Engineering ,28.613939,77.209021
+1579,Joy Alukkas ,1.9,65,India,Fashion & Retail ,28.613939,77.209021
+1579,Sezai Bacaksiz ,1.9,72,Turkey,diversified   ,,
+1579,Baokun Bai ,1.9,52,China,Manufacturing ,39.904211,116.407395
+1579,Acharya Balkrishna ,1.9,49,India,Food & Beverage ,28.613939,77.209021
+1579,Kiki Barki ,1.9,82,Indonesia,Energy ,-6.208763,106.845599
+1579,John Bloor ,1.9,78,United Kingdom,diversified   ,51.507351,-0.127758
+1579,Nicola Bulgari ,1.9,81,Italy,Fashion & Retail ,41.902784,12.496366
+1579,Alejandro Bulgheroni ,1.9,77,Argentina,Energy ,-34.603683,-58.381557
+1579,Chen Kaichen ,1.9,64,China,Manufacturing ,39.904211,116.407395
+1579,Fernando Chico Pardo ,1.9,70,Mexico,Service ,19.432608,-99.133208
+1579,Jose Luis Cutrale ,1.9,75,Brazil,Food & Beverage ,-15.794229,-47.882166
+1579,D. Leopoldo Del Pino ,1.9,59,Spain,Construction & Engineering ,40.416775,-3.70379
+1579,James Dinan ,1.9,62,United States,Finance & Investments ,38.907192,-77.036873
+1579,Francois Feuillet   ,1.9,73,France,Automotive ,48.856614,2.352222
+1579,Guangming Fu   ,1.9,68,China,Food & Beverage ,39.904211,116.407395
+1579,Mario Gabelli ,1.9,80,United States,Finance & Investments ,38.907192,-77.036873
+1579,Reinold Geiger ,1.9,74,Austria,Fashion & Retail ,48.208176,16.373819
+1579,He Zhenggang ,1.9,68,China,Manufacturing ,39.904211,116.407395
+1579,Roberto Hernandez Ramirez ,1.9,80,Mexico,Finance & Investments ,19.432608,-99.133208
+1579,Hoi Kin Hong ,1.9,69,Macau,Real Estate ,22.166667,113.55
+1579,Huang Qiaoling ,1.9,63,China,Media & Entertainment ,39.904211,116.407395
+1579,Willis Johnson ,1.9,74,United States,Automotive ,38.907192,-77.036873
+1579,Keeree Kanjanapas ,1.9,71,Thailand,Real Estate ,13.756331,100.501765
+1579,Kim Dae-il ,1.9,42,South Korea,Technology ,37.566535,126.977969
+1579,Kim Hyoung-nyon ,1.9,46,South Korea,Finance & Investments ,37.566535,126.977969
+1579,Andrei Kozitsyn ,1.9,61,Russia,Metals & Mining ,55.755826,37.6173
+1579,Thomas Kwok ,1.9,70,Hong Kong,Real Estate ,22.396428,114.109497
+1579,Lei Jufang ,1.9,69,China,Healthcare ,39.904211,116.407395
+1579,David Lichtenstein ,1.9,60,United States,Real Estate ,38.907192,-77.036873
+1579,Lin Dingqiang   ,1.9,55,Hong Kong,Real Estate ,22.396428,114.109497
+1579,Mikhail Lomtadze ,1.9,46,Georgia,Finance & Investments ,41.715138,44.827096
+1579,Melissa Ma ,1.9,64,China,Technology ,39.904211,116.407395
+1579,Yusaku Maezawa ,1.9,46,Japan,Technology ,35.709026,139.731992
+1579,Katarina Martinson ,1.9,40,Sweden,diversified   ,59.329323,18.068581
+1579,Shouliang Miao ,1.9,67,China,Real Estate ,39.904211,116.407395
+1579,Romano Minozzi ,1.9,87,Italy,diversified   ,41.902784,12.496366
+1579,Pedro Moreira Salles ,1.9,62,Brazil,diversified   ,-15.794229,-47.882166
+1579,Alexander Nesis ,1.9,59,Russia,Finance & Investments ,55.755826,37.6173
+1579,Nguyen Dang Quang ,1.9,58,Vietnam,Food & Beverage ,21.027764,105.83416
+1579,Oei Hong Leong ,1.9,74,Singapore,Finance & Investments ,1.280095,103.850949
+1579,Nihat Ozdemir ,1.9,72,Turkey,diversified   ,,
+1579,Gretel Packer ,1.9,56,Australia,Media & Entertainment ,-35.280937,149.130005
+1579,Benjamin Zhengmin Pan   ,1.9,52,China,Technology ,39.904211,116.407395
+1579,Victor Pinchuk ,1.9,61,Ukraine,Metals & Mining ,50.4501,30.5234
+1579,Alexander Ponomarenko ,1.9,57,Russia,Logistics ,55.755826,37.6173
+1579,Qi Jinxing ,1.9,60,China,Real Estate ,39.904211,116.407395
+1579,Larry Robbins ,1.9,52,United States,Finance & Investments ,38.907192,-77.036873
+1579,Dwight Schar ,1.9,80,United States,Construction & Engineering ,38.907192,-77.036873
+1579,Shi Yifeng ,1.9,48,China,Healthcare ,39.904211,116.407395
+1579,Sun Hongjun ,1.9,48,China,Technology ,39.904211,116.407395
+1579,Anand Surana ,1.9,51,India,Healthcare ,28.613939,77.209021
+1579,Dilip Surana ,1.9,56,India,Healthcare ,28.613939,77.209021
+1579,Djoko Susanto ,1.9,72,Indonesia,Fashion & Retail ,-6.208763,106.845599
+1579,Sze Man Bok ,1.9,72,China,Manufacturing ,39.904211,116.407395
+1579,Alain Taravella ,1.9,74,France,Real Estate ,48.856614,2.352222
+1579,Martin Viessmann ,1.9,68,Germany,Manufacturing ,52.520007,13.404954
+1579,Georg von Opel ,1.9,55,Switzerland,Finance & Investments ,46.947974,7.447447
+1579,Changtian Wang ,1.9,56,China,Media & Entertainment ,39.904211,116.407395
+1579,Wang Chaobin ,1.9,66,China,Real Estate ,39.904211,116.407395
+1579,Wang Chou-hsiong ,1.9,81,Taiwan,Manufacturing ,25.032969,121.565418
+1579,Wang Xiaoshen ,1.9,53,China,Manufacturing ,39.904211,116.407395
+1579,Wei Yin-Heng ,1.9,63,Taiwan,Food & Beverage ,25.032969,121.565418
+1579,Xue Xiangdong   ,1.9,63,China,Technology ,39.904211,116.407395
+1579,Yuan Fugen   ,1.9,71,China,Manufacturing ,39.904211,116.407395
+1579,David Zalik ,1.9,48,United States,Technology ,38.907192,-77.036873
+1645,Leslie Alexander ,1.8,78,United States,Sports ,38.907192,-77.036873
+1645,Igor Altushkin ,1.8,51,Russia,Metals & Mining ,55.755826,37.6173
+1645,Roberto Angelini Rossi ,1.8,73,Chile,diversified   ,-33.44889,-70.669265
+1645,Nigel Austin ,1.8,51,Australia,Fashion & Retail ,-35.280937,149.130005
+1645,Bang Jun-hyuk ,1.8,53,South Korea,Media & Entertainment ,37.566535,126.977969
+1645,O. Francis Biondi ,1.8,57,United States,Finance & Investments ,38.907192,-77.036873
+1645,Chang Byung-gyu ,1.8,48,South Korea,Technology ,37.566535,126.977969
+1645,Chang Kuo-Ming ,1.8,64,Taiwan,Logistics ,25.032969,121.565418
+1645,Chen Gang ,1.8,54,China,Energy ,39.904211,116.407395
+1645,Liying Chen ,1.8,46,China,Logistics ,39.904211,116.407395
+1645,Chen Xueli ,1.8,70,China,Healthcare ,39.904211,116.407395
+1645,Chi Yufeng ,1.8,51,China,Technology ,39.904211,116.407395
+1645,Mark Coombs ,1.8,61,United Kingdom,Finance & Investments ,51.507351,-0.127758
+1645,Tench Coxe ,1.8,64,United States,Finance & Investments ,38.907192,-77.036873
+1645,John de Mol ,1.8,67,Netherlands,Media & Entertainment ,52.370216,4.895168
+1645,Alfredo Egydio Arruda Villela Filho ,1.8,52,Brazil,Finance & Investments ,-15.794229,-47.882166
+1645,Ibrahim Erdemoglu ,1.8,59,Turkey,Manufacturing ,,
+1645,Philip Fayer ,1.8,64,Canada,Finance & Investments ,38.907192,-77.036873
+1645,Paul Foster ,1.8,64,United States,Energy ,38.907192,-77.036873
+1645,James France ,1.8,77,United States,Sports ,38.907192,-77.036873
+1645,Yasuhiro Fukushima ,1.8,74,Japan,Media & Entertainment ,35.709026,139.731992
+1645,Zhongru Gan ,1.8,73,China,Healthcare ,39.904211,116.407395
+1645,Rahul Gautam ,1.8,69,India,Fashion & Retail ,28.613939,77.209021
+1645,Ali Ghodsi ,1.8,43,Sweden,Technology ,59.329323,18.068581
+1645,Giammaria Giuliani ,1.8,44,Switzerland,Healthcare ,46.947974,7.447447
+1645,Christopher Goldsbury ,1.8,79,United States,Food & Beverage ,38.907192,-77.036873
+1645,Alexandre Grendene Bartelle ,1.8,72,Brazil,Fashion & Retail ,-15.794229,-47.882166
+1645,Surjit Kumar Gupta ,1.8,80,India,Manufacturing ,28.613939,77.209021
+1645,Brian Higgins ,1.8,57,United States,Finance & Investments ,38.907192,-77.036873
+1645,David Hindawi ,1.8,77,United States,Technology ,38.907192,-77.036873
+1645,Chengzhong Hu ,1.8,61,China,Manufacturing ,39.904211,116.407395
+1645,Huang Min ,1.8,48,China,Manufacturing ,39.904211,116.407395
+1645,Stanley Hubbard ,1.8,88,United States,Media & Entertainment ,38.907192,-77.036873
+1645,Hui Lin Chit ,1.8,68,China,Manufacturing ,39.904211,116.407395
+1645,Hal Jackman ,1.8,89,Canada,Finance & Investments ,38.907192,-77.036873
+1645,Stephen Jarislowsky ,1.8,96,Canada,Finance & Investments ,38.907192,-77.036873
+1645,Mark & Robyn Jones ,1.8,64,United States,Finance & Investments ,38.907192,-77.036873
+1645,George Joseph ,1.8,100,United States,Finance & Investments ,38.907192,-77.036873
+1645,Kim Kardashian ,1.8,41,United States,Fashion & Retail ,38.907192,-77.036873
+1645,Dominika Kulczyk ,1.8,44,Poland,Finance & Investments ,52.229676,21.012229
+1645,Edward Lampert ,1.8,59,United States,Finance & Investments ,38.907192,-77.036873
+1645,Marc Lasry ,1.8,61,United States,Finance & Investments ,38.907192,-77.036873
+1645,Michiel Le Roux ,1.8,72,South Africa,Finance & Investments ,-25.747868,28.229271
+1645,Peter Leibinger ,1.8,55,Germany,Manufacturing ,52.520007,13.404954
+1645,Regine Leibinger ,1.8,59,Germany,Manufacturing ,52.520007,13.404954
+1645,Nicola Leibinger-Kammueller ,1.8,62,Germany,Manufacturing ,52.520007,13.404954
+1645,Wolfgang Leitner ,1.8,69,Austria,Construction & Engineering ,48.208176,16.373819
+1645,Liu Zhongtian   ,1.8,58,China,Manufacturing ,39.904211,116.407395
+1645,Bill Malhotra ,1.8,72,Canada,Real Estate ,38.907192,-77.036873
+1645,Charlwin Mao ,1.8,64,China,Fashion & Retail ,39.904211,116.407395
+1645,George Marcus ,1.8,80,United States,Real Estate ,38.907192,-77.036873
+1645,Yves-Loic Martin ,1.8,56,France,Healthcare ,48.856614,2.352222
+1645,Gary Michelson ,1.8,73,United States,Healthcare ,38.907192,-77.036873
+1645,Robert G. Miller ,1.8,76,Canada,Technology ,38.907192,-77.036873
+1645,Fernando Roberto Moreira Salles ,1.8,75,Brazil,diversified   ,-15.794229,-47.882166
+1645,Joao Moreira Salles ,1.8,60,Brazil,diversified   ,-15.794229,-47.882166
+1645,Walther Moreira Salles Junior ,1.8,65,Brazil,Finance & Investments ,-15.794229,-47.882166
+1645,Zugen Ni ,1.8,65,China,Manufacturing ,39.904211,116.407395
+1645,Liora Ofer ,1.8,68,Israel,Finance & Investments ,32.0853,34.781768
+1645,Mrudula Parekh ,1.8,74,India,Manufacturing ,28.613939,77.209021
+1645,David Paul ,1.8,55,United States,Healthcare ,38.907192,-77.036873
+1645,Pierre Karl Péladeau ,1.8,60,Canada,Media & Entertainment ,38.907192,-77.036873
+1645,Miranda Qu ,1.8,37,China,Fashion & Retail ,39.904211,116.407395
+1645,Phillip T. (Terry) Ragon ,1.8,72,United States,Technology ,38.907192,-77.036873
+1645,G. Rajendran ,1.8,79,India,Fashion & Retail ,28.613939,77.209021
+1645,Krit Ratanarak ,1.8,75,Thailand,Media & Entertainment ,13.756331,100.501765
+1645,Jerry Reinsdorf ,1.8,86,United States,Sports ,38.907192,-77.036873
+1645,Mochtar Riady   ,1.8,92,Indonesia,diversified   ,-6.208763,106.845599
+1645,Rajju Shroff ,1.8,88,India,Manufacturing ,28.613939,77.209021
+1645,Frank Slootman ,1.8,63,United States,Technology ,38.907192,-77.036873
+1645,Henry Swieca ,1.8,64,United States,Finance & Investments ,38.907192,-77.036873
+1645,Yuequn Tao ,1.8,62,China,Fashion & Retail ,39.904211,116.407395
+1645,Robert Toennies ,1.8,43,Germany,Food & Beverage ,52.520007,13.404954
+1645,Torbjorn Tornqvist ,1.8,68,Sweden,Energy ,59.329323,18.068581
+1645,Zhenghua Wang ,1.8,77,China,Service ,39.904211,116.407395
+1645,Charlotte Colket Weber ,1.8,79,United States,Food & Beverage ,38.907192,-77.036873
+1645,Wu Lanlan   ,1.8,48,China,Manufacturing ,39.904211,116.407395
+1645,Wu Yulan ,1.8,52,China,Healthcare ,39.904211,116.407395
+1645,Elaine Wynn ,1.8,79,United States,Gambling & Casinos ,38.907192,-77.036873
+1645,Xu Shijun   ,1.8,59,China,Manufacturing ,39.904211,116.407395
+1645,Xu Xudong   ,1.8,52,China,Automotive ,39.904211,116.407395
+1645,Yang Xuegang ,1.8,57,China,Manufacturing ,39.904211,116.407395
+1645,Zhang Chuanwei   ,1.8,59,China,Manufacturing ,39.904211,116.407395
+1645,Xuexin Zhang   ,1.8,74,China,Metals & Mining ,39.904211,116.407395
+1729,Noubar Afeyan ,1.7,59,United States,Healthcare ,38.907192,-77.036873
+1729,Farkhad Akhmedov ,1.7,66,Russia,Energy ,55.755826,37.6173
+1729,Marc Andreessen ,1.7,50,United States,Finance & Investments ,38.907192,-77.036873
+1729,John Bicket ,1.7,42,United States,Technology ,38.907192,-77.036873
+1729,Zadik Bino   ,1.7,78,Israel,diversified   ,32.0853,34.781768
+1729,Alex Birkenstock ,1.7,53,Germany,Fashion & Retail ,52.520007,13.404954
+1729,Christian Birkenstock ,1.7,49,Germany,Fashion & Retail ,52.520007,13.404954
+1729,Sanjit Biswas ,1.7,40,United States,Technology ,38.907192,-77.036873
+1729,David Booth ,1.7,76,United States,Finance & Investments ,38.907192,-77.036873
+1729,Josef Boquoi   ,1.7,88,Germany,Food & Beverage ,52.520007,13.404954
+1729,Saket Burman ,1.7,45,United Kingdom,Food & Beverage ,51.507351,-0.127758
+1729,Mingtong Cai ,1.7,70,China,Technology ,39.904211,116.407395
+1729,Chen Yung-tai ,1.7,86,Taiwan,Real Estate ,25.032969,121.565418
+1729,Manas Chiaravanond ,1.7,64,Thailand,diversified   ,13.756331,100.501765
+1729,Phongthep Chiaravanont ,1.7,70,Thailand,diversified   ,13.756331,100.501765
+1729,Ivan Chrenko ,1.7,54,Slovakia,Real Estate ,48.145892,17.107137
+1729,Sol Daurella ,1.7,56,Spain,Food & Beverage ,40.416775,-3.70379
+1729,Dulce Pugliese de Godoy Bueno ,1.7,74,Brazil,Healthcare ,-15.794229,-47.882166
+1729,Norbert Dentressangle ,1.7,67,France,Logistics ,48.856614,2.352222
+1729,Oleg Deripaska ,1.7,54,Russia,Metals & Mining ,55.755826,37.6173
+1729,Dong Jinggui ,1.7,52,China,Automotive ,39.904211,116.407395
+1729,Keith Dunleavy   ,1.7,52,United States,Healthcare ,38.907192,-77.036873
+1729,Donald Foss ,1.7,77,United States,Automotive ,38.907192,-77.036873
+1729,Rolf Gerling ,1.7,67,Germany,Finance & Investments ,52.520007,13.404954
+1729,G. Gnanalingam ,1.7,77,Malaysia,Logistics ,3.139003,101.686855
+1729,He Zhaoxi ,1.7,48,China,Technology ,39.904211,116.407395
+1729,William Heinecke ,1.7,72,Thailand,Real Estate ,13.756331,100.501765
+1729,Huh Jae-myung ,1.7,50,South Korea,Manufacturing ,37.566535,126.977969
+1729,Tianjiang Jia   ,1.7,59,China,Metals & Mining ,39.904211,116.407395
+1729,Michael Jordan ,1.7,59,United States,Sports ,38.907192,-77.036873
+1729,Dmitry Kamenshchik ,1.7,53,Russia,Service ,55.755826,37.6173
+1729,Kim Taek-jin ,1.7,55,South Korea,Media & Entertainment ,37.566535,126.977969
+1729,Koo Kwang-mo ,1.7,44,South Korea,diversified   ,37.566535,126.977969
+1729,Anthony Langley ,1.7,67,United Kingdom,diversified   ,51.507351,-0.127758
+1729,Lee Joong-keun ,1.7,81,South Korea,Construction & Engineering ,37.566535,126.977969
+1729,James Leininger ,1.7,77,United States,Healthcare ,38.907192,-77.036873
+1729,Li Haiyan ,1.7,64,China,Food & Beverage ,39.904211,116.407395
+1729,Li Jianli ,1.7,49,China,Manufacturing ,39.904211,116.407395
+1729,Weiwei Li ,1.7,45,China,Technology ,39.904211,116.407395
+1729,Li Zhigang ,1.7,45,China,Manufacturing ,39.904211,116.407395
+1729,Jimmy John Liautaud ,1.7,58,United States,Food & Beverage ,38.907192,-77.036873
+1729,Louise Lindh ,1.7,42,Sweden,diversified   ,59.329323,18.068581
+1729,Lu Di ,1.7,64,China,Technology ,39.904211,116.407395
+1729,Anand Mahindra ,1.7,66,India,diversified   ,28.613939,77.209021
+1729,Bruce Mathieson ,1.7,78,Australia,Food & Beverage ,-35.280937,149.130005
+1729,Billy Joe (Red) McCombs ,1.7,94,United States,diversified   ,38.907192,-77.036873
+1729,Deepak Mehta ,1.7,65,India,Manufacturing ,28.613939,77.209021
+1729,Mario Moretti Polegato   ,1.7,69,Italy,Fashion & Retail ,41.902784,12.496366
+1729,Alberto Palatchi ,1.7,72,Spain,Fashion & Retail ,40.416775,-3.70379
+1729,Nelson Peltz ,1.7,79,United States,Finance & Investments ,38.907192,-77.036873
+1729,Jorge Perez ,1.7,72,United States,Real Estate ,38.907192,-77.036873
+1729,Alberto Prada ,1.7,68,Italy,Fashion & Retail ,41.902784,12.496366
+1729,Marina Prada ,1.7,76,Italy,Fashion & Retail ,41.902784,12.496366
+1729,M.Satyanarayana Reddy ,1.7,64,India,Healthcare ,28.613939,77.209021
+1729,Rihanna ,1.7,34,Barbados,Fashion & Retail ,13.113222,-59.598809
+1729,Arkady Rotenberg ,1.7,70,Russia,Construction & Engineering ,55.755826,37.6173
+1729,Dieter Schnabel ,1.7,76,Germany,Manufacturing ,52.520007,13.404954
+1729,Shang Xiaobo   ,1.7,48,China,Manufacturing ,39.904211,116.407395
+1729,Shao Qinxiang ,1.7,67,China,Manufacturing ,39.904211,116.407395
+1729,Renate Sick-Glaser ,1.7,64,Germany,Technology ,52.520007,13.404954
+1729,Basudeo Singh ,1.7,81,India,Healthcare ,28.613939,77.209021
+1729,Edward Stack ,1.7,67,United States,Fashion & Retail ,38.907192,-77.036873
+1729,Weijie Sun ,1.7,58,China,Manufacturing ,39.904211,116.407395
+1729,Vonnarat Tangkaravakoon ,1.7,50,Thailand,Manufacturing ,13.756331,100.501765
+1729,Byron Trott ,1.7,63,United States,Finance & Investments ,38.907192,-77.036873
+1729,Jan Van Geet ,1.7,50,Belgium,Real Estate ,50.85034,4.35171
+1729,Radha Vembu ,1.7,49,India,Technology ,28.613939,77.209021
+1729,Patrizio Vinciarelli ,1.7,75,United States,Technology ,38.907192,-77.036873
+1729,Mingwang Wang ,1.7,54,China,Manufacturing ,39.904211,116.407395
+1729,Wang Yanqing   ,1.7,75,China,Manufacturing ,39.904211,116.407395
+1729,Lars Wingefors ,1.7,45,Sweden,Media & Entertainment ,59.329323,18.068581
+1729,Stephen Winn ,1.7,75,United States,Real Estate ,38.907192,-77.036873
+1729,Ian Wood   ,1.7,79,United Kingdom,Energy ,51.507351,-0.127758
+1729,Gordon Wu ,1.7,86,Hong Kong,Real Estate ,22.396428,114.109497
+1729,Wu Xiangdong ,1.7,53,China,Food & Beverage ,39.904211,116.407395
+1729,Yao Kuizhang ,1.7,57,China,Food & Beverage ,39.904211,116.407395
+1729,Vladimir Yevtushenkov ,1.7,73,Russia,Telecom ,55.755826,37.6173
+1729,Dasheng Yi ,1.7,61,China,diversified   ,39.904211,116.407395
+1729,Yu Lili ,1.7,54,China,Manufacturing ,39.904211,116.407395
+1729,Alan Zekelman ,1.7,59,Canada,Manufacturing ,38.907192,-77.036873
+1729,Kaitian Zeng ,1.7,47,China,Technology ,39.904211,116.407395
+1729,Zhang Jingzhang   ,1.7,86,China,Manufacturing ,39.904211,116.407395
+1729,Zhang Yubai ,1.7,57,China,Food & Beverage ,39.904211,116.407395
+1729,Zheng Hong   ,1.7,71,China,Technology ,39.904211,116.407395
+1729,Zhong Peifeng ,1.7,59,United States,Telecom ,38.907192,-77.036873
+1729,Zhou Zongwen   ,1.7,65,China,Fashion & Retail ,39.904211,116.407395
+1729,Zhu Yiming ,1.7,49,China,Technology ,39.904211,116.407395
+1729,Zhaojiang Zhu ,1.7,48,China,Manufacturing ,39.904211,116.407395
+1729,Anita Zucker ,1.7,70,United States,Manufacturing ,38.907192,-77.036873
+1818,"Herbert Allen, Jr.   ",1.6,82,United States,Finance & Investments ,38.907192,-77.036873
+1818,Vasily Anisimov ,1.6,70,Russia,Metals & Mining ,55.755826,37.6173
+1818,Mori Arkin ,1.6,69,Israel,Healthcare ,32.0853,34.781768
+1818,Semahat Sevim Arsel ,1.6,93,Turkey,diversified   ,,
+1818,Clifford Asness ,1.6,55,United States,Finance & Investments ,38.907192,-77.036873
+1818,Louis Bacon ,1.6,65,United States,Finance & Investments ,38.907192,-77.036873
+1818,Hari Bhartia ,1.6,65,India,diversified   ,28.613939,77.209021
+1818,Shyam Bhartia ,1.6,69,India,Healthcare ,28.613939,77.209021
+1818,Amit Burman ,1.6,52,India,Food & Beverage ,28.613939,77.209021
+1818,Chen Shibin ,1.6,55,China,Manufacturing ,39.904211,116.407395
+1818,Chen Tianshi ,1.6,37,China,Technology ,39.904211,116.407395
+1818,Robert Clark ,1.6,63,United States,Construction & Engineering ,38.907192,-77.036873
+1818,Ana Lucia de Mattos Barretto Villela ,1.6,48,Brazil,Finance & Investments ,-15.794229,-47.882166
+1818,Diao Zhizhong ,1.6,58,China,Technology ,39.904211,116.407395
+1818,Jamie Dimon ,1.6,66,United States,Finance & Investments ,38.907192,-77.036873
+1818,Gary Fegel ,1.6,48,Switzerland,Metals & Mining ,46.947974,7.447447
+1818,Gao Yunfeng ,1.6,55,China,Manufacturing ,39.904211,116.407395
+1818,Philippe Ginestet   ,1.6,68,France,Fashion & Retail ,48.856614,2.352222
+1818,Sebastian Glaser ,1.6,64,Germany,Technology ,52.520007,13.404954
+1818,Sam Goi ,1.6,75,Singapore,Food & Beverage ,1.280095,103.850949
+1818,Lance Gokongwei ,1.6,54,Philippines,diversified   ,14.599512,120.98422
+1818,Sergei Gordeev ,1.6,49,Russia,Real Estate ,55.755826,37.6173
+1818,Bill Gross ,1.6,77,United States,Finance & Investments ,38.907192,-77.036873
+1818,Sue Gross ,1.6,72,United States,Finance & Investments ,38.907192,-77.036873
+1818,Patrick Hanrahan ,1.6,66,United States,Technology ,38.907192,-77.036873
+1818,Lutz Mario Helmig ,1.6,75,Germany,Healthcare ,52.520007,13.404954
+1818,Ilkka Herlin ,1.6,63,Finland,Manufacturing ,60.173324,24.941025
+1818,Asok Kumar Hiranandani ,1.6,67,Singapore,Real Estate ,1.280095,103.850949
+1818,Hu Kunhui ,1.6,31,China,Healthcare ,39.904211,116.407395
+1818,Archie Hwang ,1.6,69,Taiwan,Technology ,25.032969,121.565418
+1818,Jared Isaacman ,1.6,39,United States,Technology ,38.907192,-77.036873
+1818,Anurang Jain ,1.6,60,India,Manufacturing ,28.613939,77.209021
+1818,Jin Lei   ,1.6,67,China,Healthcare ,39.904211,116.407395
+1818,Sunjay Kapur ,1.6,50,United States,Automotive ,38.907192,-77.036873
+1818,Richard Kayne ,1.6,76,United States,Finance & Investments ,38.907192,-77.036873
+1818,Randal J. Kirk ,1.6,68,United States,Healthcare ,38.907192,-77.036873
+1818,Jim Koch ,1.6,72,United States,Food & Beverage ,38.907192,-77.036873
+1818,William Koch ,1.6,81,United States,Energy ,38.907192,-77.036873
+1818,Kagemasa Kozuki ,1.6,81,Japan,Technology ,35.709026,139.731992
+1818,Arvind Lal ,1.6,72,India,Healthcare ,28.613939,77.209021
+1818,Robert Langer ,1.6,73,United States,Healthcare ,38.907192,-77.036873
+1818,Theodore Leonsis ,1.6,66,United States,Sports ,38.907192,-77.036873
+1818,David Xueling Li ,1.6,49,China,Technology ,39.904211,116.407395
+1818,Li Denghai ,1.6,72,China,Food & Beverage ,39.904211,116.407395
+1818,Li Guoqing ,1.6,52,China,Manufacturing ,39.904211,116.407395
+1818,Li Jiaquan ,1.6,58,China,Manufacturing ,39.904211,116.407395
+1818,Li Rucheng ,1.6,70,China,Fashion & Retail ,39.904211,116.407395
+1818,Li Sze Lim ,1.6,65,Hong Kong,Real Estate ,22.396428,114.109497
+1818,Li Yongqing ,1.6,57,China,Manufacturing ,39.904211,116.407395
+1818,Lim Wee Chai ,1.6,64,Malaysia,Manufacturing ,3.139003,101.686855
+1818,Liu Aisen   ,1.6,49,China,Construction & Engineering ,39.904211,116.407395
+1818,Liu Ming Chung ,1.6,59,Brazil,Manufacturing ,-15.794229,-47.882166
+1818,Vincent Lo ,1.6,73,Hong Kong,Real Estate ,22.396428,114.109497
+1818,Brandt Louie ,1.6,78,Canada,Food & Beverage ,38.907192,-77.036873
+1818,Catherine Lozick ,1.6,76,United States,Manufacturing ,38.907192,-77.036873
+1818,Lu Zongjun ,1.6,58,China,Logistics ,39.904211,116.407395
+1818,Lv Jianming ,1.6,57,Hong Kong,Healthcare ,22.396428,114.109497
+1818,"Cargill MacMillan, III. ",1.6,62,United States,Food & Beverage ,38.907192,-77.036873
+1818,Duncan MacMillan ,1.6,84,United States,Finance & Investments ,38.907192,-77.036873
+1818,John MacMillan ,1.6,72,United States,Food & Beverage ,38.907192,-77.036873
+1818,Martha MacMillan ,1.6,70,United States,Food & Beverage ,38.907192,-77.036873
+1818,William MacMillan ,1.6,67,United States,Food & Beverage ,38.907192,-77.036873
+1818,Terence (Terry) Matthews ,1.6,79,Canada,Telecom ,38.907192,-77.036873
+1818,Kazuo Okada ,1.6,79,Japan,Gambling & Casinos ,35.709026,139.731992
+1818,Tomas Olivo Lopez ,1.6,48,Spain,Real Estate ,40.416775,-3.70379
+1818,Jorge Pinheiro Koren de Lima ,1.6,49,Brazil,Healthcare ,-15.794229,-47.882166
+1818,Candido Pinheiro Koren de Lima Junior ,1.6,51,Brazil,Healthcare ,-15.794229,-47.882166
+1818,Qian Ying ,1.6,56,China,Food & Beverage ,39.904211,116.407395
+1818,Ren Jinsheng   ,1.6,59,China,Healthcare ,39.904211,116.407395
+1818,Brian Roberts ,1.6,62,United States,Media & Entertainment ,38.907192,-77.036873
+1818,Austin Russell ,1.6,27,United States,Automotive ,38.907192,-77.036873
+1818,George Sakellaris ,1.6,75,United States,Energy ,38.907192,-77.036873
+1818,Sheryl Sandberg ,1.6,52,United States,Technology ,38.907192,-77.036873
+1818,Andres Santo Domingo ,1.6,43,United States,Food & Beverage ,38.907192,-77.036873
+1818,Paul Saville ,1.6,66,United States,Real Estate ,38.907192,-77.036873
+1818,Ivan Savvidis ,1.6,63,Russia,diversified   ,55.755826,37.6173
+1818,Michael Saylor ,1.6,57,United States,Technology ,38.907192,-77.036873
+1818,Gerald Schwartz ,1.6,80,Canada,Finance & Investments ,38.907192,-77.036873
+1818,Sathien Setthasit ,1.6,67,Thailand,Food & Beverage ,13.756331,100.501765
+1818,Niraj Shah ,1.6,48,United States,Technology ,38.907192,-77.036873
+1818,Keiichi Shibahara ,1.6,57,Japan,Healthcare ,35.709026,139.731992
+1818,Evgeny (Eugene) Shvidler ,1.6,58,United States,Energy ,38.907192,-77.036873
+1818,Ryan Smith ,1.6,43,United States,Technology ,38.907192,-77.036873
+1818,Peter Sperling ,1.6,62,United States,Service ,38.907192,-77.036873
+1818,Ion Stoica ,1.6,57,Romania,Technology ,44.426767,26.102538
+1818,Bambang Sutantio ,1.6,63,Indonesia,Food & Beverage ,-6.208763,106.845599
+1818,Lili Tan ,1.6,64,China,Food & Beverage ,39.904211,116.407395
+1818,Tan Yu Yeh ,1.6,51,Malaysia,Fashion & Retail ,3.139003,101.686855
+1818,David Teoh ,1.6,66,Australia,Telecom ,-35.280937,149.130005
+1818,Carl Thoma ,1.6,73,United States,Finance & Investments ,38.907192,-77.036873
+1818,Ion Tiriac ,1.6,82,Romania,Finance & Investments ,44.426767,26.102538
+1818,Clemens Toennies ,1.6,65,Germany,Food & Beverage ,52.520007,13.404954
+1818,Tran Ba Duong   ,1.6,62,Vietnam,Automotive ,21.027764,105.83416
+1818,Tseng Sing-ai ,1.6,64,Taiwan,Manufacturing ,25.032969,121.565418
+1818,Tung Ching Bor ,1.6,59,China,Manufacturing ,39.904211,116.407395
+1818,Tung Ching Sai ,1.6,57,China,Manufacturing ,39.904211,116.407395
+1818,Scott Watterson ,1.6,66,United States,Technology ,38.907192,-77.036873
+1818,Wei Ing-Chou ,1.6,68,Taiwan,Food & Beverage ,25.032969,121.565418
+1818,Wei Yin-Chun ,1.6,65,Taiwan,Food & Beverage ,25.032969,121.565418
+1818,Wei Ying-Chiao ,1.6,67,Taiwan,Food & Beverage ,25.032969,121.565418
+1818,Tom Werner ,1.6,71,United States,Sports ,38.907192,-77.036873
+1818,Kie Chie Wong ,1.6,74,Malaysia,Metals & Mining ,3.139003,101.686855
+1818,Xu Guozhong   ,1.6,58,China,Manufacturing ,39.904211,116.407395
+1818,Xu Yuejuan ,1.6,60,China,Manufacturing ,39.904211,116.407395
+1818,Yang Tingdong ,1.6,61,China,Food & Beverage ,39.904211,116.407395
+1818,Yu Peidi ,1.6,62,Hong Kong,Real Estate ,22.396428,114.109497
+1818,Matei Zaharia ,1.6,36,Romania,Technology ,44.426767,26.102538
+1818,Zhang Jian ,1.6,53,China,Manufacturing ,39.904211,116.407395
+1818,Keqiang Zhang ,1.6,61,China,Real Estate ,39.904211,116.407395
+1818,Zheng Jianjiang   ,1.6,61,China,Manufacturing ,39.904211,116.407395
+1818,Zhong Sheng Jian ,1.6,64,Singapore,Real Estate ,1.280095,103.850949
+1929,Antti Aarnio-Wihuri ,1.5,82,Finland,diversified   ,60.173324,24.941025
+1929,Hamdi Akin   ,1.5,67,Turkey,diversified   ,,
+1929,Chirayu Amin ,1.5,75,India,Healthcare ,28.613939,77.209021
+1929,Joachim Ante ,1.5,39,Germany,Technology ,52.520007,13.404954
+1929,Ziv Aviram ,1.5,63,Israel,Automotive ,32.0853,34.781768
+1929,Danna Azrieli ,1.5,54,Israel,Real Estate ,32.0853,34.781768
+1929,Naomi Azrieli ,1.5,56,Canada,Real Estate ,38.907192,-77.036873
+1929,Sharon Azrieli ,1.5,61,Canada,Real Estate ,38.907192,-77.036873
+1929,Lesley Bamberger ,1.5,56,Netherlands,Real Estate ,52.370216,4.895168
+1929,Bernhard Braun-Luedicke ,1.5,45,Germany,Healthcare ,52.520007,13.404954
+1929,Eva Maria Braun-Luedicke ,1.5,35,Germany,Healthcare ,52.520007,13.404954
+1929,Ana Maria Brescia Cafferata ,1.5,97,Peru,diversified   ,-12.046374,-77.042793
+1929,Nikolai Buinov ,1.5,54,Russia,Energy ,55.755826,37.6173
+1929,Paolo Bulgari ,1.5,84,Italy,Fashion & Retail ,41.902784,12.496366
+1929,Andres Bzurovski Bay ,1.5,44,Uruguay,Finance & Investments ,-34.901113,-56.164531
+1929,Ahmet Calik ,1.5,64,Turkey,diversified   ,39.933364,32.859742
+1929,Giuliana Caprotti ,1.5,81,Italy,Food & Beverage ,41.902784,12.496366
+1929,Marina Caprotti ,1.5,44,Italy,Food & Beverage ,41.902784,12.496366
+1929,Steve Case ,1.5,63,United States,Technology ,38.907192,-77.036873
+1929,Safra Catz ,1.5,60,United States,Technology ,38.907192,-77.036873
+1929,Binod Chaudhary ,1.5,66,Nepal,diversified   ,27.717245,85.323961
+1929,Chen Baohua ,1.5,60,China,Healthcare ,39.904211,116.407395
+1929,Xianbao Chen   ,1.5,62,China,Food & Beverage ,39.904211,116.407395
+1929,Chung Yong-jin ,1.5,53,South Korea,Fashion & Retail ,37.566535,126.977969
+1929,Steve Conine ,1.5,49,United States,Technology ,38.907192,-77.036873
+1929,Eduardo Costantini ,1.5,75,Argentina,Real Estate ,-34.603683,-58.381557
+1929,Wenjun Dai ,1.5,53,China,Food & Beverage ,39.904211,116.407395
+1929,Bharat Desai ,1.5,69,United States,Technology ,38.907192,-77.036873
+1929,Mohammed Dewji ,1.5,46,Tanzania,diversified   ,-6.162959,35.751607
+1929,Mathias Doepfner ,1.5,59,Germany,Media & Entertainment ,52.520007,13.404954
+1929,Domenico Dolce ,1.5,63,Italy,Fashion & Retail ,41.902784,12.496366
+1929,Marek Dospiva ,1.5,52,Czechia,Finance & Investments ,50.075538,14.4378
+1929,Fritz Draexlmaier ,1.5,64,Germany,Automotive ,52.520007,13.404954
+1929,Henrique Dubugras ,1.5,26,Brazil,Finance & Investments ,-15.794229,-47.882166
+1929,Egon Durban ,1.5,48,United States,Finance & Investments ,38.907192,-77.036873
+1929,Bulent Eczacibasi ,1.5,72,Turkey,diversified   ,39.933364,32.859742
+1929,Faruk Eczacibasi ,1.5,67,Turkey,diversified   ,39.933364,32.859742
+1929,Henry Engelhardt ,1.5,64,United States,Finance & Investments ,38.907192,-77.036873
+1929,Ali Erdemoglu ,1.5,62,Turkey,Manufacturing ,39.933364,32.859742
+1929,Eduardo Eurnekian ,1.5,89,Argentina,diversified   ,-34.603683,-58.381557
+1929,John Farber ,1.5,96,United States,Manufacturing ,38.907192,-77.036873
+1929,Clement Fayat   ,1.5,90,France,Construction & Engineering ,48.856614,2.352222
+1929,Daniel Feffer ,1.5,62,Brazil,Manufacturing ,-15.794229,-47.882166
+1929,David Feffer ,1.5,65,Brazil,Manufacturing ,-15.794229,-47.882166
+1929,Ruben Feffer ,1.5,52,Brazil,Manufacturing ,-15.794229,-47.882166
+1929,Feng Yuxia ,1.5,57,China,Healthcare ,39.904211,116.407395
+1929,Sergio Fogel ,1.5,58,Uruguay,Finance & Investments ,-34.901113,-56.164531
+1929,Pedro Franceschi ,1.5,25,Brazil,Finance & Investments ,-15.794229,-47.882166
+1929,Stefano Gabbana ,1.5,59,Italy,Fashion & Retail ,41.902784,12.496366
+1929,Yi Gao   ,1.5,53,China,Healthcare ,39.904211,116.407395
+1929,Geng Jianming ,1.5,59,China,Real Estate ,39.904211,116.407395
+1929,Alan Gerry ,1.5,93,United States,Media & Entertainment ,38.907192,-77.036873
+1929,Balkrishan Goenka ,1.5,55,India,Manufacturing ,28.613939,77.209021
+1929,Esther Grether ,1.5,86,Switzerland,Fashion & Retail ,46.947974,7.447447
+1929,Gu Wei ,1.5,57,China,Manufacturing ,39.904211,116.407395
+1929,Torstein Hagen ,1.5,79,Norway,Service ,59.913869,10.752245
+1929,Kenneth Hao ,1.5,53,United States,Finance & Investments ,38.907192,-77.036873
+1929,He Zhiping ,1.5,58,China,Finance & Investments ,39.904211,116.407395
+1929,Timothy Headington ,1.5,71,United States,Energy ,38.907192,-77.036873
+1929,Ilona Herlin ,1.5,57,Finland,Manufacturing ,60.173324,24.941025
+1929,Niranjan Hiranandani ,1.5,72,India,Real Estate ,28.613939,77.209021
+1929,Drew Houston ,1.5,39,United States,Technology ,38.907192,-77.036873
+1929,Huang Rulun ,1.5,70,China,Real Estate ,39.904211,116.407395
+1929,Matt Hulsizer ,1.5,64,United States,Finance & Investments ,38.907192,-77.036873
+1929,Justin Ishbia ,1.5,44,United States,Finance & Investments ,38.907192,-77.036873
+1929,Peter Jackson ,1.5,60,New Zealand,Media & Entertainment ,-41.28646,174.776236
+1929,Jin Lei ,1.5,56,China,Healthcare ,39.904211,116.407395
+1929,Jin Xin ,1.5,55,China,Manufacturing ,39.904211,116.407395
+1929,Conni Jonsson ,1.5,61,Sweden,Finance & Investments ,59.329323,18.068581
+1929,Jenny Just ,1.5,54,United States,Finance & Investments ,38.907192,-77.036873
+1929,Ke Xiping   ,1.5,61,China,diversified   ,39.904211,116.407395
+1929,Ke Zunhong   ,1.5,67,China,Healthcare ,39.904211,116.407395
+1929,Sidney Kimmel ,1.5,94,United States,Fashion & Retail ,38.907192,-77.036873
+1929,Seth Klarman ,1.5,64,United States,Finance & Investments ,38.907192,-77.036873
+1929,Mustafa Rahmi Koc ,1.5,91,Turkey,diversified   ,39.933364,32.859742
+1929,Pyotr Kondrashev ,1.5,72,Russia,Manufacturing ,55.755826,37.6173
+1929,Kong Jian Min ,1.5,54,China,Real Estate ,39.904211,116.407395
+1929,Hemendra Kothari ,1.5,75,India,Finance & Investments ,28.613939,77.209021
+1929,Eduard Kucera ,1.5,69,Czechia,Technology ,50.075538,14.4378
+1929,Christopher Kwok ,1.5,36,Hong Kong,Real Estate ,22.396428,114.109497
+1929,Edward Kwok ,1.5,41,Hong Kong,Real Estate ,22.396428,114.109497
+1929,Joe Lacob ,1.5,66,United States,Sports ,38.907192,-77.036873
+1929,Lai Jianfa ,1.5,52,China,Logistics ,39.904211,116.407395
+1929,Manuel Lao Hernández ,1.5,77,Spain,Gambling & Casinos ,40.416775,-3.70379
+1929,Lee Joon-ho ,1.5,57,South Korea,Technology ,37.566535,126.977969
+1929,Manfredi Lefebvre d'Ovidio   ,1.5,68,Italy,Service ,41.902784,12.496366
+1929,Li Jinyang ,1.5,64,China,Metals & Mining ,39.904211,116.407395
+1929,Li Ming ,1.5,64,China,Finance & Investments ,39.904211,116.407395
+1929,Zhen Li   ,1.5,58,China,Manufacturing ,39.904211,116.407395
+1929,Rongfu Lu ,1.5,51,China,Telecom ,39.904211,116.407395
+1929,Rafique Malik ,1.5,71,India,Fashion & Retail ,28.613939,77.209021
+1929,Youssef Mansour ,1.5,76,Egypt,diversified   ,30.04442,31.235712
+1929,Mao Lixiang   ,1.5,81,China,Technology ,39.904211,116.407395
+1929,David McMurtry ,1.5,81,United Kingdom,Manufacturing ,51.507351,-0.127758
+1929,Meng Qingshan   ,1.5,73,China,Manufacturing ,39.904211,116.407395
+1929,Alan Miller   ,1.5,84,United States,Healthcare ,38.907192,-77.036873
+1929,Greg Mondre ,1.5,47,United States,Finance & Investments ,38.907192,-77.036873
+1929,Massimo Moratti ,1.5,76,Italy,Energy ,41.902784,12.496366
+1929,Robert Mouawad ,1.5,77,Lebanon,Service ,33.888629,35.495479
+1929,Ezra Nahmad ,1.5,76,Monaco,Finance & Investments ,43.737411,7.420816
+1929,Tadako Nakatani ,1.5,64,Japan,Healthcare ,35.709026,139.731992
+1929,Kentaro Ogawa ,1.5,73,Japan,Food & Beverage ,35.709026,139.731992
+1929,Jonathan Oringer ,1.5,47,United States,Technology ,38.907192,-77.036873
+1929,Niti Osathanugrah ,1.5,48,Thailand,Finance & Investments ,13.756331,100.501765
+1929,Dragos Paval ,1.5,55,Romania,Fashion & Retail ,44.426767,26.102538
+1929,Zach Perret ,1.5,34,United States,Finance & Investments ,38.907192,-77.036873
+1929,Karl-Johan Persson ,1.5,47,Sweden,Fashion & Retail ,59.329323,18.068581
+1929,Markus Persson ,1.5,42,Sweden,Media & Entertainment ,59.329323,18.068581
+1929,Tom Persson ,1.5,37,Sweden,Fashion & Retail ,59.329323,18.068581
+1929,Kevin Plank ,1.5,49,United States,Fashion & Retail ,38.907192,-77.036873
+1929,Andreas Pohl ,1.5,57,Germany,Finance & Investments ,52.520007,13.404954
+1929,"Reinfried Pohl, Jr. ",1.5,62,Germany,Finance & Investments ,52.520007,13.404954
+1929,Michael Polsky ,1.5,73,United States,Energy ,38.907192,-77.036873
+1929,Qin Long ,1.5,56,China,Manufacturing ,39.904211,116.407395
+1929,G. M. Rao ,1.5,71,India,Logistics ,28.613939,77.209021
+1929,Mike Repole ,1.5,54,United States,Food & Beverage ,38.907192,-77.036873
+1929,Fernando Roig ,1.5,74,Spain,Fashion & Retail ,40.416775,-3.70379
+1929,Christopher Rokos ,1.5,51,United Kingdom,Finance & Investments ,51.507351,-0.127758
+1929,Fayez Sarofim ,1.5,93,United States,Finance & Investments ,38.907192,-77.036873
+1929,Antonio Luiz Seabra ,1.5,79,Brazil,Fashion & Retail ,-15.794229,-47.882166
+1929,Amnon Shashua ,1.5,61,Israel,Automotive ,32.0853,34.781768
+1929,Yuri Shefler ,1.5,54,Russia,Food & Beverage ,55.755826,37.6173
+1929,Mikhail Shelkov ,1.5,53,Russia,Metals & Mining ,55.755826,37.6173
+1929,Charlotte Soderstrom ,1.5,45,Sweden,Fashion & Retail ,59.329323,18.068581
+1929,Edwin Soeryadjaya ,1.5,72,Indonesia,Energy ,-6.208763,106.845599
+1929,Thomas Steyer ,1.5,64,United States,Finance & Investments ,38.907192,-77.036873
+1929,Kevin Systrom ,1.5,38,United States,Technology ,38.907192,-77.036873
+1929,Tang Binsen ,1.5,39,China,Food & Beverage ,39.904211,116.407395
+1929,Hary Tanoesoedibjo ,1.5,56,Indonesia,Media & Entertainment ,-6.208763,106.845599
+1929,Jonathan Tisch ,1.5,68,United States,diversified   ,38.907192,-77.036873
+1929,Wilma Tisch ,1.5,94,United States,Finance & Investments ,38.907192,-77.036873
+1929,Kenny Troutt ,1.5,74,United States,Telecom ,38.907192,-77.036873
+1929,Thomas von Koch ,1.5,56,Sweden,Finance & Investments ,59.329323,18.068581
+1929,Junjin Wang ,1.5,53,China,Service ,39.904211,116.407395
+1929,Wang Zelong ,1.5,25,China,Metals & Mining ,39.904211,116.407395
+1929,Myron Wentz ,1.5,82,St. Kitts and Nevis,Fashion & Retail ,17.302606,-62.717692
+1929,Kaiting Wu ,1.5,52,Hong Kong,Telecom ,22.396428,114.109497
+1929,Xiong Wu ,1.5,46,China,Technology ,39.904211,116.407395
+1929,Xu Wanmao ,1.5,77,China,Service ,39.904211,116.407395
+1929,Xu Zhenhua ,1.5,64,China,Media & Entertainment ,39.904211,116.407395
+1929,Xue Jiping ,1.5,71,China,Telecom ,39.904211,116.407395
+1929,Yang Jian ,1.5,50,China,Real Estate ,39.904211,116.407395
+1929,Justin Yuan ,1.5,64,China,Media & Entertainment ,39.904211,116.407395
+1929,Xinghai Zhang   ,1.5,59,China,Manufacturing ,39.904211,116.407395
+1929,Xuansong Zhang ,1.5,50,China,Fashion & Retail ,39.904211,116.407395
+1929,Zhang Yin ,1.5,65,China,Manufacturing ,39.904211,116.407395
+1929,Chengjian Zhou ,1.5,56,China,Fashion & Retail ,39.904211,116.407395
+2076,Radhe Shyam Agarwal ,1.4,77,India,Fashion & Retail ,28.613939,77.209021
+2076,Syed Mokhtar AlBukhary ,1.4,70,Malaysia,Construction & Engineering ,3.139003,101.686855
+2076,Nerio Alessandri ,1.4,60,Italy,Manufacturing ,41.902784,12.496366
+2076,Patricia Angelini Rossi ,1.4,68,Chile,diversified   ,-33.44889,-70.669265
+2076,Tope Awotona ,1.4,40,United States,Technology ,38.907192,-77.036873
+2076,Elena Baturina ,1.4,59,Russia,Construction & Engineering ,55.755826,37.6173
+2076,Sabrina Benetton ,1.4,48,Italy,Fashion & Retail ,41.902784,12.496366
+2076,Thomas Bruch ,1.4,71,Germany,Fashion & Retail ,52.520007,13.404954
+2076,Marina Budiman ,1.4,60,Indonesia,Technology ,-6.208763,106.845599
+2076,Stewart Butterfield ,1.4,49,Canada,Technology ,38.907192,-77.036873
+2076,Richard Chang ,1.4,75,Taiwan,Real Estate ,25.032969,121.565418
+2076,Chen Tianqiao ,1.4,48,China,Technology ,39.904211,116.407395
+2076,Chen Wenyuan   ,1.4,54,China,Technology ,39.904211,116.407395
+2076,Cheng Antares ,1.4,64,Hong Kong,Food & Beverage ,22.396428,114.109497
+2076,Chin Jong Hwa ,1.4,63,Taiwan,Automotive ,25.032969,121.565418
+2076,Cho Jyh-jer ,1.4,64,Taiwan,Technology ,25.032969,121.565418
+2076,Jim Crane ,1.4,68,United States,Sports ,38.907192,-77.036873
+2076,Thierry Cruanes ,1.4,54,United States,Technology ,38.907192,-77.036873
+2076,Benoit Dageville ,1.4,55,United States,Technology ,38.907192,-77.036873
+2076,Weili Dai ,1.4,60,United States,Technology ,38.907192,-77.036873
+2076,Darwin Deason ,1.4,81,United States,Service ,38.907192,-77.036873
+2076,Diego Della Valle ,1.4,68,Italy,Fashion & Retail ,41.902784,12.496366
+2076,Deng Yingzhong ,1.4,71,China,Manufacturing ,39.904211,116.407395
+2076,Ding Shui Po ,1.4,51,China,Fashion & Retail ,39.904211,116.407395
+2076,Mark Dixon ,1.4,62,United Kingdom,Real Estate ,51.507351,-0.127758
+2076,Du Shuanghua ,1.4,57,China,Manufacturing ,39.904211,116.407395
+2076,Mukand Lal Dua ,1.4,73,India,Fashion & Retail ,28.613939,77.209021
+2076,Ramesh Kumar Dua ,1.4,68,India,Fashion & Retail ,28.613939,77.209021
+2076,Fan Minhua ,1.4,60,China,Healthcare ,39.904211,116.407395
+2076,Hongbo Fang ,1.4,55,China,Manufacturing ,39.904211,116.407395
+2076,"William Foley, II. ",1.4,77,United States,Finance & Investments ,38.907192,-77.036873
+2076,Jayme Garfinkel   ,1.4,76,Brazil,Finance & Investments ,-15.794229,-47.882166
+2076,Radhe Shyam Goenka ,1.4,76,India,Fashion & Retail ,28.613939,77.209021
+2076,Maggie Hardy Knox ,1.4,56,United States,Service ,38.907192,-77.036873
+2076,Ayman Hariri ,1.4,43,Lebanon,Construction & Engineering ,33.888629,35.495479
+2076,Christoph Henkel ,1.4,64,Germany,Fashion & Retail ,52.520007,13.404954
+2076,Daniel Hirschfeld ,1.4,80,United States,Fashion & Retail ,38.907192,-77.036873
+2076,William Hockey ,1.4,32,United States,Finance & Investments ,38.907192,-77.036873
+2076,Huang Guanlin ,1.4,57,China,Fashion & Retail ,39.904211,116.407395
+2076,Huang Xiaofen   ,1.4,60,China,Technology ,39.904211,116.407395
+2076,Jay-Z ,1.4,52,United States,Media & Entertainment ,38.907192,-77.036873
+2076,Yintai Jiang   ,1.4,71,China,Automotive ,39.904211,116.407395
+2076,Johan Johannson ,1.4,55,Norway,Fashion & Retail ,59.913869,10.752245
+2076,Ramesh Juneja ,1.4,66,India,Healthcare ,28.613939,77.209021
+2076,Scott Kapnick ,1.4,63,United States,Finance & Investments ,38.907192,-77.036873
+2076,Viktor Kharitonin ,1.4,49,Russia,Healthcare ,55.755826,37.6173
+2076,Kim Jun-ki ,1.4,77,South Korea,diversified   ,37.566535,126.977969
+2076,Kim Sang-yeol ,1.4,61,South Korea,Construction & Engineering ,37.566535,126.977969
+2076,Christine Knauf ,1.4,64,Germany,Manufacturing ,52.520007,13.404954
+2076,Karl Knauf ,1.4,64,Germany,Manufacturing ,52.520007,13.404954
+2076,Yogesh Kothari ,1.4,73,India,Manufacturing ,28.613939,77.209021
+2076,Kurt Krieger ,1.4,74,Germany,Fashion & Retail ,52.520007,13.404954
+2076,Mustafa Kucuk ,1.4,58,Turkey,Fashion & Retail ,39.933364,32.859742
+2076,Sebastian Kulczyk ,1.4,41,Poland,Finance & Investments ,52.229676,21.012229
+2076,Gary Lauder ,1.4,59,United States,Fashion & Retail ,38.907192,-77.036873
+2076,Art Levinson ,1.4,72,United States,diversified   ,38.907192,-77.036873
+2076,Li Li ,1.4,58,China,Healthcare ,39.904211,116.407395
+2076,Guangwei Liang ,1.4,58,China,Manufacturing ,39.904211,116.407395
+2076,Scott Lin ,1.4,89,Taiwan,Technology ,25.032969,121.565418
+2076,Jenny Lindén Urnes ,1.4,51,Sweden,Manufacturing ,59.329323,18.068581
+2076,Anatoly Lomakin ,1.4,69,Russia,Metals & Mining ,55.755826,37.6173
+2076,Jeffrey Lorberbaum ,1.4,67,United States,Manufacturing ,38.907192,-77.036873
+2076,Gary Magness ,1.4,68,United States,Media & Entertainment ,38.907192,-77.036873
+2076,Zhongwu Mao ,1.4,59,China,Manufacturing ,39.904211,116.407395
+2076,Ilson Mateus   ,1.4,59,Brazil,Fashion & Retail ,-15.794229,-47.882166
+2076,Vadim Moshkovich ,1.4,54,Russia,Food & Beverage ,55.755826,37.6173
+2076,Jerry Moyes   ,1.4,78,United States,Logistics ,38.907192,-77.036873
+2076,George Alexander Muthoot ,1.4,66,India,Finance & Investments ,28.613939,77.209021
+2076,George Jacob Muthoot ,1.4,69,India,Finance & Investments ,28.613939,77.209021
+2076,George Thomas Muthoot ,1.4,71,India,Finance & Investments ,28.613939,77.209021
+2076,Sara George Muthoot ,1.4,61,India,Finance & Investments ,28.613939,77.209021
+2076,Marius Nacht ,1.4,56,Israel,Technology ,32.0853,34.781768
+2076,Adam Neumann ,1.4,43,Israel,Real Estate ,32.0853,34.781768
+2076,Simon Nixon ,1.4,54,United Kingdom,Technology ,51.507351,-0.127758
+2076,Stefan Olsson ,1.4,73,Sweden,diversified   ,59.329323,18.068581
+2076,Ranjan Pai ,1.4,49,India,Service ,28.613939,77.209021
+2076,Antonio Percassi ,1.4,68,Italy,diversified   ,41.902784,12.496366
+2076,Mark Pincus ,1.4,56,United States,Technology ,38.907192,-77.036873
+2076,Alexey Repik ,1.4,42,Russia,Healthcare ,55.755826,37.6173
+2076,Matthew Roszak ,1.4,49,United States,Finance & Investments ,38.907192,-77.036873
+2076,Subhash Runwal ,1.4,78,India,Real Estate ,28.613939,77.209021
+2076,Carlos Sanchez ,1.4,60,Brazil,Healthcare ,-15.794229,-47.882166
+2076,Martin Selig ,1.4,84,United States,Real Estate ,38.907192,-77.036873
+2076,Bhadresh Shah ,1.4,70,India,Manufacturing ,28.613939,77.209021
+2076,Shao Jianxiong ,1.4,64,China,Energy ,39.904211,116.407395
+2076,Shu Ping ,1.4,52,Singapore,Food & Beverage ,1.280095,103.850949
+2076,Ben Silbermann ,1.4,39,United States,Media & Entertainment ,38.907192,-77.036873
+2076,Jared Smith ,1.4,47,United States,Technology ,38.907192,-77.036873
+2076,Sun Qinghuan ,1.4,48,China,Technology ,39.904211,116.407395
+2076,Denis Sverdlov ,1.4,43,Russia,Automotive ,55.755826,37.6173
+2076,Prachak Tangkaravakoon ,1.4,78,Thailand,Manufacturing ,13.756331,100.501765
+2076,Lina Tombolato ,1.4,74,Italy,Finance & Investments ,41.902784,12.496366
+2076,Tong Jinquan ,1.4,67,China,Real Estate ,39.904211,116.407395
+2076,Luiza Helena Trajano ,1.4,70,Brazil,Fashion & Retail ,-15.794229,-47.882166
+2076,John Van Lieshout ,1.4,76,Australia,Real Estate ,-35.280937,149.130005
+2076,Vardis Vardinoyannis   ,1.4,89,Greece,Energy ,37.983917,23.72936
+2076,Jens von Bahr ,1.4,51,Sweden,Gambling & Casinos ,59.329323,18.068581
+2076,Wang Fuji ,1.4,64,China,Healthcare ,39.904211,116.407395
+2076,Wang Jian ,1.4,68,China,Technology ,39.904211,116.407395
+2076,Werner O. Weber ,1.4,83,Switzerland,Manufacturing ,46.947974,7.447447
+2076,Wei Lidong   ,1.4,46,China,Technology ,39.904211,116.407395
+2076,Drorit Wertheim ,1.4,66,Israel,Food & Beverage ,32.0853,34.781768
+2076,Bo Wu ,1.4,67,China,Manufacturing ,39.904211,116.407395
+2076,Eugene Wu ,1.4,76,Taiwan,Finance & Investments ,25.032969,121.565418
+2076,Wu Xushun   ,1.4,73,China,diversified   ,39.904211,116.407395
+2076,Wenbo Xiang ,1.4,59,China,Manufacturing ,39.904211,116.407395
+2076,Swift Xie ,1.4,42,China,Technology ,39.904211,116.407395
+2076,Xu Bingzhong ,1.4,48,China,Food & Beverage ,39.904211,116.407395
+2076,Xu Shaochun ,1.4,59,China,Technology ,39.904211,116.407395
+2076,Yan Junxu ,1.4,52,China,Manufacturing ,39.904211,116.407395
+2076,George Yancopoulos ,1.4,62,United States,Healthcare ,38.907192,-77.036873
+2076,Gavril Yushvaev ,1.4,64,Russia,Finance & Investments ,55.755826,37.6173
+2076,Zhuo Jun ,1.4,56,Hong Kong,Manufacturing ,22.396428,114.109497
+2076,Fredrik Österberg ,1.4,51,Sweden,Gambling & Casinos ,59.329323,18.068581
+2190,Alberto Alcocer ,1.3,79,Spain,Finance & Investments ,40.416775,-3.70379
+2190,Alexandra Andresen ,1.3,25,Norway,diversified   ,59.913869,10.752245
+2190,Katharina Andresen ,1.3,26,Norway,diversified   ,59.913869,10.752245
+2190,Rutger Arnhult ,1.3,54,Sweden,Real Estate ,59.329323,18.068581
+2190,Anant Asavabhokin ,1.3,71,Thailand,Real Estate ,13.756331,100.501765
+2190,Mehmet Aydinlar ,1.3,65,Turkey,Healthcare ,39.933364,32.859742
+2190,Binny Bansal ,1.3,39,India,Technology ,28.613939,77.209021
+2190,Sachin Bansal ,1.3,40,India,Fashion & Retail ,28.613939,77.209021
+2190,Barbara Benetton ,1.3,52,Italy,Fashion & Retail ,41.902784,12.496366
+2190,Othman Benjelloun   ,1.3,89,Morocco,Finance & Investments ,33.97159,-6.849813
+2190,Angela Bennett ,1.3,78,Australia,Metals & Mining ,-35.280937,149.130005
+2190,Oleg Boyko ,1.3,57,Russia,diversified   ,55.755826,37.6173
+2190,Anna Maria Braun ,1.3,43,Germany,Healthcare ,52.520007,13.404954
+2190,Edouard Carmignac ,1.3,74,France,Finance & Investments ,48.856614,2.352222
+2190,Anthony Casalena ,1.3,39,United States,Technology ,38.907192,-77.036873
+2190,Chang Jing ,1.3,39,China,Technology ,39.904211,116.407395
+2190,Jeffrey Cheah ,1.3,77,Malaysia,Real Estate ,3.139003,101.686855
+2190,Chen Shiliang ,1.3,58,China,Manufacturing ,39.904211,116.407395
+2190,Yuantai Chen ,1.3,54,China,Energy ,39.904211,116.407395
+2190,Cheng Xianfeng ,1.3,53,China,Healthcare ,39.904211,116.407395
+2190,Chu Jian ,1.3,59,China,Manufacturing ,39.904211,116.407395
+2190,Chua Thian Poh ,1.3,73,Singapore,Real Estate ,1.280095,103.850949
+2190,Alberto Cortina ,1.3,76,Spain,Finance & Investments ,40.416775,-3.70379
+2190,Sandor Csanyi ,1.3,69,Hungary,diversified   ,47.497912,19.040235
+2190,Sasson Dayan   ,1.3,82,Brazil,Finance & Investments ,-15.794229,-47.882166
+2190,Anand Deshpande ,1.3,59,India,Technology ,28.613939,77.209021
+2190,Richard Desmond ,1.3,70,United Kingdom,Media & Entertainment ,51.507351,-0.127758
+2190,Shlomo Eliahu ,1.3,86,Israel,Finance & Investments ,32.0853,34.781768
+2190,Jose Roberto Ermirio de Moraes ,1.3,64,Brazil,diversified   ,-15.794229,-47.882166
+2190,Jose Ermirio de Moraes Neto ,1.3,69,Brazil,diversified   ,-15.794229,-47.882166
+2190,David Fattal   ,1.3,64,Israel,Service ,32.0853,34.781768
+2190,Marvy Finger ,1.3,86,United States,Real Estate ,38.907192,-77.036873
+2190,Adam Foroughi ,1.3,41,United States,Media & Entertainment ,38.907192,-77.036873
+2190,Richard Fortin ,1.3,73,Canada,Fashion & Retail ,38.907192,-77.036873
+2190,Luiz Frias ,1.3,58,Brazil,Technology ,-15.794229,-47.882166
+2190,Susumu Fujita ,1.3,48,Japan,Media & Entertainment ,35.709026,139.731992
+2190,Simona Giorgetta ,1.3,44,Italy,Construction & Engineering ,41.902784,12.496366
+2190,Premchand Godha ,1.3,75,India,Healthcare ,28.613939,77.209021
+2190,Mikhail Gutseriev & brother ,1.3,64,Russia,Energy ,55.755826,37.6173
+2190,Hang Hong ,1.3,54,China,Manufacturing ,39.904211,116.407395
+2190,Alfredo Harp Helu   ,1.3,78,Mexico,Finance & Investments ,19.432608,-99.133208
+2190,Jaroslav Hascak   ,1.3,52,Slovakia,Finance & Investments ,48.145892,17.107137
+2190,He Zuxun ,1.3,56,China,Food & Beverage ,39.904211,116.407395
+2190,David Hoffmann ,1.3,69,United States,diversified   ,38.907192,-77.036873
+2190,Francis Holder ,1.3,81,France,Food & Beverage ,48.856614,2.352222
+2190,Hu Rongda   ,1.3,63,China,Manufacturing ,39.904211,116.407395
+2190,Wei Huang ,1.3,62,China,Real Estate ,39.904211,116.407395
+2190,Zarakh Iliev ,1.3,55,Russia,Real Estate ,55.755826,37.6173
+2190,Mitchell Jacobson ,1.3,71,United States,Service ,38.907192,-77.036873
+2190,Jiang Guiting   ,1.3,63,China,Manufacturing ,39.904211,116.407395
+2190,Rajeev Juneja ,1.3,56,India,Healthcare ,28.613939,77.209021
+2190,Peter Kelly ,1.3,64,United Kingdom,Technology ,51.507351,-0.127758
+2190,Kim Nam-jung ,1.3,49,South Korea,Food & Beverage ,37.566535,126.977969
+2190,Koon Poh Ming ,1.3,65,Malaysia,Metals & Mining ,3.139003,101.686855
+2190,Yuri Kovalchuk ,1.3,70,Russia,Finance & Investments ,55.755826,37.6173
+2190,Michael Krasny ,1.3,68,United States,Technology ,38.907192,-77.036873
+2190,Raymond Kwok ,1.3,68,Hong Kong,Real Estate ,22.396428,114.109497
+2190,Heikki Kyostila ,1.3,76,Finland,Healthcare ,60.173324,24.941025
+2190,Lee Ho-jin ,1.3,59,South Korea,diversified   ,37.566535,126.977969
+2190,Bernard Lewis   ,1.3,96,United Kingdom,Fashion & Retail ,51.507351,-0.127758
+2190,Fengluan Li ,1.3,60,China,diversified   ,39.904211,116.407395
+2190,Hua Li ,1.3,44,China,Finance & Investments ,39.904211,116.407395
+2190,Li Ruiqiang ,1.3,42,China,Healthcare ,39.904211,116.407395
+2190,Lin Zhijun ,1.3,46,China,Healthcare ,39.904211,116.407395
+2190,Lin Zhixiong   ,1.3,48,China,Healthcare ,39.904211,116.407395
+2190,Liu Ming Hui ,1.3,59,China,Energy ,39.904211,116.407395
+2190,Xuejing Liu   ,1.3,71,China,diversified   ,39.904211,116.407395
+2190,Lu Yonghua   ,1.3,58,China,Technology ,39.904211,116.407395
+2190,Zhaoxi Lu ,1.3,53,China,Technology ,39.904211,116.407395
+2190,Frederic Luddy ,1.3,67,United States,Technology ,38.907192,-77.036873
+2190,Miao Yongjun ,1.3,54,China,Healthcare ,39.904211,116.407395
+2190,Martin Moller Nielsen ,1.3,57,Denmark,Logistics ,55.676097,12.568337
+2190,Neide Helena de Moraes ,1.3,67,Brazil,diversified   ,-15.794229,-47.882166
+2190,Yoshiko Mori ,1.3,81,Japan,Real Estate ,35.709026,139.731992
+2190,Mofatraj Munot ,1.3,77,India,Real Estate ,28.613939,77.209021
+2190,Randal Nardone ,1.3,66,United States,Finance & Investments ,38.907192,-77.036873
+2190,God Nisanov ,1.3,49,Russia,Real Estate ,55.755826,37.6173
+2190,Vadim Novinsky ,1.3,58,Ukraine,Metals & Mining ,50.4501,30.5234
+2190,Satyanarayan Nuwal ,1.3,69,India,Manufacturing ,28.613939,77.209021
+2190,John Ocampo ,1.3,63,United States,Technology ,38.907192,-77.036873
+2190,Pan Gang ,1.3,51,China,Food & Beverage ,39.904211,116.407395
+2190,Forrest Preston ,1.3,89,United States,Healthcare ,38.907192,-77.036873
+2190,Riju Raveendran ,1.3,39,India,Technology ,28.613939,77.209021
+2190,P.P. Reddy ,1.3,64,India,Construction & Engineering ,28.613939,77.209021
+2190,P.V.Krishna Reddy ,1.3,52,India,Construction & Engineering ,28.613939,77.209021
+2190,Satish Reddy ,1.3,54,India,Healthcare ,28.613939,77.209021
+2190,Lily Safra ,1.3,84,Monaco,Finance & Investments ,43.737411,7.420816
+2190,Richard Saghian ,1.3,40,United States,Fashion & Retail ,38.907192,-77.036873
+2190,Deniz Sahenk ,1.3,76,Turkey,diversified   ,39.933364,32.859742
+2190,Thomas Sandell ,1.3,61,Sweden,Finance & Investments ,59.329323,18.068581
+2190,Hajime Satomi ,1.3,80,Japan,Gambling & Casinos ,35.709026,139.731992
+2190,James Scapa ,1.3,65,United States,Technology ,38.907192,-77.036873
+2190,Paul Sciarra ,1.3,41,United States,Media & Entertainment ,38.907192,-77.036873
+2190,Albert Shigaboutdinov ,1.3,69,Russia,diversified   ,55.755826,37.6173
+2190,Nobutoshi Shimamura ,1.3,96,Japan,Fashion & Retail ,35.709026,139.731992
+2190,Ron Sim ,1.3,63,Singapore,Fashion & Retail ,1.280095,103.850949
+2190,Alexander Sixt ,1.3,42,Germany,Automotive ,52.520007,13.404954
+2190,Konstantin Sixt ,1.3,39,Germany,Automotive ,52.520007,13.404954
+2190,Terry Snow ,1.3,78,Australia,Real Estate ,-35.280937,149.130005
+2190,Marco Squinzi ,1.3,50,Italy,Construction & Engineering ,41.902784,12.496366
+2190,Veronica Squinzi ,1.3,50,Italy,Construction & Engineering ,41.902784,12.496366
+2190,Manny Stul ,1.3,72,Australia,Manufacturing ,-35.280937,149.130005
+2190,Rustem Sulteev ,1.3,68,Russia,Energy ,55.755826,37.6173
+2190,Sehat Sutardja ,1.3,60,United States,Technology ,38.907192,-77.036873
+2190,Tony Tan Caktiong ,1.3,69,Philippines,Food & Beverage ,14.599512,120.98422
+2190,Jim Thompson ,1.3,82,United States,Logistics ,38.907192,-77.036873
+2190,Carmen Thyssen ,1.3,78,Spain,Manufacturing ,40.416775,-3.70379
+2190,August Troendle ,1.3,66,United States,Healthcare ,38.907192,-77.036873
+2190,Joop van den Ende ,1.3,80,Netherlands,Media & Entertainment ,52.370216,4.895168
+2190,Sekar Vembu ,1.3,50,India,Technology ,28.613939,77.209021
+2190,Sandro Veronesi   ,1.3,62,Italy,Fashion & Retail ,41.902784,12.496366
+2190,Wan Long ,1.3,81,China,Food & Beverage ,39.904211,116.407395
+2190,Han Wang ,1.3,34,China,diversified   ,39.904211,116.407395
+2190,Wang Jianyi ,1.3,59,China,Technology ,39.904211,116.407395
+2190,Wang Qinghua ,1.3,56,China,Manufacturing ,39.904211,116.407395
+2190,Pengcheng Wen   ,1.3,59,China,Food & Beverage ,39.904211,116.407395
+2190,"Alfred West, Jr. ",1.3,79,United States,Finance & Investments ,38.907192,-77.036873
+2190,Dan Wilks ,1.3,65,United States,Energy ,38.907192,-77.036873
+2190,Farris Wilks ,1.3,70,United States,Energy ,38.907192,-77.036873
+2190,Gang Xu ,1.3,58,China,Manufacturing ,39.904211,116.407395
+2190,Xu Jin ,1.3,57,China,Food & Beverage ,39.904211,116.407395
+2190,Tony Xu ,1.3,37,United States,Technology ,38.907192,-77.036873
+2190,Ye Yanqiao ,1.3,52,China,Food & Beverage ,39.904211,116.407395
+2190,Patrick Zalupski ,1.3,41,United States,Real Estate ,38.907192,-77.036873
+2190,Shengda Zan ,1.3,59,China,diversified   ,39.904211,116.407395
+2190,Zeng Chaoyi ,1.3,53,China,Manufacturing ,39.904211,116.407395
+2190,Zhang Guiping   ,1.3,70,China,Real Estate ,39.904211,116.407395
+2190,Peng Zhao ,1.3,51,China,Service ,39.904211,116.407395
+2190,Zheng Zhiguo ,1.3,50,China,Healthcare ,39.904211,116.407395
+2190,Kostyantin Zhevago ,1.3,48,Ukraine,Metals & Mining ,50.4501,30.5234
+2190,Zhou Mingjie ,1.3,64,China,Technology ,39.904211,116.407395
+2190,Zhu Xingliang ,1.3,62,China,Construction & Engineering ,39.904211,116.407395
+2190,Zhu Yiwen   ,1.3,64,China,Healthcare ,39.904211,116.407395
+2190,Zong Yanmin ,1.3,64,China,Manufacturing ,39.904211,116.407395
+2324,Sanjay Agarwal ,1.2,51,India,Finance & Investments ,28.613939,77.209021
+2324,Hamad bin Jassim bin Jaber Al Thani ,1.2,62,Qatar,Finance & Investments ,25.285447,51.53104
+2324,Betty Ang ,1.2,67,Philippines,Food & Beverage ,14.599512,120.98422
+2324,Christian Angermayer ,1.2,43,Germany,Finance & Investments ,52.520007,13.404954
+2324,Mika Anttonen ,1.2,55,Finland,Energy ,60.173324,24.941025
+2324,Jose Maria Aristrain ,1.2,59,Spain,Metals & Mining ,40.416775,-3.70379
+2324,Emilio Azcarraga Jean ,1.2,54,Mexico,Media & Entertainment ,19.432608,-99.133208
+2324,Thomas Bailey ,1.2,85,United States,Finance & Investments ,38.907192,-77.036873
+2324,Andrei Bokarev ,1.2,55,Russia,Manufacturing ,55.755826,37.6173
+2324,Stephane Bonvin ,1.2,55,Switzerland,Real Estate ,46.947974,7.447447
+2324,Ashok Boob ,1.2,70,India,Manufacturing ,28.613939,77.209021
+2324,Ludwig Theodor Braun ,1.2,32,Germany,Healthcare ,52.520007,13.404954
+2324,Friederike Braun-Luedicke ,1.2,38,Germany,Healthcare ,52.520007,13.404954
+2324,Pradip Burman ,1.2,79,India,Food & Beverage ,28.613939,77.209021
+2324,Cai Hongbin ,1.2,64,China,Healthcare ,39.904211,116.407395
+2324,Chang Kuo-Cheng ,1.2,64,Taiwan,Logistics ,25.032969,121.565418
+2324,Jiancheng Chen ,1.2,63,China,Manufacturing ,39.904211,116.407395
+2324,Chen Xueling ,1.2,54,China,Manufacturing ,39.904211,116.407395
+2324,Cheng Lili ,1.2,57,China,Food & Beverage ,39.904211,116.407395
+2324,Yvon Chouinard ,1.2,83,United States,Fashion & Retail ,38.907192,-77.036873
+2324,Luigi Cremonini   ,1.2,82,Italy,Food & Beverage ,41.902784,12.496366
+2324,Tim Draper ,1.2,63,United States,Finance & Investments ,38.907192,-77.036873
+2324,Fan Zhaoxia   ,1.2,54,China,Energy ,39.904211,116.407395
+2324,Gleb Fetisov ,1.2,55,Russia,Telecom ,55.755826,37.6173
+2324,Robert Fisher ,1.2,68,United States,Fashion & Retail ,38.907192,-77.036873
+2324,William Fisher ,1.2,65,United States,Fashion & Retail ,38.907192,-77.036873
+2324,J. Christopher Flowers ,1.2,64,United States,Finance & Investments ,38.907192,-77.036873
+2324,Bernd Freier ,1.2,65,Germany,Fashion & Retail ,52.520007,13.404954
+2324,Geng Diangen ,1.2,65,China,Technology ,39.904211,116.407395
+2324,Dan Gertler ,1.2,48,Israel,Metals & Mining ,32.0853,34.781768
+2324,David Girouard ,1.2,56,United States,Finance & Investments ,38.907192,-77.036873
+2324,John Goff ,1.2,67,United States,Real Estate ,38.907192,-77.036873
+2324,Lawrence Golub ,1.2,62,United States,Finance & Investments ,38.907192,-77.036873
+2324,Sven Hagströmer ,1.2,78,Sweden,Finance & Investments ,59.329323,18.068581
+2324,Fahed Hariri ,1.2,41,Lebanon,Construction & Engineering ,33.888629,35.495479
+2324,Richard Hayne ,1.2,74,United States,Fashion & Retail ,38.907192,-77.036873
+2324,He Yamin   ,1.2,65,China,Manufacturing ,39.904211,116.407395
+2324,Michael Heine ,1.2,72,Australia,Finance & Investments ,-35.280937,149.130005
+2324,Heikki Herlin ,1.2,35,Finland,Manufacturing ,60.173324,24.941025
+2324,Hong Feng ,1.2,45,China,Technology ,39.904211,116.407395
+2324,Hu Kun ,1.2,52,China,Healthcare ,39.904211,116.407395
+2324,Huang Hongyun   ,1.2,55,China,Real Estate ,39.904211,116.407395
+2324,Shanbing Huang   ,1.2,65,China,Technology ,39.904211,116.407395
+2324,Huang Shih Tsai ,1.2,70,Hong Kong,Real Estate ,22.396428,114.109497
+2324,Huang Wenbiao ,1.2,54,China,Food & Beverage ,39.904211,116.407395
+2324,Mohammed Ibrahim ,1.2,75,United Kingdom,Telecom ,51.507351,-0.127758
+2324,Hedda im Brahm-Droege ,1.2,67,Germany,Finance & Investments ,52.520007,13.404954
+2324,Rameshchandra Jain ,1.2,73,India,Manufacturing ,28.613939,77.209021
+2324,Laurent Junique ,1.2,56,France,Technology ,48.856614,2.352222
+2324,Zbigniew Juroszek   ,1.2,59,Poland,diversified   ,52.229676,21.012229
+2324,Chatchai Kaewbootta ,1.2,70,Thailand,Finance & Investments ,13.756331,100.501765
+2324,Shirley Kao ,1.2,65,Taiwan,Food & Beverage ,25.032969,121.565418
+2324,Ipek Kirac ,1.2,37,Turkey,diversified   ,39.933364,32.859742
+2324,Carsten Koerl ,1.2,57,Germany,Sports ,52.520007,13.404954
+2324,Andrei Kosogov ,1.2,61,Russia,Energy ,55.755826,37.6173
+2324,John Krystynak ,1.2,53,United States,Media & Entertainment ,38.907192,-77.036873
+2324,John Kusuma ,1.2,55,Indonesia,Finance & Investments ,-6.208763,106.845599
+2324,Hartono Kweefanus ,1.2,72,Indonesia,Food & Beverage ,-6.208763,106.845599
+2324,Kwek Leng Peck ,1.2,66,Singapore,diversified   ,1.280095,103.850949
+2324,Kristo Käärmann ,1.2,41,Estonia,Finance & Investments ,59.43696,24.753575
+2324,Guy Laliberté ,1.2,62,Canada,Media & Entertainment ,38.907192,-77.036873
+2324,Lee Sang-ryul ,1.2,60,South Korea,Manufacturing ,37.566535,126.977969
+2324,Lee Seung-gun ,1.2,40,South Korea,Technology ,37.566535,126.977969
+2324,Hongjing Li ,1.2,54,China,Automotive ,39.904211,116.407395
+2324,Li Wanqiang ,1.2,44,China,Technology ,39.904211,116.407395
+2324,Lu Hongyan ,1.2,44,China,Media & Entertainment ,39.904211,116.407395
+2324,Dalong Lv ,1.2,60,China,Telecom ,39.904211,116.407395
+2324,Carsten Maschmeyer ,1.2,62,Germany,Finance & Investments ,52.520007,13.404954
+2324,Todd McKinnon ,1.2,50,United States,Technology ,38.907192,-77.036873
+2324,Rubens Menin Teixeira de Souza ,1.2,66,Brazil,diversified   ,-15.794229,-47.882166
+2324,Lorinc Meszaros ,1.2,56,Hungary,diversified   ,47.497912,19.040235
+2324,Ulrich Mommert   ,1.2,81,Austria,Automotive ,48.208176,16.373819
+2324,Park Kwan-ho ,1.2,50,South Korea,Media & Entertainment ,37.566535,126.977969
+2324,George Pedersen ,1.2,86,United States,Manufacturing ,38.907192,-77.036873
+2324,David Penaloza Alanis ,1.2,48,Mexico,Construction & Engineering ,19.432608,-99.133208
+2324,Stefan Pierer ,1.2,65,Austria,Automotive ,48.208176,16.373819
+2324,Murdaya Poo ,1.2,81,Indonesia,diversified   ,-6.208763,106.845599
+2324,Michael Price ,1.2,69,United States,Finance & Investments ,38.907192,-77.036873
+2324,Leonid Radvinsky ,1.2,40,United States,Technology ,38.907192,-77.036873
+2324,Megdet Rahimkulov   ,1.2,76,Russia,Finance & Investments ,55.755826,37.6173
+2324,Andrei Rappoport ,1.2,58,Russia,Finance & Investments ,55.755826,37.6173
+2324,Dasari Uday Kumar Reddy ,1.2,54,India,Technology ,28.613939,77.209021
+2324,Helena Revoredo ,1.2,75,Spain,Service ,40.416775,-3.70379
+2324,Duke Reyes ,1.2,65,United States,Food & Beverage ,38.907192,-77.036873
+2324,Nobutada Saji ,1.2,76,Japan,Food & Beverage ,35.709026,139.731992
+2324,Leonard Schleifer ,1.2,69,United States,Healthcare ,38.907192,-77.036873
+2324,Airat Shaimiev ,1.2,60,Russia,Energy ,55.755826,37.6173
+2324,Radik Shaimiev ,1.2,57,Russia,Energy ,55.755826,37.6173
+2324,Vijay Shekhar Sharma ,1.2,43,India,Service ,28.613939,77.209021
+2324,Devi Shetty ,1.2,69,India,Healthcare ,28.613939,77.209021
+2324,Shum Chiu Hung   ,1.2,52,China,Real Estate ,39.904211,116.407395
+2324,Michael Steinhardt ,1.2,81,United States,Finance & Investments ,38.907192,-77.036873
+2324,Petter Stordalen   ,1.2,59,Norway,Service ,59.913869,10.752245
+2324,Winarko Sulistyo ,1.2,76,Indonesia,Manufacturing ,-6.208763,106.845599
+2324,Sun Huaiqing   ,1.2,52,China,Fashion & Retail ,39.904211,116.407395
+2324,Luc Tack ,1.2,60,Belgium,Manufacturing ,50.85034,4.35171
+2324,Lucio Tan ,1.2,87,Philippines,diversified   ,14.599512,120.98422
+2324,Yoshikazu Tanaka ,1.2,45,Japan,Technology ,35.709026,139.731992
+2324,Stanley Tang ,1.2,29,United States,Technology ,38.907192,-77.036873
+2324,Sam Tarascio ,1.2,77,Australia,Real Estate ,-35.280937,149.130005
+2324,Alexander Tedja ,1.2,76,Indonesia,Real Estate ,-6.208763,106.845599
+2324,Laurie Tisch ,1.2,71,United States,diversified   ,38.907192,-77.036873
+2324,Steven Tisch ,1.2,73,United States,diversified   ,38.907192,-77.036873
+2324,Stefania Triva ,1.2,57,Italy,Healthcare ,41.902784,12.496366
+2324,Maria Grace Uy ,1.2,53,Philippines,Telecom ,14.599512,120.98422
+2324,Wim van der Leegte ,1.2,74,Netherlands,Manufacturing ,52.370216,4.895168
+2324,Thongma Vijitpongpun ,1.2,64,Thailand,Real Estate ,13.756331,100.501765
+2324,Jianfeng Wang   ,1.2,52,China,Automotive ,39.904211,116.407395
+2324,Wang Jilei ,1.2,57,China,Logistics ,39.904211,116.407395
+2324,Wang Junmin ,1.2,53,China,Healthcare ,39.904211,116.407395
+2324,Wang Kunxiao ,1.2,52,China,Manufacturing ,39.904211,116.407395
+2324,Wang Zhentao   ,1.2,56,China,Healthcare ,39.904211,116.407395
+2324,J. Wayne Weaver ,1.2,86,United States,diversified   ,38.907192,-77.036873
+2324,Weng Xianding ,1.2,60,China,Healthcare ,39.904211,116.407395
+2324,Horst Wortmann ,1.2,80,Germany,Fashion & Retail ,52.520007,13.404954
+2324,Wu Chung-yi ,1.2,66,Taiwan,Manufacturing ,25.032969,121.565418
+2324,Wu Li-gann ,1.2,81,Taiwan,Manufacturing ,25.032969,121.565418
+2324,Wu Peifu   ,1.2,60,China,Manufacturing ,39.904211,116.407395
+2324,Xiu Laigui ,1.2,67,China,Healthcare ,39.904211,116.407395
+2324,Yeh Kuo-I ,1.2,80,Taiwan,Manufacturing ,25.032969,121.565418
+2324,Faxiang Yu ,1.2,50,China,Media & Entertainment ,39.904211,116.407395
+2324,Zeng Chaolin ,1.2,39,China,Metals & Mining ,39.904211,116.407395
+2324,Zhang Tianyu ,1.2,54,China,Telecom ,39.904211,116.407395
+2324,Shusheng Zheng ,1.2,56,China,Telecom ,39.904211,116.407395
+2448,A. Jayson Adair ,1.1,52,United States,Automotive ,38.907192,-77.036873
+2448,Joao Alves de Queiroz Filho ,1.1,69,Brazil,diversified   ,-15.794229,-47.882166
+2448,Ryuji Arai ,1.1,75,Japan,Fashion & Retail ,35.709026,139.731992
+2448,Sara Blakely ,1.1,51,United States,Fashion & Retail ,38.907192,-77.036873
+2448,Lloyd Blankfein ,1.1,67,United States,Finance & Investments ,38.907192,-77.036873
+2448,Henadiy Boholyubov ,1.1,60,Ukraine,diversified   ,50.4501,30.5234
+2448,Caspar Callerström ,1.1,48,Sweden,Finance & Investments ,59.329323,18.068581
+2448,Kejian Cao ,1.1,59,China,Manufacturing ,39.904211,116.407395
+2448,Turgay Ciner ,1.1,66,Turkey,diversified   ,39.933364,32.859742
+2448,Dai Lizhong ,1.1,53,China,Healthcare ,39.904211,116.407395
+2448,Pedro de Godoy Bueno ,1.1,31,Brazil,Healthcare ,-15.794229,-47.882166
+2448,Aydin Dogan ,1.1,85,Turkey,Media & Entertainment ,39.933364,32.859742
+2448,Wolfgang Egger ,1.1,56,Germany,Real Estate ,52.520007,13.404954
+2448,Gabriel Escarrer ,1.1,87,Spain,Service ,40.416775,-3.70379
+2448,Richard Fairbank ,1.1,71,United States,Finance & Investments ,38.907192,-77.036873
+2448,Andy Fang ,1.1,29,United States,Technology ,38.907192,-77.036873
+2448,Benedicte Find ,1.1,64,Denmark,Healthcare ,55.676097,12.568337
+2448,Paul Fireman ,1.1,78,United States,Fashion & Retail ,38.907192,-77.036873
+2448,Donald Friese ,1.1,81,United States,Manufacturing ,38.907192,-77.036873
+2448,Soichiro Fukutake ,1.1,76,Japan,Service ,35.709026,139.731992
+2448,Antonio Gallardo Ballart ,1.1,86,Spain,Healthcare ,40.416775,-3.70379
+2448,David Golub ,1.1,59,United States,Finance & Investments ,38.907192,-77.036873
+2448,Guan Yihong ,1.1,52,China,Food & Beverage ,39.904211,116.407395
+2448,Stelios Haji-Ioannou ,1.1,55,Cyprus,Service ,35.185566,33.382276
+2448,Mustafa Hamied ,1.1,81,India,Healthcare ,28.613939,77.209021
+2448,Han Arming Hanafia ,1.1,64,Indonesia,Technology ,-6.208763,106.845599
+2448,Ronnen Harary ,1.1,50,Canada,Manufacturing ,38.907192,-77.036873
+2448,David Helgason ,1.1,44,Iceland,Technology ,64.126521,-21.817439
+2448,Christian Herz ,1.1,64,Germany,Finance & Investments ,52.520007,13.404954
+2448,Michaela Herz ,1.1,64,Germany,Finance & Investments ,52.520007,13.404954
+2448,Eduardo Hochschild ,1.1,58,Peru,Metals & Mining ,-12.046374,-77.042793
+2448,Hong Seok-joh ,1.1,69,South Korea,Fashion & Retail ,37.566535,126.977969
+2448,Huang Jiangji ,1.1,64,Hong Kong,Technology ,22.396428,114.109497
+2448,Huang Xu ,1.1,54,China,Technology ,39.904211,116.407395
+2448,Subba Rao Jasti ,1.1,95,India,Healthcare ,28.613939,77.209021
+2448,Long Jiang ,1.1,48,China,Technology ,39.904211,116.407395
+2448,Jiang Xuefei   ,1.1,52,China,Technology ,39.904211,116.407395
+2448,Jonas Kamprad ,1.1,56,Sweden,Finance & Investments ,59.329323,18.068581
+2448,Mathias Kamprad ,1.1,52,Sweden,Finance & Investments ,59.329323,18.068581
+2448,Peter Kamprad ,1.1,58,Sweden,Finance & Investments ,59.329323,18.068581
+2448,Andrew Karam ,1.1,40,United States,Media & Entertainment ,38.907192,-77.036873
+2448,Samvel Karapetyan ,1.1,56,Russia,Construction & Engineering ,55.755826,37.6173
+2448,Alexander Karp ,1.1,54,United States,Technology ,38.907192,-77.036873
+2448,Ke Guihua ,1.1,56,China,Manufacturing ,39.904211,116.407395
+2448,Kim Jung-woong ,1.1,47,South Korea,Fashion & Retail ,37.566535,126.977969
+2448,Harry Klagsbrun ,1.1,67,Sweden,Finance & Investments ,59.329323,18.068581
+2448,Alexander Knauf ,1.1,47,Germany,Manufacturing ,52.520007,13.404954
+2448,Martin Knauf ,1.1,64,Germany,Manufacturing ,52.520007,13.404954
+2448,Robert Knauf ,1.1,64,Germany,Manufacturing ,52.520007,13.404954
+2448,Koh Wee Meng ,1.1,58,Singapore,Real Estate ,1.280095,103.850949
+2448,Sergei Kolesnikov ,1.1,50,Russia,Manufacturing ,55.755826,37.6173
+2448,Andrei Komarov ,1.1,55,Russia,Manufacturing ,55.755826,37.6173
+2448,Koo Bon-neung ,1.1,73,South Korea,Manufacturing ,37.566535,126.977969
+2448,Koo Bon-sik ,1.1,63,South Korea,Technology ,37.566535,126.977969
+2448,Suresh Krishna ,1.1,85,India,Automotive ,28.613939,77.209021
+2448,Nancy Lerner ,1.1,61,United States,Finance & Investments ,38.907192,-77.036873
+2448,Norma Lerner ,1.1,86,United States,Finance & Investments ,38.907192,-77.036873
+2448,Randolph Lerner ,1.1,60,United States,Finance & Investments ,38.907192,-77.036873
+2448,Li Shui-po ,1.1,65,Taiwan,Manufacturing ,25.032969,121.565418
+2448,Li Tan ,1.1,57,China,Healthcare ,39.904211,116.407395
+2448,Li Wenmei   ,1.1,59,China,Healthcare ,39.904211,116.407395
+2448,Lim Hariyanto Wijaya Sarwono ,1.1,93,Indonesia,Energy ,-6.208763,106.845599
+2448,Lin Jie   ,1.1,53,China,Healthcare ,39.904211,116.407395
+2448,Liu Chengyu   ,1.1,59,China,Manufacturing ,39.904211,116.407395
+2448,Lou Boliang ,1.1,58,United States,Healthcare ,38.907192,-77.036873
+2448,Lun Ruixiang   ,1.1,54,China,Real Estate ,39.904211,116.407395
+2448,Lv Yongxiang ,1.1,72,China,Manufacturing ,39.904211,116.407395
+2448,Ma Xiuhui ,1.1,51,China,Manufacturing ,39.904211,116.407395
+2448,Yasseen Mansour ,1.1,60,Egypt,diversified   ,30.04442,31.235712
+2448,Jorge Mas ,1.1,59,United States,Construction & Engineering ,38.907192,-77.036873
+2448,Michael McCain ,1.1,64,Canada,Food & Beverage ,38.907192,-77.036873
+2448,Gabriella Meister ,1.1,64,Germany,Manufacturing ,52.520007,13.404954
+2448,Ulrike Meister ,1.1,55,Germany,Manufacturing ,52.520007,13.404954
+2448,Jeffrey Michael   ,1.1,65,United States,Technology ,38.907192,-77.036873
+2448,Soichiro Minami ,1.1,45,Japan,Technology ,35.709026,139.731992
+2448,Bob Muglia ,1.1,62,United States,Technology ,38.907192,-77.036873
+2448,Erik Must ,1.1,79,Norway,Finance & Investments ,59.913869,10.752245
+2448,Kerr Neilson ,1.1,72,Australia,Finance & Investments ,-35.280937,149.130005
+2448,John Oyler ,1.1,54,United States,Healthcare ,38.907192,-77.036873
+2448,Park Hyeon-joo ,1.1,63,South Korea,Finance & Investments ,37.566535,126.977969
+2448,Jose Isaac Peres   ,1.1,81,Brazil,Real Estate ,-15.794229,-47.882166
+2448,Catherine Phillips ,1.1,64,Canada,Finance & Investments ,38.907192,-77.036873
+2448,John Phillips ,1.1,71,Canada,Finance & Investments ,38.907192,-77.036873
+2448,Pu Zhongjie   ,1.1,59,China,Healthcare ,39.904211,116.407395
+2448,Qian Xiaojun ,1.1,47,China,Technology ,39.904211,116.407395
+2448,Anton Rabie ,1.1,50,Canada,Manufacturing ,38.907192,-77.036873
+2448,Igor Rybakov ,1.1,49,Russia,Manufacturing ,55.755826,37.6173
+2448,K. Rai Sahi ,1.1,75,Canada,Real Estate ,38.907192,-77.036873
+2448,"Karl Scheufele, III.   ",1.1,83,Switzerland,Fashion & Retail ,46.947974,7.447447
+2448,Steven Schuurman ,1.1,46,Netherlands,Technology ,52.370216,4.895168
+2448,Shao Zengming ,1.1,64,China,Manufacturing ,39.904211,116.407395
+2448,Analjit Singh ,1.1,68,India,diversified   ,28.613939,77.209021
+2448,Kavita Singhania ,1.1,60,India,Manufacturing ,28.613939,77.209021
+2448,Michael S. Smith ,1.1,66,United States,Energy ,38.907192,-77.036873
+2448,Scott Smith ,1.1,72,United States,Technology ,38.907192,-77.036873
+2448,Ashok Soota ,1.1,79,India,Technology ,28.613939,77.209021
+2448,Michael Spencer ,1.1,66,United Kingdom,Finance & Investments ,51.507351,-0.127758
+2448,Venu Srinivasan ,1.1,69,India,Automotive ,28.613939,77.209021
+2448,Dirk Stroeer ,1.1,53,Germany,Media & Entertainment ,52.520007,13.404954
+2448,Susanto Suwarto ,1.1,66,Indonesia,Media & Entertainment ,-6.208763,106.845599
+2448,Xiuguo Tang ,1.1,58,China,Manufacturing ,39.904211,116.407395
+2448,Mehmet Sinan Tara ,1.1,63,Turkey,Construction & Engineering ,39.933364,32.859742
+2448,Robert Toll ,1.1,81,United States,Real Estate ,38.907192,-77.036873
+2448,Surin Upatkoon ,1.1,72,Thailand,diversified   ,13.756331,100.501765
+2448,Sunil Vachani ,1.1,53,India,Manufacturing ,28.613939,77.209021
+2448,Murat Vargi ,1.1,74,Turkey,Telecom ,39.933364,32.859742
+2448,Pongsak Viddayakorn ,1.1,88,Thailand,Healthcare ,13.756331,100.501765
+2448,Wang Linxiang ,1.1,64,China,Fashion & Retail ,39.904211,116.407395
+2448,Wang Shumin ,1.1,65,China,Manufacturing ,39.904211,116.407395
+2448,Richard Warke ,1.1,64,Canada,Metals & Mining ,38.907192,-77.036873
+2448,Anne Werninghaus ,1.1,36,Brazil,Manufacturing ,-15.794229,-47.882166
+2448,Allan Wong ,1.1,72,Hong Kong,Manufacturing ,22.396428,114.109497
+2448,Chaoqun Wu ,1.1,52,China,Manufacturing ,39.904211,116.407395
+2448,Wu Yonghua ,1.1,51,China,Fashion & Retail ,39.904211,116.407395
+2448,Wu Zhenxing ,1.1,52,China,Food & Beverage ,39.904211,116.407395
+2448,Franziska Wuerbser ,1.1,34,Germany,Manufacturing ,52.520007,13.404954
+2448,Xia Xinde ,1.1,57,China,Manufacturing ,39.904211,116.407395
+2448,Xiong Jun   ,1.1,48,China,Healthcare ,39.904211,116.407395
+2448,Jane Yan   ,1.1,52,China,Technology ,39.904211,116.407395
+2448,Yang Erzhu ,1.1,71,China,Real Estate ,39.904211,116.407395
+2448,Vlad Yatsenko ,1.1,38,Ukraine,Finance & Investments ,50.4501,30.5234
+2448,Yi Xianzhong   ,1.1,62,China,Healthcare ,39.904211,116.407395
+2448,Yoshiaki Yoshida ,1.1,81,Japan,Fashion & Retail ,35.709026,139.731992
+2448,Yu Rong ,1.1,50,China,Healthcare ,39.904211,116.407395
+2448,Igor Yusufov ,1.1,65,Russia,Energy ,55.755826,37.6173
+2448,Zeng Weixiong ,1.1,64,China,Healthcare ,39.904211,116.407395
+2448,Zhang Cheng Fei ,1.1,54,China,Manufacturing ,39.904211,116.407395
+2448,Zhang Fangliang ,1.1,57,China,Healthcare ,39.904211,116.407395
+2448,Baoshen Zhong ,1.1,54,China,Energy ,39.904211,116.407395
+2448,Zhou Minghua ,1.1,58,China,Healthcare ,39.904211,116.407395
+2578,Krishna Kumar Bangur ,1,61,India,Manufacturing ,28.613939,77.209021
+2578,"Wilbur  'Ed' Bosarge, Jr. ",1,82,United States,Finance & Investments ,38.907192,-77.036873
+2578,Johanna Braun ,1,42,Germany,Healthcare ,52.520007,13.404954
+2578,Karl Friedrich Braun ,1,39,Germany,Healthcare ,52.520007,13.404954
+2578,Jean-Pierre Cayard ,1,79,France,Food & Beverage ,48.856614,2.352222
+2578,Tony Chen ,1,72,Taiwan,Technology ,25.032969,121.565418
+2578,Vivien Chen ,1,63,Hong Kong,Real Estate ,22.396428,114.109497
+2578,Chey Ki-won ,1,57,South Korea,Technology ,37.566535,126.977969
+2578,Pollyanna Chu ,1,64,Hong Kong,Finance & Investments ,22.396428,114.109497
+2578,Roy Chi Ping Chung ,1,69,Hong Kong,Manufacturing ,22.396428,114.109497
+2578,Doug Clarke ,1,41,Australia,Technology ,-35.280937,149.130005
+2578,Ronald Clarke ,1,66,United States,Technology ,38.907192,-77.036873
+2578,Jean-Paul Clozel ,1,67,Switzerland,Healthcare ,46.947974,7.447447
+2578,Carl DeSantis ,1,82,United States,Food & Beverage ,38.907192,-77.036873
+2578,Sefik Yilmaz Dizdar ,1,84,Turkey,Fashion & Retail ,39.933364,32.859742
+2578,Charles Dunstone ,1,58,United Kingdom,Telecom ,51.507351,-0.127758
+2578,Larry Fink ,1,69,United States,Finance & Investments ,38.907192,-77.036873
+2578,Fu Gang ,1,51,China,Healthcare ,,
+2578,Jorge Gallardo Ballart ,1,80,Spain,Healthcare ,40.416775,-3.70379
+2578,Nari Genomal ,1,82,Philippines,Fashion & Retail ,14.599512,120.98422
+2578,Ramesh Genomal ,1,71,Philippines,Fashion & Retail ,14.599512,120.98422
+2578,Sunder Genomal ,1,68,Philippines,Fashion & Retail ,14.599512,120.98422
+2578,Horst-Otto Gerberding ,1,69,Germany,Food & Beverage ,52.520007,13.404954
